@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Matthew Souden</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Portfolio +</description>
+	<lastBuildDate>Tue, 20 Jun 2023 22:54:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/06/dog-badge-3.svg</url>
+	<title>Matthew Souden</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PaaS MVP (Platform as a Service Minimally Viable Product)</title>
+		<link>/work/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
+					<comments>/work/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 21:07:28 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">/?p=4987</guid>
+
+					<description><![CDATA[This short contract job in 2022 was a kind of proof-of-concept. I&#8217;m under NDA about it, so no identifying information here &#8211; but there&#8217;s something to be said about WordPress&#8217;s path forward with this project. The project is a service provided via a hosted WP instance on client subdomains. It&#8217;s a pretty common niche market [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This short contract job in 2022 was a kind of proof-of-concept. I&#8217;m under NDA about it, so no identifying information here &#8211; but there&#8217;s something to be said about WordPress&#8217;s path forward with this project.</p>
+
+
+
+<p>The project is a service provided via a hosted WP instance on client subdomains. It&#8217;s a pretty common niche market strategy &#8211; spin up a WordPress install and match clients&#8217; existing branding. I&#8217;ve worked on a couple of other projects like this. It&#8217;s what I think of as &#8220;production&#8221; WordPress work, as the build is onboarding for the service.</p>
+
+
+
+<p>This is  good use for theme frameworks &#8211; where time to launch directly correlates to positive cash flow. Keep the designs lean standardized.</p>
+
+
+
+<p>My mission/contribution/interest was to move this production workflow into the age of the WordPress block editor. I remain convinced that moving this kind of work away from custom page templates and CSS toward (primarily just) pre-made block patterns simplifies and speeds up builds.</p>
+
+
+
+<p>I developed and tested this for a few weeks before turning it back over to the contractor.  I&#8217;m pretty optimistic about this as a path forward. At the time I was testing it, the tools I was using were still in beta and being actively developed, so the job went the more traditional route. I was early, but I&#8217;m convinced- the block editor&#8217;s impact on how things are done in the WordPress world is still unfolding.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/work/platform-as-a-service-minimally-viable-product-paas-mvp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fem Shred</title>
+		<link>/work/bad-theme-fallout/</link>
+					<comments>/work/bad-theme-fallout/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 05:14:53 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">/?p=4976</guid>
+
+					<description><![CDATA[Fem Shred is a mobile-first ecommerce shop specializing in Women&#8217;s activewear with a social mission. They contracted me to fix some responsive design issues, set up WooCommerce and the requisite fulfillment on the back end, and do preflight testing before launch. This job wasn&#8217;t a success, but I&#8217;m adding it to my portfolio anyway because [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Fem Shred is a mobile-first ecommerce shop specializing in Women&#8217;s activewear with a social mission.  They contracted me to fix some responsive design issues, set up WooCommerce and the requisite fulfillment on the back end, and do preflight testing before launch.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/06/FemShred-699x1024.jpeg" alt="" class="wp-image-4977" width="350" height="512" srcset="/wp-content/uploads/2023/06/FemShred-699x1024.jpeg 699w, /wp-content/uploads/2023/06/FemShred-205x300.jpeg 205w, /wp-content/uploads/2023/06/FemShred.jpeg 750w" sizes="(max-width: 350px) 100vw, 350px" /></figure>
+
+
+
+<p>This job wasn&#8217;t a success, but I&#8217;m adding it to my portfolio anyway because the lessons here are important. My mistake was deciding against replacing their existing theme. I flinched at looking like I was trying to &#8216;upsell&#8217; a new theme without knowing it was needed. The client had already bought, installed and customized one from a previous designer. I didn&#8217;t know it by reputation but I&#8217;d been away from WordPress for a bit. It was popular, appropriately priced to have some reasonable expectations, and there was a seemingly active support forum, so I gave it and the designer the benefit of the doubt.</p>
+
+
+
+<p>This was one of those situations though where the legacy product continued to present issues. Unfortunately, poorly built themes that don’t adhere to WordPress dev standard practices and don’t perform well are common, and this was one.</p>
+
+
+
+<p>The lesson (re)learned for me here is I will (continue to) avoid working on themes of unknown origin when possible or at all involved. I was able to manage client expectations and salvage the relationship, but between theme issues, a web host that sure seemed like they were playing cacheing games as motivation for &#8220;premium support&#8221; sales, and the array of bait-and-switch upsells by WooCommerce vendors on the fulfillment end, the client decided to move to the Weebly platform. I can&#8217;t say I blame her, either.</p>
+
+
+
+<p>It does make me wonder how common this story is &#8211; a niche site owner gets fed up with the incremental monetization parts of the WordPress business. I know all the arguments against this criticism, and I agree; I&#8217;ve been the WordPress developer that struggles to make a living.</p>
+
+
+
+<p>Maybe the real lesson is there just is no one-size-fits-all, no matter what that theme shop is trying to sell.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/work/bad-theme-fallout/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Small Contract Job</title>
+		<link>/work/contract-work/</link>
+					<comments>/work/contract-work/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 00:35:46 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">/?p=4939</guid>
+
+					<description><![CDATA[I a steady stream of this kind of quick work would be amazing: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I a steady stream of this kind of quick work would be amazing:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="730" src="/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png" alt="" class="wp-image-4970" srcset="/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png 1024w, /wp-content/uploads/2023/06/cw-genesis-script-loading-300x214.png 300w, /wp-content/uploads/2023/06/cw-genesis-script-loading-768x548.png 768w, /wp-content/uploads/2023/06/cw-genesis-script-loading.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way of handling JavaScript) was interfering with loading. All I did was know where and how how WordPress themes &amp; specifically Genesis loads scripts, and added this to the child them for proper loading. </p>
+
+
+
+<p>The client had the script ready to go, and they even helped wrap up the job. Perfect quick job and super professional, communicative, and educating client. I did this through a third party with rules around disclosure, so no identifying client info on this one.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/work/contract-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Re: Trading</title>
+		<link>/et-cetera/yes-i-traded-for-a-while/</link>
+					<comments>/et-cetera/yes-i-traded-for-a-while/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 07:49:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">/?p=4880</guid>
+
+					<description><![CDATA[During the pandemic, I, too did a little trading. Only in the most conservative beginner way (no leverage, no futures). I&#8217;ve also since mostly moved away from it, but I spent some time learning a few things rooting around in the morass of grifters, thieves, cons, and vaporcoins. I didn&#8217;t go broke, so here are [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="784" src="/wp-content/uploads/2023/05/icp-1024x784.png" alt="" class="wp-image-4883" srcset="/wp-content/uploads/2023/05/icp-1024x784.png 1024w, /wp-content/uploads/2023/05/icp-300x230.png 300w, /wp-content/uploads/2023/05/icp-768x588.png 768w, /wp-content/uploads/2023/05/icp.png 1065w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>During the pandemic, I, too did a little trading. Only in the most conservative beginner way (no leverage, no futures). I&#8217;ve also since mostly moved away from it, but I spent some time learning a few things rooting around in the morass of grifters, thieves, cons, and vaporcoins. I didn&#8217;t go broke, so here are a few takeaways:</p>
+
+
+
+<p>Actual day trading wasn&#8217;t it for me. I like being a buy-and-hold-trader. In part because I&#8217;m cheap, so in order to feel comfortable buying something, the amount diligence I needed put a cap on the amount of trading I can do. I may lack the risk gene to make it big on Wall Street. </p>
+
+
+
+<p>That said, <a href="https://www.warriortrading.com/" data-type="URL" data-id="https://www.warriortrading.com/">WarriorTrading</a> is a good company/guy worth watching for learning actual, real day trading. I considered taking his course.</p>
+
+
+
+<p>After trying other platforms I ended up just settling back into using RobinHood for &#8220;traditional&#8221; swing / buy-and-hold / longer-term stuff. It&#8217;s just so easy. I treated crypto more like day trading though and did it on a crypto exchange. Crypto exchanges are not to be trusted, so saying which one I used is pointless &#8211; as far as I&#8217;m concerned they&#8217;re all unstable and untrustworthy. Put money in, trade, and get out. If you want to hold crypto, listen to everybody telling you to use a wallet.</p>
+
+
+
+<p><a rel="noreferrer noopener" href="http://tradingview.com/" data-type="URL" data-id="http://tradingview.com/" target="_blank">TradingView.com</a> is where you can learn how to use charts and some pro-grade tools for free. There are a ton of tools and indicators. I had a friend recommend CM Super Guppy and Cuban&#8217;s Reversion Bands &#8211; these are the two I like and settled on mostly. There&#8217;s also a &#8216;social component&#8217; to TV I never used, but the idea is interesting. </p>
+
+
+
+<p>The basics of financial trend analysis can be applied to crypto because that&#8217;s what everyone else is doing, so it&#8217;s possible to ride this bandwagon- but there&#8217;s a hard stop to applying anything but rudimentary analysis to crypto &#8211; because it&#8217;s crypto. The <a rel="noreferrer noopener" href="https://www.youtube.com/@TomCrown" data-type="URL" data-id="https://www.youtube.com/@TomCrown" target="_blank">youtuber Tom Crown</a> does a good job of teaching this and more importantly staying firm on the limits. His discord was also good as of Q1 2021.</p>
+
+
+
+<p>Crypto twitter and discord are kind of surprisingly good tools for learning, but go slowly and build up awareness. Scammers are everywhere, and they are constantly growing in sophistication. Learn how to spot them immediately before doing anything. Lurking for a while on discord servers allowed me time to suss out who to pay attention to.</p>
+
+
+
+<p>I made an alt identity to trade crypto with because that&#8217;s what I&#8217;d seen others do. I&#8217;d recommend this mostly for security reasons but I also found I enjoyed the freedom it gave me. This could also be a reason why crypto bros are so obnoxious.</p>
+
+
+
+<p>Three Crypto YouTubers I like:<br>&#8211; for trading- <a rel="noreferrer noopener" href="https://www.youtube.com/@TomCrown" data-type="URL" data-id="https://www.youtube.com/@TomCrown" target="_blank">Tom Crown</a>, and <a rel="noreferrer noopener" href="https://www.youtube.com/@CryptoWendyO" target="_blank">Crypto WendyO</a>, and <br>&#8211; for Crypto education- the <a rel="noreferrer noopener" href="https://www.youtube.com/@CoinBureau" data-type="URL" data-id="https://www.youtube.com/@CoinBureau" target="_blank">Coin Bureau</a> can be a bit of a libertarian wingnut, but he has a lot of depth to his expertise.</p>
+
+
+
+<p>Let&#8217;s see, other opinions&#8230;</p>
+
+
+
+<p>I have yet to see the application that will make the &#8220;metaverse&#8221; cross the chasm to mass adoption.</p>
+
+
+
+<p>Defi is a whole other post. I will say the internet computer project is a crazy concept and I remain skeptical. At one point I realized that defi basics could be explained as being a bit like escrow- with the blockchain as the third party, everybody can watch what comes and goes, and it&#8217;s programmable.</p>
+
+
+
+<p>That&#8217;s about all the primer I can offer. I never staked enough to speak to it, I only got one air drop, and there&#8217;s so much more that I could stand to learn&#8230; but there&#8217;s the summary of my spring 2021 toe-dip into trading and crypto.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/et-cetera/yes-i-traded-for-a-while/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI Images</title>
+		<link>/et-cetera/ai-images/</link>
+					<comments>/et-cetera/ai-images/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2022 19:19:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">/?p=4888</guid>
+
+					<description><![CDATA[This is a gallery of images made by Dall-E 2 from prompts my daughter and I made. I picked the favorites.]]></description>
+										<content:encoded><![CDATA[
+<p>This is a gallery of images made by Dall-E 2 from prompts my daughter and I made. I picked the favorites.</p>
+
+
+<div class="pgc-sgb-cb wp-block-pgcsimplygalleryblock-masonry " data-gallery-id="ca514890"><div class="sgb-preloader" id="pr_ca514890">
+	<div class="sgb-square" style="background:#d4d4d4"></div>
+	<div class="sgb-square" style="background:#d4d4d4"></div>
+	<div class="sgb-square" style="background:#d4d4d4"></div>
+	<div class="sgb-square" style="background:#d4d4d4"></div></div><div class="simply-gallery-amp pgc_sgb_slider " style="display: none;"><div class="sgb-gallery"><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/fapf6rtxwaef2if/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-300x117.jpg" srcset="/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-300x117.jpg 300w,/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-1024x398.jpg 1024w,/wp-content/uploads/2023/05/FaPF6rtXwAEf2if.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/fapf8_twaaafvwv/" target="_blank"><img decoding="async" alt="" width="300" height="136" loading="lazy" src="/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-300x136.jpg" srcset="/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-300x136.jpg 300w,/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-1024x463.jpg 1024w,/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV.jpg 1387w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/fapf_m5waaq4rg/" target="_blank"><img decoding="async" alt="" width="300" height="136" loading="lazy" src="/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG--300x136.jpg" srcset="/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG--300x136.jpg 300w,/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG--1024x463.jpg 1024w,/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG-.jpg 1387w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-16-16-42-24-alien-exploration-vehicle/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-300x300.png" srcset="/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-300x300.png 300w,/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/fapfqluxkaaspad/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="/wp-content/uploads/2023/05/FaPFQLuXkAASPad-300x117.jpg" srcset="/wp-content/uploads/2023/05/FaPFQLuXkAASPad-300x117.jpg 300w,/wp-content/uploads/2023/05/FaPFQLuXkAASPad-1024x398.jpg 1024w,/wp-content/uploads/2023/05/FaPFQLuXkAASPad.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/steampunk-pup/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="/wp-content/uploads/2023/05/steampunk-pup-300x300.png" srcset="/wp-content/uploads/2023/05/steampunk-pup-300x300.png 300w,/wp-content/uploads/2023/05/steampunk-pup.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-54-04-a-cybernetic-labrador-retriever-sitting-on-a-balcony-that-overlooks-a-large-alien-city-at-sunrise-digital-art/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-300x300.png" srcset="/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-300x300.png 300w,/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-48-45/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-300x300.png" srcset="/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-300x300.png 300w,/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/sacred-pangolin/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="/wp-content/uploads/2023/05/sacred-pangolin-300x300.png" srcset="/wp-content/uploads/2023/05/sacred-pangolin-300x300.png 300w,/wp-content/uploads/2023/05/sacred-pangolin.png 744w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/faoyib-xgaar0gr/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-300x117.jpg" srcset="/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-300x117.jpg 300w,/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-1024x398.jpg 1024w,/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/screen-shot-2023-05-16-at-3-18-59-pm/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-300x300.png" srcset="/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-300x300.png 300w,/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM.png 677w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/fapfjxpxoamdhnd/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-300x117.jpg" srcset="/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-300x117.jpg 300w,/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-1024x398.jpg 1024w,/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="/et-cetera/ai-images/attachment/fapgbpiwyais2zd/" target="_blank"><img decoding="async" alt="" width="300" height="136" loading="lazy" src="/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-300x136.jpg" srcset="/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-300x136.jpg 300w,/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-1024x463.jpg 1024w,/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd.jpg 1387w" sizes="250px"/></a></div></div></div><script type="application/json" class="sgb-data">{"galleryType":"pgc_sgb_masonry","galleryId":"ca514890","images":[{"id":4904,"title":"FaPF6rtXwAEf2if","url":"/wp-content/uploads/2023/05/FaPF6rtXwAEf2if.jpg","link":"/et-cetera/ai-images/attachment/fapf6rtxwaef2if/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-1024x398.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaPF6rtXwAEf2if.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/fapf6rtxwaef2if/"},{"id":4903,"title":"FaPF8_tWAAAfvwV","url":"/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV.jpg","link":"/et-cetera/ai-images/attachment/fapf8_twaaafvwv/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1387,"height":627,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-150x150.jpg","orientation":"landscape"},"medium":{"height":136,"width":300,"url":"/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-300x136.jpg","orientation":"landscape"},"large":{"height":463,"width":1024,"url":"/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-1024x463.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV.jpg","height":627,"width":1387,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/fapf8_twaaafvwv/"},{"id":4902,"title":"FaPF_M5WAAQ4RG-","url":"/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG-.jpg","link":"/et-cetera/ai-images/attachment/fapf_m5waaq4rg/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1387,"height":627,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG\u002d\u002d150x150.jpg","orientation":"landscape"},"medium":{"height":136,"width":300,"url":"/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG\u002d\u002d300x136.jpg","orientation":"landscape"},"large":{"height":463,"width":1024,"url":"/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG\u002d\u002d1024x463.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG-.jpg","height":627,"width":1387,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/fapf_m5waaq4rg/"},{"id":4897,"title":"DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle","url":"/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle.png","link":"/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-16-16-42-24-alien-exploration-vehicle/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-300x300.png","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-16-16-42-24-alien-exploration-vehicle/"},{"id":4896,"title":"FaPFQLuXkAASPad","url":"/wp-content/uploads/2023/05/FaPFQLuXkAASPad.jpg","link":"/et-cetera/ai-images/attachment/fapfqluxkaaspad/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaPFQLuXkAASPad-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"/wp-content/uploads/2023/05/FaPFQLuXkAASPad-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"/wp-content/uploads/2023/05/FaPFQLuXkAASPad-1024x398.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaPFQLuXkAASPad.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/fapfqluxkaaspad/"},{"id":4895,"title":"steampunk-pup","url":"/wp-content/uploads/2023/05/steampunk-pup.png","link":"/et-cetera/ai-images/attachment/steampunk-pup/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/steampunk-pup-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"/wp-content/uploads/2023/05/steampunk-pup-300x300.png","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/steampunk-pup.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/steampunk-pup/"},{"id":4894,"title":"DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art","url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art.png","link":"/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-54-04-a-cybernetic-labrador-retriever-sitting-on-a-balcony-that-overlooks-a-large-alien-city-at-sunrise-digital-art/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-300x300.png","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-54-04-a-cybernetic-labrador-retriever-sitting-on-a-balcony-that-overlooks-a-large-alien-city-at-sunrise-digital-art/"},{"id":4893,"title":"DALL·E-2023-05-24-21.48.45","url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45.png","link":"/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-48-45/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-300x300.png","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-48-45/"},{"id":4892,"title":"sacred-pangolin","url":"/wp-content/uploads/2023/05/sacred-pangolin.png","link":"/et-cetera/ai-images/attachment/sacred-pangolin/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":744,"height":743,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/sacred-pangolin-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"/wp-content/uploads/2023/05/sacred-pangolin-300x300.png","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/sacred-pangolin.png","height":743,"width":744,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/sacred-pangolin/"},{"id":4891,"title":"FaOyIb-XgAAR0gR","url":"/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR.jpg","link":"/et-cetera/ai-images/attachment/faoyib-xgaar0gr/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-1024x398.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/faoyib-xgaar0gr/"},{"id":4889,"title":"Screen-Shot-2023-05-16-at-3.18.59-PM","url":"/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM.png","link":"/et-cetera/ai-images/attachment/screen-shot-2023-05-16-at-3-18-59-pm/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":677,"height":678,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-300x300.png","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM.png","height":678,"width":677,"orientation":"portrait"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/screen-shot-2023-05-16-at-3-18-59-pm/"},{"id":4898,"title":"FaPFjxpXoAMdhnD","url":"/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD.jpg","link":"/et-cetera/ai-images/attachment/fapfjxpxoamdhnd/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-1024x398.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/fapfjxpxoamdhnd/"},{"id":4901,"title":"FaPGBPiWYAIs2Zd","url":"/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd.jpg","link":"/et-cetera/ai-images/attachment/fapgbpiwyais2zd/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1387,"height":627,"sizes":{"thumbnail":{"height":150,"width":150,"url":"/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-150x150.jpg","orientation":"landscape"},"medium":{"height":136,"width":300,"url":"/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-300x136.jpg","orientation":"landscape"},"large":{"height":463,"width":1024,"url":"/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-1024x463.jpg","orientation":"landscape"},"full":{"url":"/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd.jpg","height":627,"width":1387,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"/et-cetera/ai-images/attachment/fapgbpiwyais2zd/"}],"itemsMetaDataCollection":[]}</script><script>(function(){if(window.PGC_SGB && window.PGC_SGB.searcher){window.PGC_SGB.searcher.initBlocks()}})()</script></div>]]></content:encoded>
+					
+					<wfw:commentRss>/et-cetera/ai-images/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SaaS, PaaS, and IaaS</title>
+		<link>/scraps/saas-paas-and-iaas/</link>
+					<comments>/scraps/saas-paas-and-iaas/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 18:44:27 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">/?p=4995</guid>
+
+					<description><![CDATA[from Wikipedia: https://en.wikipedia.org/wiki/Platform_as_a_service#Types PaaS is derived from software as a service (SaaS), and is situated in cloud computing between SaaS and infrastructure as a service (IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://en.wikipedia.org/wiki/Platform_as_a_service#Types" data-type="URL" data-id="https://en.wikipedia.org/wiki/Platform_as_a_service#Types" target="_blank" rel="noreferrer noopener">from Wikipedia: https://en.wikipedia.org/wiki/Platform_as_a_service#Types</a></p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>PaaS is derived from <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank" rel="noreferrer noopener">software</a><a href="https://en.wikipedia.org/wiki/Software_as_a_service"> as a service</a> (SaaS), and is situated in cloud computing between SaaS and <a href="https://en.wikipedia.org/wiki/Infrastructure_as_a_service" target="_blank" rel="noreferrer noopener">infrastructure as a service</a> (IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, the user still has to manage the server, whereas with PaaS the server management is done by the provider.</p>
+
+
+
+<p>A private PaaS can typically be downloaded and installed either in a company&#8217;s on-premises <a href="https://en.wikipedia.org/wiki/Data_center" target="_blank" rel="noreferrer noopener">data center</a>, or in a public cloud. Once the software is installed on one or more machines, the private PaaS arranges the application and database components into a single hosting platform.</p>
+</blockquote>
+
+
+
+<p>So, Youtube: Saas . WPEngine: PaaS, and AWS: IaaS</p>
+
+
+
+<p>Those are the basics &#8211; head over to the link if you want to read about mPaaS, CPaaS, Open PaaS, NaaS, and MBaaS.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/scraps/saas-paas-and-iaas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bookmark Dump</title>
+		<link>/scraps/bookmark-dump/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 13:25:00 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">https://msouden.wordpress.com/?p=4603</guid>
+
+					<description><![CDATA[Cleaning up, and thought I&#8217;ll just throw these here. Likely has dead links. Definitely slightly embarrassing. Online shops Automated Tax Compliance Software &#8211; Avalara&#160; Hype LottieFiles &#8211; Free animation files build for Lottie, Bodymovin&#160; HypeDocks » Resources&#160; Monthly topics &#8211; Tumult Forums&#160; design 1944mustang color theme by nathaniel &#8211; Adobe Color CC&#160; Color Trends + [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Cleaning up, and thought I&#8217;ll just throw these here. Likely has dead links. Definitely slightly embarrassing.</p>
+
+
+
+<h3 class="wp-block-heading" id="online-shops"><strong>Online shops</strong></h3>
+
+
+
+<p><a href="https://www.avalara.com/us/en/index.html">Automated Tax Compliance Software &#8211; Avalara</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="hype"><strong>Hype</strong></h3>
+
+
+
+<p><a href="https://www.lottiefiles.com/">LottieFiles &#8211; Free animation files build for Lottie, Bodymovin</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.hypedocks.com/resources/">HypeDocks » Resources</a>&nbsp;</p>
+
+
+
+<p><a href="https://forums.tumult.com/top/monthly">Monthly topics &#8211; Tumult Forums</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="design"><strong>design</strong></h3>
+
+
+
+<p><a href="https://color.adobe.com/1944mustang-color-theme-4817/">1944mustang color theme by nathaniel &#8211; Adobe Color CC</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.colourlovers.com/">Color Trends + Palettes :: COLOURlovers</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="viz"><strong>viz</strong></h3>
+
+
+
+<p><a href="http://www.datavizcatalogue.com/">The Data Visualisation Catalogue</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.datavizcatalogue.com/methods/bar_chart.html#.VmhZXRorIo_">Bar Chart</a>&nbsp;</p>
+
+
+
+<p><a href="https://datawrapper.de/chart/wpVY2/describe">Datawrapper :: wpVY2 :: Check &amp; Describe</a>&nbsp;</p>
+
+
+
+<p><a href="https://datahero.com/resource/data-dashboard/">The ultimate cloud bi data dashboard. Insights in 1 click.</a>&nbsp;</p>
+
+
+
+<p><a href="https://datawrapper.de/chart/wpVY2/describe">Datawrapper :: wpVY2 :: Check &amp; Describe</a>&nbsp;</p>
+
+
+
+<p><a href="http://tableaupicasso.com/">Tableau Picasso » Blog</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.clearlyandsimply.com/clearly_and_simply/2015/03/word-clouds-with-tableau.html">Word Clouds with Tableau &#8211; Clearly and Simply</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.evolytics.com/five-things-i-wish-i-knew-the-first-day-i-used-tableau/">Five Things I Wish I Knew the First Day I Used Tableau</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.upwork.com/o/profiles/users/_~019da9da0fa0057b14/">Jim Wahl &#8211; Tableau &#8211; R &#8211; Python &#8211; Upwork Freelancer from Boston, United States</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html">A Map of Every Building in America &#8211; The New York Times</a>&nbsp;</p>
+
+
+
+<p><a href="https://jobs.lever.co/dribbble">Dribbble</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="juypter"><strong>Juypter</strong></h3>
+
+
+
+<p><a href="http://jupyter.org/">Project Jupyter | Home</a>&nbsp;</p>
+
+
+
+<p><a href="https://simonwillison.net/tags/jupyter/">Simon Willison on jupyter</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter Notebook for Beginners: A Tutorial</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="css"><strong>CSS</strong></h3>
+
+
+
+<p><a href="https://color.adobe.com/create/color-wheel/">Color wheel | Color schemes &#8211; Adobe Color CC</a>&nbsp;</p>
+
+
+
+<p><a href="http://css-tricks.com/examples/ButtonMaker/#">Button Maker</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.colorzilla.com/gradient-editor/">Ultimate CSS Gradient Generator &#8211; ColorZilla.com</a>&nbsp;</p>
+
+
+
+<p><a href="http://css3generator.com/">CSS3 Generator</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.patternify.com/">Patternify | A CSS Pattern Generator</a>&nbsp;</p>
+
+
+
+<p><a href="https://codepen.io/blazeeboy/pen/bCaLE">Any Image To CSS</a>&nbsp;</p>
+
+
+
+<p><a href="http://regretless.com/scripts/background.php">Background CSS Generator</a>&nbsp;</p>
+
+
+
+<p><a href="http://mudcu.be/bg/">ZenBG—Background Generator</a>&nbsp;</p>
+
+
+
+<p><a href="http://expressprefixr.herokuapp.com/">Express Prefixr</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.prowebdesign.ro/wordpress-sub-menu-items-split-in-2-columns-the-easy-way/">WordPress sub-menu items split in 2 columns. The easy way.</a>&nbsp;</p>
+
+
+
+<p><a href="https://css-tricks.com/long-dropdowns-solution/">Solution For Very Long Dropdown Menus | CSS-Tricks</a>&nbsp;</p>
+
+
+
+<p><a href="http://code.tutsplus.com/tutorials/understanding-the-walker-class--wp-25401">Understanding the Walker Class &#8211; Tuts+ Code Tutorial</a>&nbsp;</p>
+
+
+
+<p><a href="http://mrcoles.com/blog/css-unminify/">Online CSS Unminifier &#8211; Peter Coles</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="regex"><strong>Regex</strong></h3>
+
+
+
+<p><a href="http://www.boost.org/doc/libs/1_44_0/libs/regex/doc/html/boost_regex/format/perl_format.html">Perl Format String Syntax &#8211; 1.44.0</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="linux"><strong>Linux</strong></h3>
+
+
+
+<p><a href="http://www.grymoire.com/Unix/Sed.html#uh-0">Sed &#8211; An Introduction and Tutorial</a>&nbsp;</p>
+
+
+
+<p><a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?sed">UNIX man pages : sed ()</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="sublime-text"><strong>Sublime Text</strong></h3>
+
+
+
+<p><a href="https://packagecontrol.io/">Package Control &#8211; the Sublime Text package manager</a>&nbsp;</p>
+
+
+
+<p><a href="http://sublimelinter.readthedocs.org/en/latest/installation.html">Installation — SublimeLinter 3.4.24 documentation</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="lan"><strong>LAN</strong></h3>
+
+
+
+<p><a href="http://www.computerworld.com/article/2471173/network-hardware-solutions/understanding-the-osi-model.html">Understanding the OSI Model | Computerworld</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="wordpress-plugin"><strong>WordPress Plugin</strong></h3>
+
+
+
+<p><a href="http://www.wpbeginner.com/plugins/how-to-preserve-the-editor-scroll-position-in-wordpress/?utm_content=buffere5262&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">Preserve the Editor Scroll Position</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.wordfence.com/?utm_source=supportSite&amp;utm_medium=web&amp;utm_campaign=supportSiteLogo">WordPress Security Plugin | Wordfence</a>&nbsp;</p>
+
+
+
+<p><a href="http://plugins.svn.wordpress.org/">&#8211; Revision 1432591: /</a>&nbsp;</p>
+
+
+
+<p><a href="https://wordpress.org/about/stats/">About » Statistics — WordPress</a>&nbsp;</p>
+
+
+
+<p><a href="http://codex.wordpress.org/">Main Page « WordPress Codex</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="3rd-party"><strong>3rd-party</strong></h3>
+
+
+
+<p><a href="https://clarity.fm/curtismchale">Curtis McHale &#8211; Business Efficiency &amp; Pricing Yourself Right Expert — Clarity</a>&nbsp;</p>
+
+
+
+<p><a href="https://gist.github.com/rickrduncan">rickrduncan’s gists</a>&nbsp;</p>
+
+
+
+<p><a href="http://wpsites.net/web-design/adding-dashicons-in-wordpress/">Adding Dashicons in WordPress</a>&nbsp;</p>
+
+
+
+<p><a href="https://hellofromtonya.com/">Hello from Tonya | Technology leader, engineer, author, and educator.</a>&nbsp;</p>
+
+
+
+<p><a href="http://rickrduncan.com/wordpress/rename-a-genesis-child-theme">Rename a Genesis Child Theme in 3 Steps | RickRDuncan.com</a>&nbsp;</p>
+
+
+
+<p><a href="https://tommcfarlin.com/give-proper-gpl-attribution/">How Do You Give Proper GPL Attribution? | Tom McFarlin</a>&nbsp;</p>
+
+
+
+<p><a href="https://sitecheck.sucuri.net//">Sucuri SiteCheck &#8211; Free Website Malware Scanner</a>&nbsp;</p>
+
+
+
+<p><a href="https://dailybolt.com/">The Daily Bolt &#8211; A curated daily list of Genesis and WordPress articles</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.nutsandboltsmedia.com/things-you-should-know-before-you-purchase-the-genesis-framework/">Things You Should Know Before You Purchase Genesis</a>&nbsp;</p>
+
+
+
+<p><a href="https://i.imgur.com/SqQQE.png">WP core load diagram</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="openrefine"><strong>OpenRefine</strong></h3>
+
+
+
+<p><a href="http://stackoverflow.com/tags/openrefine/hot">Hottest &#8216;openrefine&#8217; Answers &#8211; Stack Overflow</a>&nbsp;</p>
+
+
+
+<p><a href="https://github.com/OpenRefine/OpenRefine/wiki/Recipes">Recipes · OpenRefine/OpenRefine Wiki</a>&nbsp;</p>
+
+
+
+<p><a href="http://blog.intelligencecomputing.io/analytics-bi/11130/repost-openrefine-documentation-for-users">[repost ]OpenRefine Documentation For Users | Intelligence Computing</a>&nbsp;</p>
+
+
+
+<p><a href="http://kb.refinepro.com/">RefinePro Knowledge Base for OpenRefine</a>&nbsp;</p>
+
+
+
+<p><a href="https://blog.ouseful.info/tag/google-refine/">Google Refine | OUseful.Info, the blog&#8230;</a>&nbsp;</p>
+
+
+
+<p><a href="https://github.com/OpenRefine/OpenRefine/wiki/Faceting">Faceting · OpenRefine/OpenRefine Wiki</a>&nbsp;</p>
+
+
+
+<p><a href="https://openlibraryenvironment.atlassian.net/wiki/display/OLE/Comparing+Two+Sets+of+Data+in+OpenRefine">Comparing Two Sets of Data in OpenRefine &#8211; Kuali OLE &#8211; Confluence</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="data-science-toolbox"><strong>Data Science Toolbox</strong></h3>
+
+
+
+<p><a href="http://swirlstats.com/">swirl: Learn R, in R.</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.dataschool.io/git-quick-reference-for-beginners/">Git quick reference for beginners</a>&nbsp;</p>
+
+
+
+<p><a href="https://leanpub.com/shopping_cart/0VLB9BUUc8M6aqeDi7XW2Q">Shopping Cart</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="walker-boyle-s-scraping-101"><strong>Walker Boyle&#8217;s scraping 101</strong></h3>
+
+
+
+<p><a href="https://github.com/kennethreitz/requests">kennethreitz/requests</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup- python scraping</a>&nbsp;</p>
+
+
+
+<p><a href="https://github.com/walkerdb/dsc_workshops/blob/master/web_scraping/readme.md">dsc_workshops/readme.md at master · walkerdb/dsc_workshops</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="mac-s-numbers-reference"><strong>Mac’s Numbers Reference</strong></h3>
+
+
+
+<p><a href="https://discussions.apple.com/message/12055697#12055697">Formula for conditional font color | Apple Support Communities</a>&nbsp;</p>
+
+
+
+<p><strong>Data Science &amp; Scraping</strong></p>
+
+
+
+<p><a href="https://github.com/DOE-NEPA">US Department of Energy &#8211; NEPAnode Project</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.transportation.gov/data">Data Inventory | Department of Transportation</a>&nbsp;</p>
+
+
+
+<p><a href="https://metacpan.org/about">MetaCPAN About &#8211; metacpan.org</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.dataschool.io/">Data School</a>&nbsp;</p>
+
+
+
+<p><a href="http://datasciencespecialization.github.io/?utm_medium=email&amp;utm_source=other&amp;utm_campaign=notifications.auto.5spTAzuwEeWlfiIAC9zB5Q">Data Science Specialization</a>&nbsp;</p>
+
+
+
+<p><a href="http://redis.io/">Redis</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.slideshare.net/ttavenner/scraping-data-from-the-web-and-documents">Scraping data from the web and documents</a>&nbsp;</p>
+
+
+
+<p><a href="http://search.cpan.org/~miyagawa/Web-Scraper-0.38/lib/Web/Scraper.pm">Web::Scraper &#8211; search.cpan.org</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.digitalgov.gov/2015/12/02/the-data-briefing-the-open-government-data-revolution-is-just-getting-started/?utm_medium=email&amp;utm_source=govdelivery">The Data Briefing: The Open Government Data Revolution Is Just Getting Started</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.sitepoint.com/premium/courses/introduction-to-google-maps-api-2895">Introduction to Google Maps API &#8211; SitePoint</a>&nbsp;</p>
+
+
+
+<p><a href="http://www.thecaucus.net/#/content/my_digest">Caucus</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="d3-js"><strong>d3.js</strong></h3>
+
+
+
+<p><a href="https://www.reddit.com/r/dataisbeautiful/comments/3k3if4/hi_im_mike_bostock_creator_of_d3js_and_a_former/">Hi! I’m Mike Bostock, creator of D3.js and a former graphics editor for The New York Times. I do data visualization, design and open source. AMA! : dataisbeautiful</a>&nbsp;</p>
+
+
+
+<p><a href="http://alignedleft.com/tutorials/d3/about">About these tutorials — Scott Murray — alignedleft</a>&nbsp;</p>
+
+
+
+<p><a href="http://alignedleft.com/tutorials/d3/">D3 — Scott Murray — alignedleft</a>&nbsp;</p>
+
+
+
+<p><a href="http://alignedleft.com/projects/2014/easy-as-pi/">ease()-y as Math.PI</a>&nbsp;</p>
+
+
+
+<p><a href="http://journalismcourses.org/D3.html">Data Visualization and Infographics with D3.js &#8211; Knight Center JournalismCourses.org</a>&nbsp;</p>
+
+
+
+<p><a href="http://alignedleft.com/tutorials/d3/about">About these tutorials — Scott Murray — alignedleft</a>&nbsp;</p>
+
+
+
+<p><a href="http://bl.ocks.org/mbostock/3808218">General Update Pattern, I</a>&nbsp;</p>
+
+
+
+<p><a href="http://chimera.labs.oreilly.com/books/1230000000345">Interactive Data Visualization for the Web</a>&nbsp;</p>
+
+
+
+<p><a href="http://bost.ocks.org/mike/selection/">How Selections Work</a>&nbsp;</p>
+
+
+
+<p><a href="https://vimeo.com/user4640702/videos">Ian Johnson’s Videos on Vimeo</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=8jvoTV54nXw">Introduction to D3 &#8211; YouTube</a>&nbsp;</p>
+
+
+
+<p><a href="http://examples.oreilly.com/0636920026938/">Index of /0636920026938</a>&nbsp;</p>
+
+
+
+<p><a href="http://gohugo.io/">fastest framework web</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.percona.com/software/database-tools/percona-monitoring-plugins">MySQL Monitoring Tools and Plugins by Percona</a>&nbsp;</p>
+
+
+
+<p><a href="http://thephpleague.com/">The League of Extraordinary Packages</a>&nbsp;</p>
+
+
+
+<p>https://csdt.rpi.edu/demos/11</p>
+
+
+
+<p><a href="https://www.infoworld.com/article/3215149/how-to-move-into-a-cloud-career-from-traditional-it.html">cloud computing article</a>&nbsp;</p>
+
+
+
+<p>MacOS</p>
+
+
+
+<p><a href="https://www.danrodney.com/mac/">Keyboard Shortcuts</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="data-science"><strong>Data Science</strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/c/joshstarmer">(16) StatQuest with Josh Starmer &#8211; YouTube</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.kaggle.com/">Kaggle: Your Machine Learning and Data Science Community</a>&nbsp;</p>
+
+
+
+<p><a href="https://benjaminbellman.github.io/#">Benjamin Bellman</a>&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="python"><strong>Python</strong></h3>
+
+
+
+<p><a href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp">GitHub &#8211; Pierian-Data/Complete-Python-3-Bootcamp: Course Files for Complete Python 3 Bootcamp Course on Udemy</a>&nbsp;</p>
+
+
+
+<p><a href="https://www.udemy.com/join/login-popup/?next=/course/complete-python-bootcamp/learn/lecture/9388522#overview">Online Courses &#8211; Anytime, Anywhere | Udemy</a>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Excel Macro Land</title>
+		<link>/work/excel-macro-land/</link>
+					<comments>/work/excel-macro-land/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 15:53:00 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">https://msouden.com/?p=4692</guid>
+
+					<description><![CDATA[I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;. I made a series [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;.</p>
+
+
+
+<p>I made a series of macros that processed varying kinds of text files received (usually) weekly from clients. The output was used by staff to verify active eligibility of benefits for members. The macros removed extraneous data, sorted, surfaced, and in some cases highlighted criteria for differing levels of benefit coverage, then output a formatted spreadsheet to the company shared filespace.</p>
+
+
+
+<p>I got it done, but I&#8217;d had never worked in VBA before (or since). Done properly, this would have been a pretty straightforward series of scripts. Instead, it got accomplished to a large extent using Excel&#8217;s recording tool (for roughly 70% of the code generated), and then (30%) cleaned up and enhanced with VBA I wrote (for file loading, some formatting, and smoothing out some of the recorded actions).</p>
+
+
+
+<p>Recording the macro actions did provide an unintended benefit though. When ran, team members watched a rapid-fire visual of the macro at work, which was impressive to the staff and got me some kudos as it &#8220;looked like magic&#8221;. </p>
+
+
+
+<p>Putting on my user interface hat for a minute, this is a pretty good example of when user interface becomes more important than efficiency. The team valued and used the macros in part because it was fun to watch it run. It&#8217;s entirely plausible that were the script just a black box of &#8220;put the file here&#8221; there would have been some adoption resistance from a few staff. Had this project been before I taught Information Design, it would have definitely made it into the lecture.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/work/excel-macro-land/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
