@@ -12,7 +12,7 @@
 	<atom:link href="/category/work/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Portfolio +</description>
-	<lastBuildDate>Mon, 26 Jun 2023 15:43:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Jun 2023 20:45:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/06/dog-badge-3.svg</url>
+	<url>/wp-content/uploads/2023/06/dog-badge-150x150.png</url>
 	<title>Work &#8211; Matthew Souden</title>
 	<link>/</link>
 	<width>32</width>
@@ -65,8 +65,8 @@
 			</item>
 		<item>
 		<title>Fem Shred</title>
-		<link>/work/bad-theme-fallout/</link>
-					<comments>/work/bad-theme-fallout/#respond</comments>
+		<link>/work/fem-shred/</link>
+					<comments>/work/fem-shred/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2023 05:14:53 +0000</pubDate>
@@ -102,7 +102,7 @@
 <p>Maybe the real lesson is there just is no one-size-fits-all, no matter what that theme shop is trying to sell.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/work/bad-theme-fallout/feed/</wfw:commentRss>
+					<wfw:commentRss>/work/fem-shred/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -341,6 +341,24 @@
 
 
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="921" src="/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png" alt="" class="wp-image-5032" srcset="/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png 1024w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-300x270.png 300w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-768x691.png 768w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1536x1382.png 1536w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-2048x1842.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Improv. </figcaption></figure>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-3" style="font-size:clamp(14px, 0.875rem + ((1vw - 7.68px) * 0.481), 18px);">
+<div class="wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-1">
+<p>In:</p>
+
+
+<div class="taxonomy-category wp-block-post-terms"><a href="/category/work/" rel="tag">Work</a></div></div>
+
+
+
+<div class="wp-block-group alignwide is-horizontal is-content-justification-space-between is-nowrap is-layout-flex wp-container-2">
+
+<div class="wp-block-site-logo"><a href="/" class="custom-logo-link" rel="home"><img width="100" height="83" src="/wp-content/uploads/2023/06/dog-badge.png" class="custom-logo" alt="Matthew Souden" decoding="async" srcset="/wp-content/uploads/2023/06/dog-badge.png 335w, /wp-content/uploads/2023/06/dog-badge-300x252.png 300w" sizes="(max-width: 100px) 100vw, 100px" /></a></div>
+
+</div>
+</div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/work/the-lost-woocommerce-shop/feed/</wfw:commentRss>
