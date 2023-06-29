@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: List of APIs	</title>
-	<atom:link href="/scraps/list-of-apis/feed/" rel="self" type="application/rss+xml" />
-	<link>/scraps/list-of-apis/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/scraps/list-of-apis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/scraps/list-of-apis/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Wed, 22 Aug 2007 13:27:42 +0000</lastBuildDate>
 	<sy:updatePeriod>

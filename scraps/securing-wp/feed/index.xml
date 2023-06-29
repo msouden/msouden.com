@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Securing WP	</title>
-	<atom:link href="/scraps/securing-wp/feed/" rel="self" type="application/rss+xml" />
-	<link>/scraps/securing-wp/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/scraps/securing-wp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/scraps/securing-wp/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Tue, 20 May 2008 19:02:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

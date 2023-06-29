@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Wed, 28 Jun 2023 02:04:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

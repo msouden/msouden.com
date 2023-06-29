@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: PluginScore	</title>
-	<atom:link href="/work/pluginscore/feed/" rel="self" type="application/rss+xml" />
-	<link>/work/pluginscore/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/work/pluginscore/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/work/pluginscore/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Mon, 19 Jun 2023 18:52:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

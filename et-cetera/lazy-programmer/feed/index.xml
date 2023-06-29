@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lazy Programmer	</title>
-	<atom:link href="/et-cetera/lazy-programmer/feed/" rel="self" type="application/rss+xml" />
-	<link>/et-cetera/lazy-programmer/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/et-cetera/lazy-programmer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/et-cetera/lazy-programmer/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Mon, 03 Feb 2020 16:01:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

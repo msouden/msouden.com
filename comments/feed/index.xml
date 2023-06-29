@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Matthew Souden	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Thu, 29 Jun 2023 04:34:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

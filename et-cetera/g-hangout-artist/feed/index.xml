@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: g+ Hangout Artist	</title>
-	<atom:link href="/et-cetera/g-hangout-artist/feed/" rel="self" type="application/rss+xml" />
-	<link>/et-cetera/g-hangout-artist/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/et-cetera/g-hangout-artist/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/et-cetera/g-hangout-artist/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Fri, 25 Nov 2011 21:20:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

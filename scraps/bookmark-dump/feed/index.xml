@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Bookmark Dump	</title>
-	<atom:link href="/scraps/bookmark-dump/feed/" rel="self" type="application/rss+xml" />
-	<link>/scraps/bookmark-dump/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/scraps/bookmark-dump/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/scraps/bookmark-dump/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Mon, 13 Sep 2021 13:25:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

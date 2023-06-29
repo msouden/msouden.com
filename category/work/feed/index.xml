@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Work &#8211; Matthew Souden</title>
-	<atom:link href="/category/work/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://msouden.github.io/msouden.com/category/work/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/</link>
 	<description>Portfolio +</description>
 	<lastBuildDate>Wed, 28 Jun 2023 20:45:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/06/dog-badge-150x150.png</url>
+	<url>https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge-150x150.png</url>
 	<title>Work &#8211; Matthew Souden</title>
-	<link>/</link>
+	<link>https://msouden.github.io/msouden.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>PaaS MVP (Platform as a Service Minimally Viable Product)</title>
-		<link>/work/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
-					<comments>/work/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
+					<comments>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Thu, 15 Jun 2023 21:07:28 +0000</pubDate>
 				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">/?p=4987</guid>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4987</guid>
 
 					<description><![CDATA[This short contract job in 2022 was a kind of proof-of-concept. I&#8217;m under NDA about it, so no identifying information here &#8211; but there&#8217;s something to be said about WordPress&#8217;s path forward with this project. The project is a service provided via a hosted WP instance on client subdomains. It&#8217;s a pretty common niche market [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -58,20 +58,20 @@
 <p>I developed and tested this for a few weeks before turning it back over to the contractor.  I&#8217;m pretty optimistic about this as a path forward. At the time I was testing it, the tools I was using were still in beta and being actively developed, so the job went the more traditional route. I was early, but I&#8217;m convinced- the block editor&#8217;s impact on how things are done in the WordPress world is still unfolding.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/work/platform-as-a-service-minimally-viable-product-paas-mvp/feed/</wfw:commentRss>
+					<wfw:commentRss>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fem Shred</title>
-		<link>/work/fem-shred/</link>
-					<comments>/work/fem-shred/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/work/fem-shred/</link>
+					<comments>https://msouden.github.io/msouden.com/work/fem-shred/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2023 05:14:53 +0000</pubDate>
 				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">/?p=4976</guid>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4976</guid>
 
 					<description><![CDATA[Fem Shred is a mobile-first ecommerce shop specializing in Women&#8217;s activewear with a social mission. They contracted me to fix some responsive design issues, set up WooCommerce and the requisite fulfillment on the back end, and do preflight testing before launch. This job wasn&#8217;t a success, but I&#8217;m adding it to my portfolio anyway because [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -79,7 +79,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/06/FemShred-699x1024.jpeg" alt="" class="wp-image-4977" width="350" height="512" srcset="/wp-content/uploads/2023/06/FemShred-699x1024.jpeg 699w, /wp-content/uploads/2023/06/FemShred-205x300.jpeg 205w, /wp-content/uploads/2023/06/FemShred.jpeg 750w" sizes="(max-width: 350px) 100vw, 350px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred-699x1024.jpeg" alt="" class="wp-image-4977" width="350" height="512" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred-699x1024.jpeg 699w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred-205x300.jpeg 205w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred.jpeg 750w" sizes="(max-width: 350px) 100vw, 350px" /></figure>
 
 
 
@@ -102,20 +102,20 @@
 <p>Maybe the real lesson is there just is no one-size-fits-all, no matter what that theme shop is trying to sell.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/work/fem-shred/feed/</wfw:commentRss>
+					<wfw:commentRss>https://msouden.github.io/msouden.com/work/fem-shred/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Small Contract Job</title>
-		<link>/work/contract-work/</link>
-					<comments>/work/contract-work/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/work/contract-work/</link>
+					<comments>https://msouden.github.io/msouden.com/work/contract-work/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Thu, 12 Jan 2023 00:35:46 +0000</pubDate>
 				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">/?p=4939</guid>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4939</guid>
 
 					<description><![CDATA[I a steady stream of this kind of quick work would be amazing: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -123,7 +123,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="730" src="/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png" alt="" class="wp-image-4970" srcset="/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png 1024w, /wp-content/uploads/2023/06/cw-genesis-script-loading-300x214.png 300w, /wp-content/uploads/2023/06/cw-genesis-script-loading-768x548.png 768w, /wp-content/uploads/2023/06/cw-genesis-script-loading.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="730" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png" alt="" class="wp-image-4970" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-300x214.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-768x548.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -134,15 +134,15 @@
 <p>The client had the script ready to go, and they even helped wrap up the job. Perfect quick job and super professional, communicative, and educating client. I did this through a third party with rules around disclosure, so no identifying client info on this one.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/work/contract-work/feed/</wfw:commentRss>
+					<wfw:commentRss>https://msouden.github.io/msouden.com/work/contract-work/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Excel Macro Land</title>
-		<link>/work/excel-macro-land/</link>
-					<comments>/work/excel-macro-land/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/work/excel-macro-land/</link>
+					<comments>https://msouden.github.io/msouden.com/work/excel-macro-land/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Mon, 29 Jun 2020 15:53:00 +0000</pubDate>
@@ -170,14 +170,14 @@
 <p>Putting on my user interface hat for a minute, this is a pretty good example of when user interface becomes more important than efficiency. The team valued and used the macros in part because it was fun to watch it run. It&#8217;s entirely plausible that were the script just a black box of &#8220;put the file here&#8221; there would have been some adoption resistance from a few staff. Had this project been before I taught Information Design, it would have definitely made it into the lecture.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/work/excel-macro-land/feed/</wfw:commentRss>
+					<wfw:commentRss>https://msouden.github.io/msouden.com/work/excel-macro-land/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Report Generation Automation</title>
-		<link>/work/medical-insurance-reporting-automation/</link>
+		<link>https://msouden.github.io/msouden.com/work/medical-insurance-reporting-automation/</link>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 14 Apr 2020 02:24:00 +0000</pubDate>
@@ -214,7 +214,7 @@
 			</item>
 		<item>
 		<title>Job Onboarding Automation</title>
-		<link>/work/job-onboarding-automation/</link>
+		<link>https://msouden.github.io/msouden.com/work/job-onboarding-automation/</link>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Sat, 14 Mar 2020 05:17:00 +0000</pubDate>
@@ -251,7 +251,7 @@
 			</item>
 		<item>
 		<title>Patterns, Moire, and Glitch</title>
-		<link>/work/patterns-moire-and-glitch/</link>
+		<link>https://msouden.github.io/msouden.com/work/patterns-moire-and-glitch/</link>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 10 Mar 2020 02:26:00 +0000</pubDate>
@@ -268,7 +268,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/05/moire_hex_1280-1.png"><img decoding="async" width="1024" height="640" src="/wp-content/uploads/2023/05/moire_hex_1280-1-1024x640.png" alt="Zooming out for moire." class="wp-image-4812" srcset="/wp-content/uploads/2023/05/moire_hex_1280-1-1024x640.png 1024w, /wp-content/uploads/2023/05/moire_hex_1280-1-300x188.png 300w, /wp-content/uploads/2023/05/moire_hex_1280-1-768x480.png 768w, /wp-content/uploads/2023/05/moire_hex_1280-1.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Zooming out for moiré.</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1.png"><img decoding="async" width="1024" height="640" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-1024x640.png" alt="Zooming out for moire." class="wp-image-4812" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-1024x640.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-300x188.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-768x480.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Zooming out for moiré.</figcaption></figure>
 
 
 
@@ -284,13 +284,13 @@
 			</item>
 		<item>
 		<title>The WooCommerce Shop</title>
-		<link>/work/the-lost-woocommerce-shop/</link>
-					<comments>/work/the-lost-woocommerce-shop/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/work/the-lost-woocommerce-shop/</link>
+					<comments>https://msouden.github.io/msouden.com/work/the-lost-woocommerce-shop/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 08 Oct 2019 18:19:00 +0000</pubDate>
 				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">/?p=5018</guid>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=5018</guid>
 
 					<description><![CDATA[I wanted to get to know WooCommerce so my daughter and I made a shop. I take full responsibility for the visual abuse that is this logo animation. She chose the name of the site though, and I still have no idea what it means. This was a fun project. I set up an account [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -316,31 +316,31 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="/wp-content/uploads/2023/06/Low-profile-hat-1024x448.png" alt="" class="wp-image-5025" srcset="/wp-content/uploads/2023/06/Low-profile-hat-1024x448.png 1024w, /wp-content/uploads/2023/06/Low-profile-hat-300x131.png 300w, /wp-content/uploads/2023/06/Low-profile-hat-768x336.png 768w, /wp-content/uploads/2023/06/Low-profile-hat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A hat logo I&#8217;ve worn for years</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-1024x448.png" alt="" class="wp-image-5025" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-1024x448.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-300x131.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-768x336.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A hat logo I&#8217;ve worn for years</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="872" src="/wp-content/uploads/2023/06/back-tag-1024x872.png" alt="" class="wp-image-5026" srcset="/wp-content/uploads/2023/06/back-tag-1024x872.png 1024w, /wp-content/uploads/2023/06/back-tag-300x255.png 300w, /wp-content/uploads/2023/06/back-tag-768x654.png 768w, /wp-content/uploads/2023/06/back-tag-1536x1307.png 1536w, /wp-content/uploads/2023/06/back-tag.png 1632w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">a possible &#8220;back tag&#8221; (think outward-facing tag at the top) for shirts.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="872" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-1024x872.png" alt="" class="wp-image-5026" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-1024x872.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-300x255.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-768x654.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-1536x1307.png 1536w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag.png 1632w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">a possible &#8220;back tag&#8221; (think outward-facing tag at the top) for shirts.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="673" src="/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1024x673.png" alt="" class="wp-image-5027" srcset="/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1024x673.png 1024w, /wp-content/uploads/2023/06/bight-vegas-e1687284958739-300x197.png 300w, /wp-content/uploads/2023/06/bight-vegas-e1687284958739-768x505.png 768w, /wp-content/uploads/2023/06/bight-vegas-e1687284958739-1536x1010.png 1536w, /wp-content/uploads/2023/06/bight-vegas-e1687284958739-2048x1347.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Star Wars reference! (possibly infringing?)</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="673" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1024x673.png" alt="" class="wp-image-5027" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1024x673.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-300x197.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-768x505.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1536x1010.png 1536w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-2048x1347.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Star Wars reference! (possibly infringing?)</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2023/06/t-shirt-grace-768x1024.png" alt="" class="wp-image-5031" srcset="/wp-content/uploads/2023/06/t-shirt-grace-768x1024.png 768w, /wp-content/uploads/2023/06/t-shirt-grace-225x300.png 225w, /wp-content/uploads/2023/06/t-shirt-grace.png 1080w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">I believe this was to be a poster.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace-768x1024.png" alt="" class="wp-image-5031" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace-768x1024.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace-225x300.png 225w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace.png 1080w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">I believe this was to be a poster.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="816" height="694" src="/wp-content/uploads/2023/06/t-shirt-dog-1.png" alt="" class="wp-image-5034" srcset="/wp-content/uploads/2023/06/t-shirt-dog-1.png 816w, /wp-content/uploads/2023/06/t-shirt-dog-1-300x255.png 300w, /wp-content/uploads/2023/06/t-shirt-dog-1-768x653.png 768w" sizes="(max-width: 816px) 100vw, 816px" /><figcaption class="wp-element-caption">Poster and/or shirt? One of my favorite shots of my old dog. Needs some editing though.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="816" height="694" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1.png" alt="" class="wp-image-5034" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1.png 816w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1-300x255.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1-768x653.png 768w" sizes="(max-width: 816px) 100vw, 816px" /><figcaption class="wp-element-caption">Poster and/or shirt? One of my favorite shots of my old dog. Needs some editing though.</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="/wp-content/uploads/2023/06/ussr-facebook-768x1024.png" alt="" class="wp-image-5033" srcset="/wp-content/uploads/2023/06/ussr-facebook-768x1024.png 768w, /wp-content/uploads/2023/06/ussr-facebook-225x300.png 225w, /wp-content/uploads/2023/06/ussr-facebook-1152x1536.png 1152w, /wp-content/uploads/2023/06/ussr-facebook-1536x2048.png 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Kids against fake news!</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-768x1024.png" alt="" class="wp-image-5033" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-768x1024.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-225x300.png 225w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-1152x1536.png 1152w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-1536x2048.png 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Kids against fake news!</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="921" src="/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png" alt="" class="wp-image-5032" srcset="/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png 1024w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-300x270.png 300w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-768x691.png 768w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1536x1382.png 1536w, /wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-2048x1842.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Improv. </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="921" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png" alt="" class="wp-image-5032" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-300x270.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-768x691.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1536x1382.png 1536w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-2048x1842.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Improv. </figcaption></figure>
 
 
 
@@ -349,19 +349,19 @@
 <p>In:</p>
 
 
-<div class="taxonomy-category wp-block-post-terms"><a href="/category/work/" rel="tag">Work</a></div></div>
+<div class="taxonomy-category wp-block-post-terms"><a href="https://msouden.github.io/msouden.com/category/work/" rel="tag">Work</a></div></div>
 
 
 
 <div class="wp-block-group alignwide is-horizontal is-content-justification-space-between is-nowrap is-layout-flex wp-container-2">
 
-<div class="wp-block-site-logo"><a href="/" class="custom-logo-link" rel="home"><img width="100" height="83" src="/wp-content/uploads/2023/06/dog-badge.png" class="custom-logo" alt="Matthew Souden" decoding="async" srcset="/wp-content/uploads/2023/06/dog-badge.png 335w, /wp-content/uploads/2023/06/dog-badge-300x252.png 300w" sizes="(max-width: 100px) 100vw, 100px" /></a></div>
+<div class="wp-block-site-logo"><a href="https://msouden.github.io/msouden.com/" class="custom-logo-link" rel="home"><img width="100" height="83" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge.png" class="custom-logo" alt="Matthew Souden" decoding="async" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge.png 335w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge-300x252.png 300w" sizes="(max-width: 100px) 100vw, 100px" /></a></div>
 
 </div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/work/the-lost-woocommerce-shop/feed/</wfw:commentRss>
+					<wfw:commentRss>https://msouden.github.io/msouden.com/work/the-lost-woocommerce-shop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
