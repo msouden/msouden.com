@@ -1836,4 +1836,1106 @@
       },
       "no-mixed-operators" : {
         "active" : 0,
-        "optionString" : "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '
+        "optionString" : "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+      },
+      "no-mixed-spaces-and-tabs" : {
+        "active" : 0,
+        "optionString" : ""
+      },
+      "no-multi-assign" : {
+        "active" : 0,
+        "optionString" : "{'ignoreNonDeclaration': false}"
+      },
+      "no-multi-spaces" : {
+        "active" : 0,
+        "optionString" : "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+      },
+      "no-multi-str" : {
+        "active" : 0
+      },
+      "no-multiple-empty-lines" : {
+        "active" : 0,
+        "optionString" : "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+      },
+      "no-negated-condition" : {
+        "active" : 0
+      },
+      "no-nested-ternary" : {
+        "active" : 0
+      },
+      "no-new" : {
+        "active" : 0
+      },
+      "no-new-func" : {
+        "active" : 0
+      },
+      "no-new-object" : {
+        "active" : 0
+      },
+      "no-new-symbol" : {
+        "active" : 1
+      },
+      "no-new-wrappers" : {
+        "active" : 0
+      },
+      "no-nonoctal-decimal-escape" : {
+        "active" : 0
+      },
+      "no-obj-calls" : {
+        "active" : 1
+      },
+      "no-octal" : {
+        "active" : 1
+      },
+      "no-octal-escape" : {
+        "active" : 0
+      },
+      "no-param-reassign" : {
+        "active" : 0,
+        "optionString" : "{'props': false}"
+      },
+      "no-plusplus" : {
+        "active" : 0,
+        "optionString" : "{'allowForLoopAfterthoughts': false}"
+      },
+      "no-promise-executor-return" : {
+        "active" : 0
+      },
+      "no-proto" : {
+        "active" : 0
+      },
+      "no-prototype-builtins" : {
+        "active" : 0
+      },
+      "no-redeclare" : {
+        "active" : 1,
+        "optionString" : "{'builtinGlobals': false}"
+      },
+      "no-regex-spaces" : {
+        "active" : 1
+      },
+      "no-restricted-exports" : {
+        "active" : 0,
+        "optionString" : "{'restrictedNamedExports': []}"
+      },
+      "no-restricted-globals" : {
+        "active" : 0,
+        "optionString" : "'event', 'fdescribe'"
+      },
+      "no-restricted-imports" : {
+        "active" : 0,
+        "optionString" : ""
+      },
+      "no-restricted-properties" : {
+        "active" : 0,
+        "optionString" : "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+      },
+      "no-restricted-syntax" : {
+        "active" : 0,
+        "optionString" : "'FunctionExpression', 'WithStatement'"
+      },
+      "no-return-assign" : {
+        "active" : 0,
+        "optionString" : "'except-parens'"
+      },
+      "no-return-await" : {
+        "active" : 0
+      },
+      "no-script-url" : {
+        "active" : 0
+      },
+      "no-self-assign" : {
+        "active" : 1,
+        "optionString" : "{'props': false}"
+      },
+      "no-self-compare" : {
+        "active" : 1
+      },
+      "no-sequences" : {
+        "active" : 0,
+        "optionString" : "{'allowInParentheses': true}"
+      },
+      "no-setter-return" : {
+        "active" : 1
+      },
+      "no-shadow" : {
+        "active" : 0,
+        "optionString" : "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+      },
+      "no-shadow-restricted-names" : {
+        "active" : 0
+      },
+      "no-sparse-arrays" : {
+        "active" : 1
+      },
+      "no-tabs" : {
+        "active" : 0,
+        "optionString" : ""
+      },
+      "no-template-curly-in-string" : {
+        "active" : 1
+      },
+      "no-ternary" : {
+        "active" : 0
+      },
+      "no-this-before-super" : {
+        "active" : 1
+      },
+      "no-throw-literal" : {
+        "active" : 0
+      },
+      "no-trailing-spaces" : {
+        "active" : 0,
+        "optionString" : "{'skipBlankLines': false}"
+      },
+      "no-undef" : {
+        "active" : 1,
+        "optionString" : "{'typeof': false}"
+      },
+      "no-undef-init" : {
+        "active" : 0
+      },
+      "no-undefined" : {
+        "active" : 0
+      },
+      "no-underscore-dangle" : {
+        "active" : 0,
+        "optionString" : "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+      },
+      "no-unexpected-multiline" : {
+        "active" : 1
+      },
+      "no-unmodified-loop-condition" : {
+        "active" : 0
+      },
+      "no-unneeded-ternary" : {
+        "active" : 0,
+        "optionString" : "{'defaultAssignment': true}"
+      },
+      "no-unreachable" : {
+        "active" : 1
+      },
+      "no-unreachable-loop" : {
+        "active" : 0,
+        "optionString" : "{'ignore': []}"
+      },
+      "no-unsafe-finally" : {
+        "active" : 1
+      },
+      "no-unsafe-negation" : {
+        "active" : 0,
+        "optionString" : ""
+      },
+      "no-unsafe-optional-chaining" : {
+        "active" : 0,
+        "optionString" : "{'disallowArithmeticOperators': false}"
+      },
+      "no-unused-expressions" : {
+        "active" : 0,
+        "optionString" : "{'allowShortCircuit': false, 'allowTernary': false}"
+      },
+      "no-unused-labels" : {
+        "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
+      },
+      "no-unused-vars" : {
+        "active" : 1,
+        "optionString" : "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+      },
+      "no-use-before-define" : {
+        "active" : 0,
+        "optionString" : "{'functions': true, 'classes': true}"
+      },
+      "no-useless-backreference" : {
+        "active" : 0
+      },
+      "no-useless-call" : {
+        "active" : 0
+      },
+      "no-useless-catch" : {
+        "active" : 0
+      },
+      "no-useless-computed-key" : {
+        "active" : 1,
+        "optionString" : ""
+      },
+      "no-useless-concat" : {
+        "active" : 0
+      },
+      "no-useless-constructor" : {
+        "active" : 0
+      },
+      "no-useless-escape" : {
+        "active" : 0
+      },
+      "no-useless-rename" : {
+        "active" : 0,
+        "optionString" : "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+      },
+      "no-useless-return" : {
+        "active" : 0
+      },
+      "no-var" : {
+        "active" : 0
+      },
+      "no-void" : {
+        "active" : 0,
+        "optionString" : ""
+      },
+      "no-warning-comments" : {
+        "active" : 0,
+        "optionString" : "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+      },
+      "no-whitespace-before-property" : {
+        "active" : 0
+      },
+      "no-with" : {
+        "active" : 0
+      },
+      "nonblock-statement-body-position" : {
+        "active" : 0,
+        "optionString" : "'beside'"
+      },
+      "object-curly-newline" : {
+        "active" : 0,
+        "optionString" : "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+      },
+      "object-curly-spacing" : {
+        "active" : 0,
+        "optionString" : "'never'"
+      },
+      "object-property-newline" : {
+        "active" : 0,
+        "optionString" : "{'allowMultiplePropertiesPerLine': true}"
+      },
+      "object-shorthand" : {
+        "active" : 0,
+        "optionString" : "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+      },
+      "one-var" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
+      "one-var-declaration-per-line" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
+      "operator-assignment" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
+      "operator-linebreak" : {
+        "active" : 0,
+        "optionString" : "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+      },
+      "padded-blocks" : {
+        "active" : 0,
+        "optionString" : "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+      },
+      "padding-line-between-statements" : {
+        "active" : 0,
+        "optionString" : "{blankLine: 'always', prev:'*', next:'return'}"
+      },
+      "prefer-arrow-callback" : {
+        "active" : 0
+      },
+      "prefer-const" : {
+        "active" : 0,
+        "optionString" : "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+      },
+      "prefer-destructuring" : {
+        "active" : 0,
+        "optionString" : "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+      },
+      "prefer-exponentiation-operator" : {
+        "active" : 0
+      },
+      "prefer-named-capture-group" : {
+        "active" : 0
+      },
+      "prefer-numeric-literals" : {
+        "active" : 0
+      },
+      "prefer-object-has-own" : {
+        "active" : 0
+      },
+      "prefer-object-spread" : {
+        "active" : 0
+      },
+      "prefer-promise-reject-errors" : {
+        "active" : 0,
+        "optionString" : "{'allowEmptyReject': false}"
+      },
+      "prefer-regex-literals" : {
+        "active" : 0
+      },
+      "prefer-rest-params" : {
+        "active" : 0
+      },
+      "prefer-spread" : {
+        "active" : 0
+      },
+      "prefer-template" : {
+        "active" : 0
+      },
+      "quote-props" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
+      "quotes" : {
+        "active" : 0,
+        "optionString" : "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+      },
+      "radix" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
+      "require-atomic-updates" : {
+        "active" : 0,
+        "optionString" : "{'allowProperties': false}"
+      },
+      "require-await" : {
+        "active" : 0
+      },
+      "require-unicode-regexp" : {
+        "active" : 0
+      },
+      "require-yield" : {
+        "active" : 0
+      },
+      "rest-spread-spacing" : {
+        "active" : 0,
+        "optionString" : "'never'"
+      },
+      "semi" : {
+        "active" : 0,
+        "optionString" : "'always', {'omitLastInOneLineBlock': false}"
+      },
+      "semi-spacing" : {
+        "active" : 0,
+        "optionString" : "{'before': false, 'after': true}"
+      },
+      "semi-style" : {
+        "active" : 0,
+        "optionString" : "'last'"
+      },
+      "sort-imports" : {
+        "active" : 0,
+        "optionString" : "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+      },
+      "sort-keys" : {
+        "active" : 0,
+        "optionString" : "'asc', {'caseSensitive': true, 'natural': false}"
+      },
+      "sort-vars" : {
+        "active" : 0,
+        "optionString" : "{'ignoreCase': false}"
+      },
+      "space-before-blocks" : {
+        "active" : 0,
+        "optionString" : "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+      },
+      "space-before-function-paren" : {
+        "active" : 0,
+        "optionString" : "{'anonymous': 'always', 'named': 'never'}"
+      },
+      "space-in-parens" : {
+        "active" : 0,
+        "optionString" : "'never', {'exceptions': []}"
+      },
+      "space-infix-ops" : {
+        "active" : 0,
+        "optionString" : "{'int32Hint': false}"
+      },
+      "space-unary-ops" : {
+        "active" : 0,
+        "optionString" : "{'words': true, 'nonwords': false, 'overrides': {}}"
+      },
+      "spaced-comment" : {
+        "active" : 0,
+        "optionString" : "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+      },
+      "strict" : {
+        "active" : 0,
+        "optionString" : "'safe'"
+      },
+      "switch-colon-spacing" : {
+        "active" : 0,
+        "optionString" : "{'after': true, 'before': false}"
+      },
+      "symbol-description" : {
+        "active" : 0
+      },
+      "template-curly-spacing" : {
+        "active" : 0,
+        "optionString" : "'never'"
+      },
+      "template-tag-spacing" : {
+        "active" : 0,
+        "optionString" : "'never'"
+      },
+      "unicode-bom" : {
+        "active" : 0,
+        "optionString" : "'never'"
+      },
+      "use-isnan" : {
+        "active" : 1,
+        "optionString" : ""
+      },
+      "valid-typeof" : {
+        "active" : 1,
+        "optionString" : "{'requireStringLiterals': true}"
+      },
+      "vars-on-top" : {
+        "active" : 0
+      },
+      "wrap-iife" : {
+        "active" : 0,
+        "optionString" : "'outside'"
+      },
+      "wrap-regex" : {
+        "active" : 0
+      },
+      "yield-star-spacing" : {
+        "active" : 0,
+        "optionString" : "{'before': false, 'after': true}"
+      },
+      "yoda" : {
+        "active" : 0,
+        "optionString" : "'never', {'exceptRange': false, 'onlyEquality': false}"
+      }
+    },
+    "esLintSourceType" : 0,
+    "externalServerAddress" : "http:\/\/localhost:8888",
+    "gitIgnoreBuildFolder" : 1,
+    "hideConfigFile" : 0,
+    "jsCheckerReservedNamesString" : "",
+    "languageDefaultsCOFFEE" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.js",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "minifierStyle" : 1,
+      "outputStyle" : 0,
+      "sourceMapStyle" : 0,
+      "transpilerStyle" : 1
+    },
+    "languageDefaultsCSS" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*-min.css",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "combineImports" : 0,
+      "cssoStyle" : 0,
+      "purgeCSSStyle" : 0,
+      "shouldRunAutoprefixer" : 1,
+      "shouldRunBless" : 0,
+      "sourceMapStyle" : 0
+    },
+    "languageDefaultsGIF" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.gif",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "webpOptimizationPresetUUID" : "lpckwebp-none",
+      "webpRGBQuality" : 75
+    },
+    "languageDefaultsHAML" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.html",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "escapeHTMLCharacters" : 0,
+      "htmlMinifierStyle" : 0,
+      "noEscapeInAttributes" : 0,
+      "outputFormat" : 2,
+      "shouldRunCacheBuster" : 0,
+      "useCDATA" : 0,
+      "useDoubleQuotes" : 0,
+      "useUnixNewlines" : 0
+    },
+    "languageDefaultsJPG" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.jpg",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "outputFormat" : 0,
+      "quality" : 100,
+      "webpOptimizationPresetUUID" : "lpckwebp-none",
+      "webpRGBQuality" : 75
+    },
+    "languageDefaultsJS" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*-min.js",
+      "autoOutputPathRelativePath" : "\/min",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "bundleFormat" : 0,
+      "minifierStyle" : 1,
+      "sourceMapStyle" : 0,
+      "syntaxCheckerStyle" : 3,
+      "transpilerStyle" : 0
+    },
+    "languageDefaultsJSON" : {
+      "autoOutputAction" : 1,
+      "autoOutputPathFilenamePattern" : "*-min.json",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "orderOutput" : 0,
+      "outputStyle" : 1
+    },
+    "languageDefaultsKIT" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.html",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "kit",
+      "autoOutputPathReplace2" : "html",
+      "autoOutputPathStyle" : 0,
+      "htmlMinifierStyle" : 0,
+      "shouldRunCacheBuster" : 0
+    },
+    "languageDefaultsLESS" : {
+      "allowInsecureImports" : 0,
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.css",
+      "autoOutputPathRelativePath" : "..\/css",
+      "autoOutputPathReplace1" : "less",
+      "autoOutputPathReplace2" : "css",
+      "autoOutputPathStyle" : 0,
+      "cssoStyle" : 0,
+      "enableJavascript" : 0,
+      "mathStyle" : 0,
+      "outputStyle" : 0,
+      "purgeCSSStyle" : 0,
+      "rewriteURLStyle" : 0,
+      "shouldRunAutoprefixer" : 0,
+      "shouldRunBless" : 0,
+      "sourceMapStyle" : 1,
+      "strictImports" : 0,
+      "strictUnits" : 0
+    },
+    "languageDefaultsMARKDOWN" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.html",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "criticStyle" : 0,
+      "enableFootnotes" : 1,
+      "enableLabels" : 1,
+      "enableSmartQuotes" : 1,
+      "htmlMinifierStyle" : 0,
+      "maskEmailAddresses" : 1,
+      "outputFormat" : 0,
+      "outputStyle" : 0,
+      "parseMetadata" : 1,
+      "processHTML" : 0,
+      "randomFootnoteNumbers" : 0,
+      "shouldRunCacheBuster" : 0,
+      "useCompatibilityMode" : 0
+    },
+    "languageDefaultsOTHER" : {
+      "autoOutputAction" : 2,
+      "autoOutputPathFilenamePattern" : "*.*",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "htmlMinifierStyle" : 0,
+      "shouldRunCacheBuster" : 0
+    },
+    "languageDefaultsPNG" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.png",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "optimizerType" : 1,
+      "quality" : 100,
+      "webpOptimizationPresetUUID" : "lpckwebp-none",
+      "webpRGBQuality" : 75
+    },
+    "languageDefaultsPUG" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.html",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "compileDebug" : 1,
+      "htmlMinifierStyle" : 0,
+      "outputStyle" : 0,
+      "shouldRunCacheBuster" : 0
+    },
+    "languageDefaultsSASS" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.css",
+      "autoOutputPathRelativePath" : "..\/css",
+      "autoOutputPathReplace1" : "sass",
+      "autoOutputPathReplace2" : "css",
+      "autoOutputPathStyle" : 0,
+      "compilerType" : 1,
+      "cssoStyle" : 0,
+      "decimalPrecision" : 10,
+      "emitCharset" : 1,
+      "outputStyle" : 0,
+      "purgeCSSStyle" : 0,
+      "shouldRunAutoprefixer" : 0,
+      "shouldRunBless" : 0,
+      "sourceMapStyle" : 0
+    },
+    "languageDefaultsSLIM" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.html",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "compileOnly" : 0,
+      "htmlMinifierStyle" : 0,
+      "logicless" : 0,
+      "outputFormat" : 0,
+      "outputStyle" : 1,
+      "railsCompatible" : 0,
+      "shouldRunCacheBuster" : 0
+    },
+    "languageDefaultsSTYLUS" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.css",
+      "autoOutputPathRelativePath" : "..\/css",
+      "autoOutputPathReplace1" : "stylus",
+      "autoOutputPathReplace2" : "css",
+      "autoOutputPathStyle" : 0,
+      "cssoStyle" : 0,
+      "debugStyle" : 0,
+      "importCSS" : 0,
+      "outputStyle" : 0,
+      "purgeCSSStyle" : 0,
+      "resolveRelativeURLS" : 0,
+      "shouldRunAutoprefixer" : 0,
+      "shouldRunBless" : 0,
+      "sourceMapStyle" : 0
+    },
+    "languageDefaultsSVG" : {
+      "autoOutputAction" : 2,
+      "autoOutputPathFilenamePattern" : "*.svg",
+      "autoOutputPathRelativePath" : "",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "pluginMask" : 3758088159
+    },
+    "languageDefaultsTS" : {
+      "autoOutputAction" : 0,
+      "autoOutputPathFilenamePattern" : "*.js",
+      "autoOutputPathRelativePath" : "\/js",
+      "autoOutputPathReplace1" : "",
+      "autoOutputPathReplace2" : "",
+      "autoOutputPathStyle" : 0,
+      "createDeclarationFile" : 0,
+      "jsxMode" : 0,
+      "minifierStyle" : 0,
+      "moduleDetectionType" : 0,
+      "moduleResolutionType" : 0,
+      "moduleType" : 2,
+      "removeComments" : 0,
+      "sourceMapStyle" : 0,
+      "targetECMAVersion" : 0
+    },
+    "languageDefaultsUserDefined" : [
+
+    ],
+    "npmAbbreviatedPath" : "",
+    "npmCreatePackageLock" : 1,
+    "npmInstallOptionalDependencies" : 0,
+    "npmSaveExactVersion" : 0,
+    "npmTargetDependencyListType" : 1,
+    "overrideExternalServerCSS" : 0,
+    "previewPathAddition" : "",
+    "purgeCSS" : {
+      "blocklistEntries" : [
+
+      ],
+      "contentEntries" : [
+        "**\/*.html",
+        "**\/*.htm",
+        "**\/*.shtml",
+        "**\/*.xhtml",
+        "**\/*.php",
+        "**\/*.js",
+        "**\/*.ts",
+        "**\/*.coffee",
+        "**\/*.erb",
+        "**\/*.pug",
+        "**\/*.jade",
+        "**\/*.slim",
+        "**\/*.haml",
+        "**\/*.md",
+        "**\/*.kit"
+      ],
+      "removeFontFace" : 0,
+      "removeKeyframes" : 0,
+      "removeVariables" : 0,
+      "safelistEntries" : [
+
+      ],
+      "skippedEntries" : [
+        "node_modules\/**"
+      ]
+    },
+    "rollupContext" : "",
+    "rollupExternalEntries" : [
+
+    ],
+    "rollupReplacementEntries" : [
+      "process.env.NODE_ENV:::$NODE_ENV",
+      "ENVIRONMENT:::$NODE_ENV"
+    ],
+    "rollupTreeshakingEnabled" : 1,
+    "skippedFoldersString" : "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+    "sourceFolderName" : "source",
+    "susyVersion" : 3,
+    "tsAllowSyntheticDefaultImports" : 0,
+    "tsAllowUnreachableCode" : 0,
+    "tsAllowUnusedLabels" : 0,
+    "tsAlwaysStrict" : 0,
+    "tsDownlevelIteration" : 0,
+    "tsEmitBOM" : 0,
+    "tsEmitDecoratorMetadata" : 0,
+    "tsESModuleInterop" : 0,
+    "tsExactOptionalPropertyTypes" : 0,
+    "tsForceConsistentCasingInFileNames" : 0,
+    "tsImportHelpers" : 0,
+    "tsIsolatedModules" : 0,
+    "tsJSXFactory" : "React.createElement",
+    "tsKeyofStringsOnly" : 0,
+    "tsNoEmitHelpers" : 0,
+    "tsNoFallthroughCasesInSwitch" : 0,
+    "tsNoImplicitAny" : 0,
+    "tsNoImplicitOverride" : 0,
+    "tsNoImplicitReturns" : 0,
+    "tsNoImplicitThis" : 0,
+    "tsNoImplicitUseStrict" : 0,
+    "tsNoLib" : 0,
+    "tsNoPropertyAccessFromIndexSignature" : 0,
+    "tsNoResolve" : 0,
+    "tsNoStrictGenericChecks" : 0,
+    "tsNoUncheckedIndexAccess" : 0,
+    "tsNoUnusedLocals" : 0,
+    "tsNoUnusedParameters" : 0,
+    "tsPreserveConstEnums" : 0,
+    "tsPreserveSymlinks" : 0,
+    "tsResolveJsonModule" : 0,
+    "tsSkipLibCheck" : 0,
+    "tsStrictFunctionTypes" : 0,
+    "tsStrictNullChecks" : 0,
+    "tsStrictPropertyInitialization" : 0,
+    "tsStripInternal" : 0,
+    "tsSuppressExcessPropertyErrors" : 0,
+    "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseUnknownInCatchVariables" : 0,
+    "uglifyDefinesString" : "",
+    "uglifyFlags2" : {
+      "arguments" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "arrows" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "ascii_only" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "booleans" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "booleans_as_integers" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "braces" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "collapse_vars" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "comments" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "comparisons" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "computed_props" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "conditionals" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "dead_code" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "directives" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "drop_console" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "drop_debugger" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "ecma" : {
+        "active" : 1,
+        "flagValue" : 5
+      },
+      "eval" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "evaluate" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "expression" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "hoist_funs" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "hoist_props" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "hoist_vars" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "ie8" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "if_return" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "indent_level" : {
+        "active" : 0,
+        "flagValue" : 4
+      },
+      "indent_start" : {
+        "active" : 0,
+        "flagValue" : 0
+      },
+      "inline" : {
+        "active" : 1,
+        "flagValue" : 3
+      },
+      "inline_script" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "join_vars" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "keep_classnames" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "keep_fargs" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "keep_fnames" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "keep_infinity" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "keep_numbers" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "keep_quoted_props" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "loops" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "max_line_len" : {
+        "active" : 1,
+        "flagValue" : 32000
+      },
+      "module" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "negate_iife" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "passes" : {
+        "active" : 1,
+        "flagValue" : 1
+      },
+      "preserve_annotations" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "properties" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "pure_getters" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "quote_keys" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "quote_style" : {
+        "active" : 1,
+        "flagValue" : 0
+      },
+      "reduce_funcs" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "reduce_vars" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "safari10" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "semicolons" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "sequences" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "shebang" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "side_effects" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "switches" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "toplevel" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "typeofs" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "unsafe" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_arrows" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_comps" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_Function" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_math" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_methods" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_proto" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_regexp" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unsafe_undefined" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "unused" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "warnings" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "webkit" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "wrap_func_args" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "wrap_iife" : {
+        "active" : 0,
+        "flagValue" : -1
+      }
+    },
+    "uglifyMangleNames" : 1,
+    "uglifyReservedNamesString" : "$",
+    "webpPresets" : {
+
+    },
+    "websiteRelativeRoot" : ""
+  },
+  "settingsFileVersion" : "3"
+}

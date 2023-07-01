@@ -41,11 +41,15 @@ msgstr "새 애니메이션 추가"
 
 #: includes/adminpanel.php:178
 msgid ""
-"Upload an .OAM file exported by <a href="\"https://tumult.com/hype?"">Tumult Hype</a> and a shortcode will be generated "
-"which you can insert in posts and pages. <a href="\"https://forums.tumult.com/"" target='\"_blank\"'>Need help?</a>"
+"Upload an .OAM file exported by <a href=\"https://tumult.com/hype?"
+"utm_source=wpplugin\">Tumult Hype</a> and a shortcode will be generated "
+"which you can insert in posts and pages. <a href=\"https://forums.tumult.com/"
+"t/hype-animations-wordpress-plugin/11074\" target=\"_blank\">Need help?</a>"
 msgstr ""
-"를 업로드합니다. <a href="\"http://tumult.com/hype?"">Tumult 과대 광고에</a> 의해 내보낸 OAM 파일과 게시물과 "
-"페이지에 삽입 할 수있는 단축 코드가 생성됩니다. <a href="\"https://forums."" target='\"_blank\"'>도움"
+"를 업로드합니다. <a href=\"http://tumult.com/hype?"
+"utm_source=wpplugin\">Tumult 과대 광고에</a> 의해 내보낸 OAM 파일과 게시물과 "
+"페이지에 삽입 할 수있는 단축 코드가 생성됩니다. <a href=\"https://forums."
+"tumult.com/t/hype-animations-wordpress-plugin/11074\" target=\"_blank\">도움"
 "이 필요하십니까?</a>"
 
 #: includes/adminpanel.php:300
@@ -169,8 +173,8 @@ msgstr ""
 "할 수 있습니다."
 
 #. Author URI of the plugin/theme
-msgid "<a href="\"https://tumult.com\"" target='\"_blank\"'>Tumult</a>"
-msgstr "<a href="\"https://tumult.com\"" target='\"_blank\"'>Tumult</a>"
+msgid "<a href=\"https://tumult.com\" target=\"_blank\">Tumult</a>"
+msgstr "<a href=\"https://tumult.com\" target=\"_blank\">Tumult</a>"
 
 #, fuzzy
 #~| msgid "Drop .OAM file or click here to upload<br>(Maximum upload size "

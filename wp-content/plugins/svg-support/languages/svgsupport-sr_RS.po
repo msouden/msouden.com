@@ -8,7 +8,7 @@ msgstr ""
 "Language-Team: Benbodhi <wp@benbodhi.com>\n"
 "Language: Serbian\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
-"n%10= 20)? 1 : 2)\n"
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -156,7 +156,7 @@ msgstr ""
 "omogućava i da s lakoćom ugradite svoj puni kod SVG datoteke uz pomoć "
 "jednostavne IMG oznake. Dodavanjem klase <code>style-svg</code> svojim IMG "
 "elementima, ovaj plugin dinamički zamenjuje bilo koje IMG elemente koji "
-"sadrže <code>style-svg</code>klasu vašim kompletnim SVG-om."
+"sadrže <code>style-svg</code klasu vašim kompletnim SVG-om."
 
 #: ../admin/svgs-settings-page.php:17
 msgid ""
@@ -192,12 +192,12 @@ msgstr "CSS meta za ciljanje"
 #: ../admin/svgs-settings-page.php:81
 msgid ""
 "The default target class is <code>style-svg</code>. You can change it to "
-"your own class such as <code>my-class</code> by typing it here.<br>Leave "
+"your own class such as <code>my-class</code> by typing it here.<br />Leave "
 "blank to use the default class."
 msgstr ""
 "Podrazumevana ciljna klasa je <code>style-svg</code>. Možete je promeniti u "
 "svoju klasu, kao što je <code>my-class</code> tako što ćete je ukucati ovde."
-"<br> Ostavite prazno polje da biste koristili podrazumevanu klasu."
+"<br /> Ostavite prazno polje da biste koristili podrazumevanu klasu."
 
 #: ../admin/svgs-settings-page.php:87
 msgid "Save Changes"
@@ -282,4 +282,3 @@ msgstr "Kupite Benbodhi-ju pivo &rarr;"
 #: ../admin/svgs-settings-page.php:150
 msgid "from"
 msgstr "od"
-</wp@benbodhi.com></benbodhi@gmail.com>

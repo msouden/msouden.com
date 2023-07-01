@@ -40,11 +40,15 @@ msgstr "Añadir nueva animación"
 
 #: includes/adminpanel.php:175
 msgid ""
-"Upload an .OAM file exported by <a href="\"https://tumult.com/hype?"">Tumult Hype</a> and a shortcode will be generated "
-"which you can insert in posts and pages. <a href="\"https://forums.tumult.com/"" target='\"_blank\"'>Need help?</a>"
+"Upload an .OAM file exported by <a href=\"https://tumult.com/hype?"
+"utm_source=wpplugin\">Tumult Hype</a> and a shortcode will be generated "
+"which you can insert in posts and pages. <a href=\"https://forums.tumult.com/"
+"t/hype-animations-wordpress-plugin/11074\" target=\"_blank\">Need help?</a>"
 msgstr ""
-"Cargue un archivo .OAM archivo exportado por <a href="\"http://tumult.com/"">Tumult Hype</a> y se generará un shortcode que se "
-"puede insertar en publicaciones y páginas. <a href="\"https://forums.tumult."" target='\"_blank\"'>¿Necesitas "
+"Cargue un archivo .OAM archivo exportado por <a href=\"http://tumult.com/"
+"hype?utm_source=wpplugin\">Tumult Hype</a> y se generará un shortcode que se "
+"puede insertar en publicaciones y páginas. <a href=\"https://forums.tumult."
+"com/t/hype-animations-wordpress-plugin/11074\" target=\"_blank\">¿Necesitas "
 "ayuda?</a>"
 
 #: includes/adminpanel.php:297
@@ -168,8 +172,8 @@ msgstr ""
 "publicaciones y páginas."
 
 #. Author URI of the plugin/theme
-msgid "<a href="\"https://tumult.com\"" target='\"_blank\"'>Tumult</a>"
-msgstr "<a href="\"https://tumult.com\"" target='\"_blank\"'>Tumult</a>"
+msgid "<a href=\"https://tumult.com\" target=\"_blank\">Tumult</a>"
+msgstr "<a href=\"https://tumult.com\" target=\"_blank\">Tumult</a>"
 
 #~ msgid "Choose an animation"
 #~ msgstr "Elija una animación"

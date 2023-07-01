@@ -1,9 +1,0 @@
-# Apache 2.4+
-<ifmodule authz_core_module>
-    Require all denied
-</ifmodule>
-
-# Apache 2.2
-<ifmodule>
-    Deny from all
-</ifmodule>

@@ -3,253 +3,81 @@
 
 ### DomParser API
 
-<p id="voku-php-readme-class-methods">
-<table>
-<tr>
-<td>
-<a href="#findstring-selector-intnull-idx-mixed">find</a>
-</td>
-<td>
-<a href="#findmultistring-selector-mixed">findMulti</a>
-</td>
-<td>
-<a href="#findmultiorfalsestring-selector-mixed">findMultiOrFalse</a>
-</td>
-<td>
-<a href="#findonestring-selector-static">findOne</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#findoneorfalsestring-selector-mixed">findOneOrFalse</a>
-</td>
-<td>
-<a href="#fixhtmloutputstring-content-bool-multidecodenewhtmlentity-string">fixHtmlOutput</a>
-</td>
-<td>
-<a href="#getdocument-domdocument">getDocument</a>
-</td>
-<td>
-<a href="#getelementbyclassstring-class-mixed">getElementByClass</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#getelementbyidstring-id-mixed">getElementById</a>
-</td>
-<td>
-<a href="#getelementbytagnamestring-name-mixed">getElementByTagName</a>
-</td>
-<td>
-<a href="#getelementsbyidstring-id-intnull-idx-mixed">getElementsById</a>
-</td>
-<td>
-<a href="#getelementsbytagnamestring-name-intnull-idx-mixed">getElementsByTagName</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#htmlbool-multidecodenewhtmlentity-string">html</a>
-</td>
-<td>
-<a href="#innerhtmlbool-multidecodenewhtmlentity-string">innerHtml</a>
-</td>
-<td>
-<a href="#innerxmlbool-multidecodenewhtmlentity-string">innerXml</a>
-</td>
-<td>
-<a href="#loadhtmlstring-html-intnull-libxmlextraoptions-domparserinterface">loadHtml</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#loadhtmlfilestring-filepath-intnull-libxmlextraoptions-domparserinterface">loadHtmlFile</a>
-</td>
-<td>
-<a href="#savestring-filepath-string">save</a>
-</td>
-<td>
-<a href="#set_callbackcallable-functionname-mixed">set_callback</a>
-</td>
-<td>
-<a href="#textbool-multidecodenewhtmlentity-string">text</a>
-</td>
-</tr>
-<tr><td>
-<a href="#xmlbool-multidecodenewhtmlentity-bool-htmltoxml-bool-removexmlheader-int-options-string">xml</a>
-</td></tr>
-</table>
+<p id="voku-php-readme-class-methods"></p><table><tr><td><a href="#findstring-selector-intnull-idx-mixed">find</a>
+</td><td><a href="#findmultistring-selector-mixed">findMulti</a>
+</td><td><a href="#findmultiorfalsestring-selector-mixed">findMultiOrFalse</a>
+</td><td><a href="#findonestring-selector-static">findOne</a>
+</td></tr><tr><td><a href="#findoneorfalsestring-selector-mixed">findOneOrFalse</a>
+</td><td><a href="#fixhtmloutputstring-content-bool-multidecodenewhtmlentity-string">fixHtmlOutput</a>
+</td><td><a href="#getdocument-domdocument">getDocument</a>
+</td><td><a href="#getelementbyclassstring-class-mixed">getElementByClass</a>
+</td></tr><tr><td><a href="#getelementbyidstring-id-mixed">getElementById</a>
+</td><td><a href="#getelementbytagnamestring-name-mixed">getElementByTagName</a>
+</td><td><a href="#getelementsbyidstring-id-intnull-idx-mixed">getElementsById</a>
+</td><td><a href="#getelementsbytagnamestring-name-intnull-idx-mixed">getElementsByTagName</a>
+</td></tr><tr><td><a href="#htmlbool-multidecodenewhtmlentity-string">html</a>
+</td><td><a href="#innerhtmlbool-multidecodenewhtmlentity-string">innerHtml</a>
+</td><td><a href="#innerxmlbool-multidecodenewhtmlentity-string">innerXml</a>
+</td><td><a href="#loadhtmlstring-html-intnull-libxmlextraoptions-domparserinterface">loadHtml</a>
+</td></tr><tr><td><a href="#loadhtmlfilestring-filepath-intnull-libxmlextraoptions-domparserinterface">loadHtmlFile</a>
+</td><td><a href="#savestring-filepath-string">save</a>
+</td><td><a href="#set_callbackcallable-functionname-mixed">set_callback</a>
+</td><td><a href="#textbool-multidecodenewhtmlentity-string">text</a>
+</td></tr><tr><td><a href="#xmlbool-multidecodenewhtmlentity-bool-htmltoxml-bool-removexmlheader-int-options-string">xml</a>
+</td></tr></table>
 
 ### SimpleHtmlDomNode (group of dom elements) API
 
-<p id="voku-php-readme-class-methods">
-<table>
-<tr>
-<td>
-<a href="#count-int">count</a>
-</td>
-<td>
-<a href="#findstring-selector-int-idx-simplehtmldomnodesimplehtmldomnodenull">find</a>
-</td>
-<td>
-<a href="#findmultistring-selector-simplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMulti</a>
-</td>
-<td>
-<a href="#findmultiorfalsestring-selector-falsesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMultiOrFalse</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#findonestring-selector-simplehtmldomnodenull">findOne</a>
-</td>
-<td>
-<a href="#findoneorfalsestring-selector-falsesimplehtmldomnode">findOneOrFalse</a>
-</td>
-<td>
-<a href="#innerhtml-string">innerHtml</a>
-</td>
-<td>
-<a href="#innertext-string">innertext</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#outertext-string">outertext</a>
-</td>
-<td>
-<a href="#text-string">text</a>
-</td>
-</tr>
-</table>
+<p id="voku-php-readme-class-methods"></p><table><tr><td><a href="#count-int">count</a>
+</td><td><a href="#findstring-selector-int-idx-simplehtmldomnodesimplehtmldomnodenull">find</a>
+</td><td><a href="#findmultistring-selector-simplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMulti</a>
+</td><td><a href="#findmultiorfalsestring-selector-falsesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMultiOrFalse</a>
+</td></tr><tr><td><a href="#findonestring-selector-simplehtmldomnodenull">findOne</a>
+</td><td><a href="#findoneorfalsestring-selector-falsesimplehtmldomnode">findOneOrFalse</a>
+</td><td><a href="#innerhtml-string">innerHtml</a>
+</td><td><a href="#innertext-string">innertext</a>
+</td></tr><tr><td><a href="#outertext-string">outertext</a>
+</td><td><a href="#text-string">text</a>
+</td></tr></table>
 
 ### SimpleHtmlDom (single dom element) API
 
-<p id="voku-php-readme-class-methods">
-<table>
-<tr>
-<td>
-<a href="#childnodesint-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacenull">childNodes</a>
-</td>
-<td>
-<a href="#delete-mixed">delete</a>
-</td>
-<td>
-<a href="#findstring-selector-intnull-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">find</a>
-</td>
-<td>
-<a href="#findmultistring-selector-simplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMulti</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#findmultiorfalsestring-selector-falsesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMultiOrFalse</a>
-</td>
-<td>
-<a href="#findonestring-selector-simplehtmldominterface">findOne</a>
-</td>
-<td>
-<a href="#findoneorfalsestring-selector-falsesimplehtmldominterface">findOneOrFalse</a>
-</td>
-<td>
-<a href="#firstchild-simplehtmldominterfacenull">firstChild</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#getallattributes-stringnull">getAllAttributes</a>
-</td>
-<td>
-<a href="#getattributestring-name-string">getAttribute</a>
-</td>
-<td>
-<a href="#getelementbyclassstring-class-simplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">getElementByClass</a>
-</td>
-<td>
-<a href="#getelementbyidstring-id-simplehtmldominterface">getElementById</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#getelementbytagnamestring-name-simplehtmldominterface">getElementByTagName</a>
-</td>
-<td>
-<a href="#getelementsbyidstring-id-intnull-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">getElementsById</a>
-</td>
-<td>
-<a href="#getelementsbytagnamestring-name-intnull-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">getElementsByTagName</a>
-</td>
-<td>
-<a href="#gethtmldomparser-htmldomparser">getHtmlDomParser</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#getiterator-simplehtmldomnodeinterfacesimplehtmldominterface">getIterator</a>
-</td>
-<td>
-<a href="#getnode-domnode">getNode</a>
-</td>
-<td>
-<a href="#gettag-string">getTag</a>
-</td>
-<td>
-<a href="#hasattributestring-name-bool">hasAttribute</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#htmlbool-multidecodenewhtmlentity-string">html</a>
-</td>
-<td>
-<a href="#innerhtmlbool-multidecodenewhtmlentity-string">innerHtml</a>
-</td>
-<td>
-<a href="#innerxmlbool-multidecodenewhtmlentity-string">innerXml</a>
-</td>
-<td>
-<a href="#isremoved-bool">isRemoved</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#lastchild-simplehtmldominterfacenull">lastChild</a>
-</td>
-<td>
-<a href="#nextnonwhitespacesibling-simplehtmldominterfacenull">nextNonWhitespaceSibling</a>
-</td>
-<td>
-<a href="#nextsibling-simplehtmldominterfacenull">nextSibling</a>
-</td>
-<td>
-<a href="#parentnode-simplehtmldominterface">parentNode</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#previousnonwhitespacesibling-simplehtmldominterfacenull">previousNonWhitespaceSibling</a>
-</td>
-<td>
-<a href="#previoussibling-simplehtmldominterfacenull">previousSibling</a>
-</td>
-<td>
-<a href="#removeattributestring-name-simplehtmldominterface">removeAttribute</a>
-</td>
-<td>
-<a href="#removeattributes-simplehtmldominterface">removeAttributes</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#setattributestring-name-stringnull-value-bool-strictemptyvaluecheck-simplehtmldominterface">setAttribute</a>
-</td>
-<td>
-<a href="#text-string">text</a>
-</td>
-<td>
-<a href="#valstringstringnull-value-stringstringnull">val</a>
-</td>
-</tr>
-</table>
+<p id="voku-php-readme-class-methods"></p><table><tr><td><a href="#childnodesint-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacenull">childNodes</a>
+</td><td><a href="#delete-mixed">delete</a>
+</td><td><a href="#findstring-selector-intnull-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">find</a>
+</td><td><a href="#findmultistring-selector-simplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMulti</a>
+</td></tr><tr><td><a href="#findmultiorfalsestring-selector-falsesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">findMultiOrFalse</a>
+</td><td><a href="#findonestring-selector-simplehtmldominterface">findOne</a>
+</td><td><a href="#findoneorfalsestring-selector-falsesimplehtmldominterface">findOneOrFalse</a>
+</td><td><a href="#firstchild-simplehtmldominterfacenull">firstChild</a>
+</td></tr><tr><td><a href="#getallattributes-stringnull">getAllAttributes</a>
+</td><td><a href="#getattributestring-name-string">getAttribute</a>
+</td><td><a href="#getelementbyclassstring-class-simplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">getElementByClass</a>
+</td><td><a href="#getelementbyidstring-id-simplehtmldominterface">getElementById</a>
+</td></tr><tr><td><a href="#getelementbytagnamestring-name-simplehtmldominterface">getElementByTagName</a>
+</td><td><a href="#getelementsbyidstring-id-intnull-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">getElementsById</a>
+</td><td><a href="#getelementsbytagnamestring-name-intnull-idx-simplehtmldominterfacesimplehtmldominterfacesimplehtmldomnodeinterfacesimplehtmldominterface">getElementsByTagName</a>
+</td><td><a href="#gethtmldomparser-htmldomparser">getHtmlDomParser</a>
+</td></tr><tr><td><a href="#getiterator-simplehtmldomnodeinterfacesimplehtmldominterface">getIterator</a>
+</td><td><a href="#getnode-domnode">getNode</a>
+</td><td><a href="#gettag-string">getTag</a>
+</td><td><a href="#hasattributestring-name-bool">hasAttribute</a>
+</td></tr><tr><td><a href="#htmlbool-multidecodenewhtmlentity-string">html</a>
+</td><td><a href="#innerhtmlbool-multidecodenewhtmlentity-string">innerHtml</a>
+</td><td><a href="#innerxmlbool-multidecodenewhtmlentity-string">innerXml</a>
+</td><td><a href="#isremoved-bool">isRemoved</a>
+</td></tr><tr><td><a href="#lastchild-simplehtmldominterfacenull">lastChild</a>
+</td><td><a href="#nextnonwhitespacesibling-simplehtmldominterfacenull">nextNonWhitespaceSibling</a>
+</td><td><a href="#nextsibling-simplehtmldominterfacenull">nextSibling</a>
+</td><td><a href="#parentnode-simplehtmldominterface">parentNode</a>
+</td></tr><tr><td><a href="#previousnonwhitespacesibling-simplehtmldominterfacenull">previousNonWhitespaceSibling</a>
+</td><td><a href="#previoussibling-simplehtmldominterfacenull">previousSibling</a>
+</td><td><a href="#removeattributestring-name-simplehtmldominterface">removeAttribute</a>
+</td><td><a href="#removeattributes-simplehtmldominterface">removeAttributes</a>
+</td></tr><tr><td><a href="#setattributestring-name-stringnull-value-bool-strictemptyvaluecheck-simplehtmldominterface">setAttribute</a>
+</td><td><a href="#text-string">text</a>
+</td><td><a href="#valstringstringnull-value-stringstringnull">val</a>
+</td></tr></table>
 
 ---
 
@@ -540,7 +368,7 @@ Find list of nodes with a CSS selector.
 
 --------
 
-## findMulti(string $selector): SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## findMulti(string $selector): SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Find nodes with a CSS selector.
 
@@ -548,11 +376,11 @@ Find nodes with a CSS selector.
 - `string $selector`
 
 **Return:**
-- `\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
-## findMultiOrFalse(string $selector): false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## findMultiOrFalse(string $selector): false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Find nodes with a CSS selector or false, if no element is found.
 
@@ -560,7 +388,7 @@ Find nodes with a CSS selector or false, if no element is found.
 - `string $selector`
 
 **Return:**
-- `false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
@@ -661,7 +489,7 @@ __nothing__
 
 --------
 
-## find(string $selector, int|null $idx): SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## find(string $selector, int|null $idx): SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Find list of nodes with a CSS selector.
 
@@ -670,11 +498,11 @@ Find list of nodes with a CSS selector.
 - `int|null $idx`
 
 **Return:**
-- `\SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `\SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
-## findMulti(string $selector): SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## findMulti(string $selector): SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Find nodes with a CSS selector.
 
@@ -682,11 +510,11 @@ Find nodes with a CSS selector.
 - `string $selector`
 
 **Return:**
-- `\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
-## findMultiOrFalse(string $selector): false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## findMultiOrFalse(string $selector): false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Find nodes with a CSS selector or false, if no element is found.
 
@@ -694,7 +522,7 @@ Find nodes with a CSS selector or false, if no element is found.
 - `string $selector`
 
 **Return:**
-- `false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `false|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
@@ -758,7 +586,7 @@ Return attribute value.
 
 --------
 
-## getElementByClass(string $class): SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## getElementByClass(string $class): SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Return elements by ".class".
 
@@ -766,7 +594,7 @@ Return elements by ".class".
 - `string $class`
 
 **Return:**
-- `\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
@@ -794,7 +622,7 @@ Return element by tag name.
 
 --------
 
-## getElementsById(string $id, int|null $idx): SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## getElementsById(string $id, int|null $idx): SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Returns elements by "#id".
 
@@ -803,11 +631,11 @@ Returns elements by "#id".
 - `int|null $idx`
 
 **Return:**
-- `\SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `\SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
-## getElementsByTagName(string $name, int|null $idx): SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface
+## getElementsByTagName(string $name, int|null $idx): SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Returns elements by tag name.
 
@@ -816,7 +644,7 @@ Returns elements by tag name.
 - `int|null $idx`
 
 **Return:**
-- `\SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface`
+- `\SimpleHtmlDomInterface|\SimpleHtmlDomInterface[]|\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>`
 
 --------
 
@@ -832,7 +660,7 @@ __nothing__
 
 --------
 
-## getIterator(): SimpleHtmlDomNodeInterface
+## getIterator(): SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface>
 <a href="#voku-php-readme-class-methods">↑</a>
 Retrieve an external iterator.
 
@@ -840,10 +668,10 @@ Retrieve an external iterator.
 __nothing__
 
 **Return:**
-- `\SimpleHtmlDomNodeInterface <p>
+- `\SimpleHtmlDomNodeInterface<\SimpleHtmlDomInterface> <p>
    An instance of an object implementing <b>Iterator</b> or
    <b>Traversable</b>
-`
+</p>`
 
 --------
 
@@ -1010,7 +838,7 @@ __nothing__
 Remove attribute.
 
 **Parameters:**
-- `string $name <p>The name of the html-attribute.`
+- `string $name <p>The name of the html-attribute.</p>`
 
 **Return:**
 - `\SimpleHtmlDomInterface`
@@ -1034,12 +862,12 @@ __nothing__
 Set attribute value.
 
 **Parameters:**
-- `string $name <p>The name of the html-attribute.`
-- `string|null $value <p>Set to NULL or empty string, to remove the attribute.`
-- `bool $strictEmptyValueCheck 
+- `string $name <p>The name of the html-attribute.</p>`
+- `string|null $value <p>Set to NULL or empty string, to remove the attribute.</p>`
+- `bool $strictEmptyValueCheck </p>
 $value must be NULL, to remove the attribute,
 so that you can set an empty string as attribute-value e.g. autofocus=""
-`
+</p>`
 
 **Return:**
 - `\SimpleHtmlDomInterface`
@@ -1066,7 +894,7 @@ __nothing__
 - `string|string[]|null $value <p>
 null === get the current input value
 text === set a new input value
-`
+</p>`
 
 **Return:**
 - `string|string[]|null`

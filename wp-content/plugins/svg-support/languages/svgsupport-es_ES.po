@@ -189,11 +189,11 @@ msgstr "Clase CSS objetivo"
 #: ../admin/svgs-settings-page.php:81
 msgid ""
 "The default target class is <code>style-svg</code>. You can change it to "
-"your own class such as <code>my-class</code> by typing it here.<br>Leave "
+"your own class such as <code>my-class</code> by typing it here.<br />Leave "
 "blank to use the default class."
 msgstr ""
 "La clase por defecto es <code>style-svg</code>. Puedes cambiarla por una "
-"clase propia como <code>my-class</code> tecleándola aquí.<br>Déjalo en "
+"clase propia como <code>my-class</code> tecleándola aquí.<br />Déjalo en "
 "blanco para usar la clase por defecto."
 
 #: ../admin/svgs-settings-page.php:87
@@ -279,4 +279,3 @@ msgstr "Comprar una cerveza para Benbodhi  &rarr;"
 #: ../admin/svgs-settings-page.php:150
 msgid "from"
 msgstr "de"
-</wp@benbodhi.com></benbodhi@gmail.com>

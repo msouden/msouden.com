@@ -145,7 +145,7 @@ msgstr ""
 #: ../admin/svgs-settings-page.php:81
 msgid ""
 "The default target class is <code>style-svg</code>. You can change it to "
-"your own class such as <code>my-class</code> by typing it here.<br>Leave "
+"your own class such as <code>my-class</code> by typing it here.<br />Leave "
 "blank to use the default class."
 msgstr ""
 
@@ -264,4 +264,3 @@ msgid ""
 "automatically using the link provided, but in any case you can simply use "
 "code: SVGSUPPORT during checkout."
 msgstr ""
-</wp@benbodhi.com></wp@benbodhi.com>

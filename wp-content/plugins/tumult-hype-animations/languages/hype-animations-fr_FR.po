@@ -42,11 +42,16 @@ msgstr "Ajouter une nouvelle animation"
 
 #: includes/adminpanel.php:178
 msgid ""
-"Upload an .OAM file exported by <a href="\"https://tumult.com/hype?"">Tumult Hype</a> and a shortcode will be generated "
-"which you can insert in posts and pages. <a href="\"https://forums.tumult.com/"" target='\"_blank\"'>Need help?</a>"
+"Upload an .OAM file exported by <a href=\"https://tumult.com/hype?"
+"utm_source=wpplugin\">Tumult Hype</a> and a shortcode will be generated "
+"which you can insert in posts and pages. <a href=\"https://forums.tumult.com/"
+"t/hype-animations-wordpress-plugin/11074\" target=\"_blank\">Need help?</a>"
 msgstr ""
-"Téléchargez un fichier .OAM exporté par <a href="\"https://tumult.com/hype?"">Tumult Hype</a> et un shortcode sera généré que vous "
-"pourrez insérer où vous voulez sur votre site. <a href="\"https://forums."">Besoin d'aide?</a>"
+"Téléchargez un fichier .OAM exporté par <a href=\"https://tumult.com/hype?"
+"utm_source=wpplugin\">Tumult Hype</a> et un shortcode sera généré que vous "
+"pourrez insérer où vous voulez sur votre site. <a href=\"https://forums."
+"tumult.com/t/hype-animations-wordpress-plugin/11074\" "
+"target=\"_blank\">Besoin d'aide?</a>"
 
 #: includes/adminpanel.php:300
 msgid "Manage animations"
@@ -169,8 +174,8 @@ msgstr ""
 "les publications et les pages."
 
 #. Author URI of the plugin/theme
-msgid "<a href="\"https://tumult.com\"" target='\"_blank\"'>Tumult</a>"
-msgstr "<a href="\"http://tumult.com\"" target='\"_blank\"'>Tumult</a>"
+msgid "<a href=\"https://tumult.com\" target=\"_blank\">Tumult</a>"
+msgstr "<a href=\"http://tumult.com\" target=\"_blank\">Tumult</a>"
 
 #, fuzzy
 #~| msgid "Drop .OAM file or click here to upload<br>(Maximum upload size "

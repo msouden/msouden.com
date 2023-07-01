@@ -95,7 +95,7 @@ msgstr ""
 msgid ""
 "Checking if web server can read from Temp Files Directory: <code>%s</code>"
 msgstr ""
-"Prüfe ob der der Webserver Dateien aus dem temporären Verzeichnis <code>%s"
+"Prüfe ob der der Webserver Dateien aus dem temporären Verzeichnis <code>%s</"
 "code> lesen kann"
 
 #: src/class-ss-diagnostic.php:215
@@ -355,10 +355,10 @@ msgstr "5xx: Server-Fehler:"
 
 #: views/_pagination.php:7
 msgid ""
-"<a href="https://en.wikipedia.org/wiki/List_of_HTTP_status_codes">More info "
+"<a href='https://en.wikipedia.org/wiki/List_of_HTTP_status_codes'>More info "
 "on HTTP status codes</a>"
 msgstr ""
-"<a href="https://en.wikipedia.org/wiki/List_of_HTTP_status_codes">Mehr über "
+"<a href='https://en.wikipedia.org/wiki/List_of_HTTP_status_codes'>Mehr über "
 "HTTP status codes</a>"
 
 #: views/_pagination.php:11
@@ -431,8 +431,8 @@ msgstr "Debug-Log ansehen"
 
 #: views/diagnostics.php:126
 #, php-format
-msgid "You have created <a href="https://msouden.github.io/msouden.com/wp-content/plugins/simply-static/languages/%s">a debug log</a>."
-msgstr "Du hast einen <a href="https://msouden.github.io/msouden.com/wp-content/plugins/simply-static/languages/%s">Debug-Log</a>. erstellt."
+msgid "You have created <a href='%s'>a debug log</a>."
+msgstr "Du hast einen <a href='%s'>Debug-Log</a>. erstellt."
 
 #: views/diagnostics.php:128
 msgid "You have not created a debug log yet."
@@ -747,10 +747,10 @@ msgstr "Basic Auth"
 #: views/settings.php:257
 msgid ""
 "Your basic auth credentials have been saved. To disable basic auth or set a "
-"new username/password, <a href="#">click here</a>."
+"new username/password, <a href='#'>click here</a>."
 msgstr ""
 "Deine Basic Auth Zugangsdaten wurden gespeichert. Um Basic Auth zu "
-"deaktivieren oder die Daten anzupassen, <a href="#">klicke hier</a>."
+"deaktivieren oder die Daten anzupassen, <a href='#'>klicke hier</a>."
 
 #: views/settings.php:267
 msgid "Basic Auth Username"
@@ -814,14 +814,14 @@ msgstr ""
 
 #~ msgid ""
 #~ "An Additional File or Directory is not located within an expected "
-#~ "directory: %s<br>It should be in one of these directories (or a "
-#~ "subdirectory):<br><code>%s</code><br> <code>%s</code><br> <code>"
+#~ "directory: %s<br />It should be in one of these directories (or a "
+#~ "subdirectory):<br  /><code>%s</code><br /> <code>%s</code><br /> <code>"
 #~ "%s</code>"
 #~ msgstr ""
 #~ "Eine zusätzliche Datei oder Verzeichnis ist nicht in dem erwarteten "
-#~ "Verzeichnis: %s<br>Diese sollten in einem dieser Verzeichnisse (oder "
-#~ "einem Untervezeichnis) sein:<br><code>%s</code><br> <code>%s"
-#~ "code><br> <code>%s</code>"
+#~ "Verzeichnis: %s<br />Diese sollten in einem dieser Verzeichnisse (oder "
+#~ "einem Untervezeichnis) sein:<br  /><code>%s</code><br /> <code>%s</"
+#~ "code><br /> <code>%s</code>"
 
 #~ msgid "Could not create file or directory: %s"
 #~ msgstr "Konnte die Datei bzw. das Verzeichnis nicht erstellen: %s"
@@ -840,18 +840,19 @@ msgstr ""
 
 #~ msgid ""
 #~ "Your site does not have a permalink structure set. You can select one on "
-#~ "<a href="https://msouden.github.io/msouden.com/wp-content/plugins/simply-static/languages/%s">the Permalink Settings page</a>."
+#~ "<a href='%s'>the Permalink Settings page</a>."
 #~ msgstr ""
 #~ "Deine Website hat keine Permalink Struktur gesetzt. Du kannst eine solche "
-#~ "unter <a href="https://msouden.github.io/msouden.com/wp-content/plugins/simply-static/languages/%s">Einstellungen &gt; Permalinks</a> auswählen und "
+#~ "unter <a href='%s'>Einstellungen &gt; Permalinks</a> auswählen und "
 #~ "speichern."
 
 #~ msgid ""
-#~ "Your server does not have the PHP zip extension enabled. Please visit <a>the PHP zip extension "
+#~ "Your server does not have the PHP zip extension enabled. Please visit <a "
+#~ "href='http://www.php.net/manual/en/book.zip.php'>the PHP zip extension "
 #~ "page</a> for more information on how to enable it."
 #~ msgstr ""
 #~ "Dein Server hat die PHP zip Erweiterung nicht aktiviert. Schau dir bitte "
-#~ "die <a href="http://www.php.net/manual/en/book.zip.php">PHP zip-"
+#~ "die <a href='http://www.php.net/manual/en/book.zip.php'>PHP zip-"
 #~ "Erweiterungs-Seite (engl.)</a> für weiterführende Informationen an, und "
 #~ "wie du diese Erweiterung aktivieren kannst."
 
@@ -876,4 +877,3 @@ msgstr ""
 
 #~ msgid "http://codeofconduct.co/"
 #~ msgstr "http://codeofconduct.co/"
-</code></code>

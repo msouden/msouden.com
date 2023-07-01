@@ -90,62 +90,22 @@ The API from the "ASCII"-Class is written as small static methods.
 
 ## Class methods
 
-<p id="voku-php-readme-class-methods">
-<table>
-<tr>
-<td>
-<a href="#charsarraybool-replace_extra_symbols-array">charsArray</a>
-</td>
-<td>
-<a href="#charsarraywithmultilanguagevaluesbool-replace_extra_symbols-array">charsArrayWithMultiLanguageValues</a>
-</td>
-<td>
-<a href="#charsarraywithonelanguagestring-language-bool-replace_extra_symbols-bool-asorigreplacearray-array">charsArrayWithOneLanguage</a>
-</td>
-<td>
-<a href="#charsarraywithsinglelanguagevaluesbool-replace_extra_symbols-bool-asorigreplacearray-array">charsArrayWithSingleLanguageValues</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#cleanstring-str-bool-normalize_whitespace-bool-keep_non_breaking_space-bool-normalize_msword-bool-remove_invisible_characters-string">clean</a>
-</td>
-<td>
-<a href="#getalllanguages-string">getAllLanguages</a>
-</td>
-<td>
-<a href="#is_asciistring-str-bool">is_ascii</a>
-</td>
-<td>
-<a href="#normalize_mswordstring-str-string">normalize_msword</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#normalize_whitespacestring-str-bool-keepnonbreakingspace-bool-keepbidiunicodecontrols-bool-normalize_control_characters-string">normalize_whitespace</a>
-</td>
-<td>
-<a href="#remove_invisible_charactersstring-str-bool-url_encoded-string-replacement-bool-keep_basic_control_characters-string">remove_invisible_characters</a>
-</td>
-<td>
-<a href="#to_asciistring-str-string-language-bool-remove_unsupported_chars-bool-replace_extra_symbols-bool-use_transliterate-boolnull-replace_single_chars_only-string">to_ascii</a>
-</td>
-<td>
-<a href="#to_ascii_remapstring-str1-string-str2-string">to_ascii_remap</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#to_filenamestring-str-bool-use_transliterate-string-fallback_char-string">to_filename</a>
-</td>
-<td>
-<a href="#to_slugifystring-str-string-separator-string-language-string-replacements-bool-replace_extra_symbols-bool-use_str_to_lower-bool-use_transliterate-string">to_slugify</a>
-</td>
-<td>
-<a href="#to_transliteratestring-str-stringnull-unknown-bool-strict-string">to_transliterate</a>
-</td>
-</tr>
-</table>
+<p id="voku-php-readme-class-methods"></p><table><tr><td><a href="#charsarraybool-replace_extra_symbols-array">charsArray</a>
+</td><td><a href="#charsarraywithmultilanguagevaluesbool-replace_extra_symbols-array">charsArrayWithMultiLanguageValues</a>
+</td><td><a href="#charsarraywithonelanguagestring-language-bool-replace_extra_symbols-bool-asorigreplacearray-array">charsArrayWithOneLanguage</a>
+</td><td><a href="#charsarraywithsinglelanguagevaluesbool-replace_extra_symbols-bool-asorigreplacearray-array">charsArrayWithSingleLanguageValues</a>
+</td></tr><tr><td><a href="#cleanstring-str-bool-normalize_whitespace-bool-keep_non_breaking_space-bool-normalize_msword-bool-remove_invisible_characters-string">clean</a>
+</td><td><a href="#getalllanguages-string">getAllLanguages</a>
+</td><td><a href="#is_asciistring-str-bool">is_ascii</a>
+</td><td><a href="#normalize_mswordstring-str-string">normalize_msword</a>
+</td></tr><tr><td><a href="#normalize_whitespacestring-str-bool-keepnonbreakingspace-bool-keepbidiunicodecontrols-bool-normalize_control_characters-string">normalize_whitespace</a>
+</td><td><a href="#remove_invisible_charactersstring-str-bool-url_encoded-string-replacement-bool-keep_basic_control_characters-string">remove_invisible_characters</a>
+</td><td><a href="#to_asciistring-str-string-language-bool-remove_unsupported_chars-bool-replace_extra_symbols-bool-use_transliterate-boolnull-replace_single_chars_only-string">to_ascii</a>
+</td><td><a href="#to_ascii_remapstring-str1-string-str2-string">to_ascii_remap</a>
+</td></tr><tr><td><a href="#to_filenamestring-str-bool-use_transliterate-string-fallback_char-string">to_filename</a>
+</td><td><a href="#to_slugifystring-str-string-separator-string-language-string-replacements-bool-replace_extra_symbols-bool-use_str_to_lower-bool-use_transliterate-string">to_slugify</a>
+</td><td><a href="#to_transliteratestring-str-stringnull-unknown-bool-strict-string">to_transliterate</a>
+</td></tr></table>
 
 #### charsArray(bool $replace_extra_symbols): array
 <a href="#voku-php-readme-class-methods">↑</a>
@@ -157,7 +117,7 @@ var_dump($array['ru']['б']); // 'b'
 </code>
 
 **Parameters:**
-- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".`
+- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".</p>`
 
 **Return:**
 - `array`
@@ -174,10 +134,10 @@ var_dump($array['b']); // ['β', 'б', 'ဗ', 'ბ', 'ب']
 </code>
 
 **Parameters:**
-- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".`
+- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".</p>`
 
 **Return:**
-- `array <p>An array of replacements.`
+- `array <p>An array of replacements.</p>`
 
 --------
 
@@ -196,13 +156,13 @@ echo $array['orig'][$tmpKey]; // 'ё'
 
 **Parameters:**
 - `ASCII::* $language [optional] <p>Language of the source string e.g.: en, de_at, or de-ch.
-(default is 'en') | ASCII::*_LANGUAGE_CODE`
-- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".`
+(default is 'en') | ASCII::*_LANGUAGE_CODE</p>`
+- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".</p>`
 - `bool $asOrigReplaceArray [optional] <p>TRUE === return {orig: string[], replace: string[]}
-array`
+array</p>`
 
 **Return:**
-- `array <p>An array of replacements.`
+- `array <p>An array of replacements.</p>`
 
 --------
 
@@ -217,12 +177,12 @@ echo $array['orig'][$tmpKey]; // '၌'
 </code>
 
 **Parameters:**
-- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".`
+- `bool $replace_extra_symbols [optional] <p>Add some more replacements e.g. "£" with " pound ".</p>`
 - `bool $asOrigReplaceArray [optional] <p>TRUE === return {orig: string[], replace: string[]}
-array`
+array</p>`
 
 **Return:**
-- `array <p>An array of replacements.`
+- `array <p>An array of replacements.</p>`
 
 --------
 
@@ -231,20 +191,20 @@ array`
 Accepts a string and removes all non-UTF-8 characters from it + extras if needed.
 
 **Parameters:**
-- `string $str <p>The string to be sanitized.`
+- `string $str <p>The string to be sanitized.</p>`
 - `bool $normalize_whitespace [optional] <p>Set to true, if you need to normalize the
-whitespace.`
+whitespace.</p>`
 - `bool $keep_non_breaking_space [optional] <p>Set to true, to keep non-breaking-spaces, in
 combination with
-$normalize_whitespace`
+$normalize_whitespace</p>`
 - `bool $normalize_msword [optional] <p>Set to true, if you need to normalize MS Word chars
 e.g.: "…"
-=> "..."`
+=> "..."</p>`
 - `bool $remove_invisible_characters [optional] <p>Set to false, if you not want to remove invisible
-characters e.g.: "\0"`
+characters e.g.: "\0"</p>`
 
 **Return:**
-- `string <p>A clean UTF-8 string.`
+- `string <p>A clean UTF-8 string.</p>`
 
 --------
 
@@ -269,13 +229,13 @@ ASCII::is_ascii('白'); // false
 </code>
 
 **Parameters:**
-- `string $str <p>The string to check.`
+- `string $str <p>The string to check.</p>`
 
 **Return:**
 - `bool <p>
 <strong>true</strong> if it is ASCII<br>
 <strong>false</strong> otherwise
-`
+</p>`
 
 --------
 
@@ -290,10 +250,10 @@ ASCII::normalize_msword('„Abcdef…”'); // '"Abcdef..."'
 </code>
 
 **Parameters:**
-- `string $str <p>The string to be normalized.`
+- `string $str <p>The string to be normalized.</p>`
 
 **Return:**
-- `string <p>A string with normalized characters for commonly used chars in Word documents.`
+- `string <p>A string with normalized characters for commonly used chars in Word documents.</p>`
 
 --------
 
@@ -306,14 +266,14 @@ ASCII::normalize_whitespace("abc-\xc2\xa0-öäü-\xe2\x80\xaf-\xE2\x80\xAC", tru
 </code>
 
 **Parameters:**
-- `string $str <p>The string to be normalized.`
-- `bool $keepNonBreakingSpace [optional] <p>Set to true, to keep non-breaking-spaces.`
+- `string $str <p>The string to be normalized.</p>`
+- `bool $keepNonBreakingSpace [optional] <p>Set to true, to keep non-breaking-spaces.</p>`
 - `bool $keepBidiUnicodeControls [optional] <p>Set to true, to keep non-printable (for the web)
-bidirectional text chars.`
-- `bool $normalize_control_characters [optional] <p>Set to true, to convert e.g. LINE-, PARAGRAPH-SEPARATOR with "\n" and LINE TABULATION with "\t".`
+bidirectional text chars.</p>`
+- `bool $normalize_control_characters [optional] <p>Set to true, to convert e.g. LINE-, PARAGRAPH-SEPARATOR with "\n" and LINE TABULATION with "\t".</p>`
 
 **Return:**
-- `string <p>A string with normalized whitespace.`
+- `string <p>A string with normalized whitespace.</p>`
 
 --------
 
@@ -350,21 +310,21 @@ ASCII::to_ascii('�Düsseldorf�', 'en'); // Dusseldorf
 </code>
 
 **Parameters:**
-- `string $str <p>The input string.`
+- `string $str <p>The input string.</p>`
 - `ASCII::* $language [optional] <p>Language of the source string.
-(default is 'en') | ASCII::*_LANGUAGE_CODE`
+(default is 'en') | ASCII::*_LANGUAGE_CODE</p>`
 - `bool $remove_unsupported_chars [optional] <p>Whether or not to remove the
-unsupported characters.`
+unsupported characters.</p>`
 - `bool $replace_extra_symbols [optional]  <p>Add some more replacements e.g. "£" with " pound
-".`
-- `bool $use_transliterate [optional]  <p>Use ASCII::to_transliterate() for unknown chars.`
+".</p>`
+- `bool $use_transliterate [optional]  <p>Use ASCII::to_transliterate() for unknown chars.</p>`
 - `bool|null $replace_single_chars_only [optional]  <p>Single char replacement is better for the
 performance, but some languages need to replace more then one char
 at the same time. | NULL === auto-setting, depended on the
-language`
+language</p>`
 
 **Return:**
-- `string <p>A string that contains only ASCII characters.`
+- `string <p>A string that contains only ASCII characters.</p>`
 
 --------
 
@@ -399,11 +359,11 @@ ASCII::to_filename('שדגשדג.png', true)); // 'shdgshdg.png'
 **Parameters:**
 - `string $str`
 - `bool $use_transliterate <p>ASCII::to_transliterate() is used by default - unsafe characters are
-simply replaced with hyphen otherwise.`
+simply replaced with hyphen otherwise.</p>`
 - `string $fallback_char`
 
 **Return:**
-- `string <p>A string that contains only safe characters for a filename.`
+- `string <p>A string that contains only safe characters for a filename.</p>`
 
 --------
 
@@ -418,18 +378,18 @@ also be supplied for language-specific transliteration.
 
 **Parameters:**
 - `string $str`
-- `string $separator [optional] <p>The string used to replace whitespace.`
+- `string $separator [optional] <p>The string used to replace whitespace.</p>`
 - `ASCII::* $language [optional] <p>Language of the source string.
-(default is 'en') | ASCII::*_LANGUAGE_CODE`
-- `array<string string> $replacements [optional] <p>A map of replaceable strings.`
+(default is 'en') | ASCII::*_LANGUAGE_CODE</p>`
+- `array<string, string> $replacements [optional] <p>A map of replaceable strings.</p>`
 - `bool $replace_extra_symbols [optional]  <p>Add some more replacements e.g. "£" with "
-pound ".`
-- `bool $use_str_to_lower [optional] <p>Use "string to lower" for the input.`
+pound ".</p>`
+- `bool $use_str_to_lower [optional] <p>Use "string to lower" for the input.</p>`
 - `bool $use_transliterate [optional]  <p>Use ASCII::to_transliterate() for unknown
-chars.`
+chars.</p>`
 
 **Return:**
-- `string <p>A string that has been converted to an URL slug.`
+- `string <p>A string that has been converted to an URL slug.</p>`
 
 --------
 
@@ -444,14 +404,13 @@ ASCII::to_transliterate('déjà σσς iıii'); // 'deja sss iiii'
 </code>
 
 **Parameters:**
-- `string $str <p>The input string.`
+- `string $str <p>The input string.</p>`
 - `string|null $unknown [optional] <p>Character use if character unknown. (default is '?')
-But you can also use NULL to keep the unknown chars.`
+But you can also use NULL to keep the unknown chars.</p>`
 - `bool $strict [optional] <p>Use "transliterator_transliterate()" from PHP-Intl`
 
 **Return:**
-- `string 
-<p>A String that contains only ASCII characters.`
+- `string <p>A String that contains only ASCII characters.</p>`
 
 --------
 
@@ -490,4 +449,3 @@ For professional support please contact [me](https://about.me/voku).
 ### License and Copyright
 
 Released under the MIT License - see `LICENSE.txt` for details.
-</string>

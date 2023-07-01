@@ -44,11 +44,11 @@ $dom = HtmlDomParser::file_get_html($file);
 
 $element = $dom->findOne('#css-selector'); // "$element" === instance of "SimpleHtmlDomInterface"
 
-$elements = $dom->findMulti('.css-selector'); // "$elements" === instance of SimpleHtmlDomNodeInterface<int simplehtmldominterface>
+$elements = $dom->findMulti('.css-selector'); // "$elements" === instance of SimpleHtmlDomNodeInterface<int, SimpleHtmlDomInterface>
 
 $elementOrFalse = $dom->findOneOrFalse('#css-selector'); // "$elementOrFalse" === instance of "SimpleHtmlDomInterface" or false
 
-$elementsOrFalse = $dom->findMultiOrFalse('.css-selector'); // "$elementsOrFalse" === instance of SimpleHtmlDomNodeInterface<int simplehtmldominterface> or false
+$elementsOrFalse = $dom->findMultiOrFalse('.css-selector'); // "$elementsOrFalse" === instance of SimpleHtmlDomNodeInterface<int, SimpleHtmlDomInterface> or false
 ...
 
 ```
@@ -79,4 +79,3 @@ For professional support please contact [me](https://about.me/voku).
 
 ### License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvoku%2Fsimple_html_dom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvoku%2Fsimple_html_dom?ref=badge_large)
-</int></int>

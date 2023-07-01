@@ -1150,7 +1150,7 @@ msgid "This plugin requires a newer version of PHP."
 msgstr ""
 
 #: includes/fs-plugin-info-dialog.php:1526
-msgid "<a href="https://msouden.github.io/msouden.com/wp-content/plugins/simply-gallery-block/freemius/languages/\"%s\"" target='\"_blank\"'>Click here to learn more about updating PHP</a>."
+msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating PHP</a>."
 msgstr ""
 
 #: includes/fs-plugin-info-dialog.php:1540, includes/fs-plugin-info-dialog.php:1542
@@ -2815,4 +2815,3 @@ msgstr ""
 #: templates/forms/deactivation/retry-skip.php:23
 msgid "You might have missed it, but you don't have to share any data and can just %s the opt-in."
 msgstr ""
-</product_label></vova@freemius.com></admin@freemius.com>

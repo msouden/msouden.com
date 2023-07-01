@@ -1,1 +1,2 @@
- 
+<br>
+<b>Warning</b>:  Attempt to read property "prefix" on null in <b>/Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/tumult-hype-animations/includes/variables.php</b> on line <b>5</b><br>

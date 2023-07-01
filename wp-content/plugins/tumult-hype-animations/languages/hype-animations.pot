@@ -39,8 +39,10 @@ msgstr ""
 
 #: includes/adminpanel.php:178
 msgid ""
-"Upload an .OAM file exported by <a href="\"https://tumult.com/hype?"">Tumult Hype</a> and a shortcode will be generated "
-"which you can insert in posts and pages. <a href="\"https://forums.tumult."" target='\"_blank\"'>Need help?"
+"Upload an .OAM file exported by <a href=\"https://tumult.com/hype?"
+"utm_source=wpplugin\">Tumult Hype</a> and a shortcode will be generated "
+"which you can insert in posts and pages. <a href=\"https://forums.tumult."
+"com/t/hype-animations-wordpress-plugin/11074\" target=\"_blank\">Need help?"
 "</a>"
 msgstr ""
 
@@ -163,5 +165,5 @@ msgid ""
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "<a href="\"https://tumult.com\"" target='\"_blank\"'>Tumult</a>"
+msgid "<a href=\"https://tumult.com\" target=\"_blank\">Tumult</a>"
 msgstr ""
