@@ -12,7 +12,7 @@
 	<atom:link href="https://msouden.github.io/msouden.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://msouden.github.io/msouden.com/</link>
 	<description>Portfolio +</description>
-	<lastBuildDate>Wed, 28 Jun 2023 20:45:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Jul 2023 03:02:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,341 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Old collection of web-based applications.</title>
+		<link>https://msouden.github.io/msouden.com/scraps/massive-collection-of-web-based-applications/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 02:25:17 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">http://msouden.com/matt/?p=25</guid>
+
+					<description><![CDATA[This was originally just a link I posted in 2007, but I got curious and dug the original list out of the wayback machine during this site refresh. I have no idea how many of these are still in existence, but cool list. Original Link: http://www.tzunami.com/No-More-Harddrive.php Enterprise CM Cloud]]></description>
+										<content:encoded><![CDATA[
+<p>This was originally just a link I posted in 2007, but I got curious and dug the original list out of the wayback machine during this site refresh. I have no idea how many of these are still in existence, but cool list.</p>
+
+
+
+<p>Original Link: <a href="http://www.tzunami.com/No-More-Harddrive.php">http://www.tzunami.com/No-More-Harddrive.php</a></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow">
+<p><strong>Enterprise CM</strong></p>
+
+
+
+<ul>
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/documentum-migration/">Documentum</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/atlassian-confluence-migration/">Atlassian Confluence</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/xerox-docushare-migration/">Xerox DocuShare</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/opentext-livelink-migration/">LiveLink</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/opentext-content-server/">OpenText Content Server</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/edocs-hummingbird-dm/">eDocs (Hummingbird DM)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/eroom-migration/">eRoom</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/file-share-migration/">File Share</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/public-folders-migration/">Exchange Public Folders</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/ibm-filenet-migration/">IBM FileNet</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/lotus-notes-migration/">Lotus Notes (IBM iNotes)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/hp-trim-migration/">HPE Content Manager</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/hitachi-content-platform-hcp/">Hitachi Content Platform (HCP)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/hyperwave/">Hyperwave</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/oracle-wci/">Oracle WCI</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/aqualogic/">AquaLogic (PlumTree)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/opentext-migration/">OpenText</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/customized-solution/">Customized Solution</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/documentum-migration/">Documentum</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/atlassian-confluence-migration/">Atlassian Confluence</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/xerox-docushare-migration/">Xerox DocuShare</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/opentext-livelink-migration/">LiveLink</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/opentext-content-server/">OpenText Content Server</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/edocs-hummingbird-dm/">eDocs (Hummingbird DM)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/eroom-migration/">eRoom</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/file-share-migration/">File Share</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/public-folders-migration/">Exchange Public Folders</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/ibm-filenet-migration/">IBM FileNet</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/lotus-notes-migration/">Lotus Notes (IBM iNotes)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/hp-trim-migration/">HPE Content Manager</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/hitachi-content-platform-hcp/">Hitachi Content Platform (HCP)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/hyperwave/">Hyperwave</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/oracle-wci/">Oracle WCI</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/aqualogic/">AquaLogic (PlumTree)</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/opentext-migration/">OpenText</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/customized-solution/">Customized Solution</a></li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p><strong>Cloud</strong></p>
+
+
+
+<ul>
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/office-365-migration/">Office 365 Migration</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/onedrive/">OneDrive</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/google-drive/">Google Drive</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/dropbox/">Dropbox</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/box/">Box</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/egnyte/">Egnyte</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/amazon-s3/">Amazon S3</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/s3-compatible/">S3 Compatible</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/azure-blob-storage/">Azure Blob Storage</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/alibaba-cloud-oss/">Alibaba Cloud OSS</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/backblaze-b2/">Backblaze B2</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/googlephotos/">Google Photos</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/webdav/">WebDAV</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/ftp/">FTP</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/procore/">Procore</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/bim-360/">BIM 360</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/jungledisk/">JungleDisk</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/yandex/">Yandex Disk</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/openstack/">OpenStack</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/office-365-migration/">Office 365 Migration</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/onedrive/">OneDrive</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/google-drive/">Google Drive</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/dropbox/">Dropbox</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/box/">Box</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/egnyte/">Egnyte</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/amazon-s3/">Amazon S3</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/s3-compatible/">S3 Compatible</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/azure-blob-storage/">Azure Blob Storage</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/alibaba-cloud-oss/">Alibaba Cloud OSS</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/backblaze-b2/">Backblaze B2</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/googlephotos/">Google Photos</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/webdav/">WebDAV</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/ftp/">FTP</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/procore/">Procore</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/bim-360/">BIM 360</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/jungledisk/">JungleDisk</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/yandex/">Yandex Disk</a></li>
+
+
+
+<li><a href="http://web.archive.org/web/20210425203851/https://tzunami.com/supported-systems/openstack/">OpenStack</a></li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>PaaS MVP (Platform as a Service Minimally Viable Product)</title>
 		<link>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
 					<comments>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
@@ -151,7 +486,7 @@
 
 					<description><![CDATA[During the pandemic, I, too did a little trading. Only in the most conservative beginner way (no leverage, no futures). I&#8217;ve also since mostly moved away from it, but I spent some time learning a few things rooting around in the morass of grifters, thieves, cons, and vaporcoins. I didn&#8217;t go broke, so here are [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="784" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-1024x784.png" alt="" class="wp-image-4883" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-1024x784.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-300x230.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-768x588.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp.png 1065w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-1024x784.png" alt="" class="wp-image-4883" width="512" height="392" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-1024x784.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-300x230.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-768x588.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp.png 1065w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 
 
 
@@ -247,18 +582,18 @@
 				<category><![CDATA[Scraps]]></category>
 		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4995</guid>
 
-					<description><![CDATA[from Wikipedia: https://en.wikipedia.org/wiki/Platform_as_a_service#Types PaaS is derived from software as a service (SaaS), and is situated in cloud computing between SaaS and infrastructure as a service (IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, [&#8230;]]]></description>
+					<description><![CDATA[from Wikipedia: https://en.wikipedia.org/wiki/Platform_as_a_service#Types PaaS is derived from&#160;software as a service&#160;(SaaS),&#160;and is situated in cloud computing between SaaS and&#160;infrastructure as a service&#160;(IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p><a href="https://en.wikipedia.org/wiki/Platform_as_a_service#Types" data-type="URL" data-id="https://en.wikipedia.org/wiki/Platform_as_a_service#Types" target="_blank" rel="noreferrer noopener">from Wikipedia: https://en.wikipedia.org/wiki/Platform_as_a_service#Types</a></p>
 
 
 
 <blockquote class="wp-block-quote">
-<p>PaaS is derived from <a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank" rel="noreferrer noopener">software</a><a href="https://en.wikipedia.org/wiki/Software_as_a_service"> as a service</a> (SaaS), and is situated in cloud computing between SaaS and <a href="https://en.wikipedia.org/wiki/Infrastructure_as_a_service" target="_blank" rel="noreferrer noopener">infrastructure as a service</a> (IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, the user still has to manage the server, whereas with PaaS the server management is done by the provider.</p>
+<p>PaaS is derived from&nbsp;<a href="https://en.wikipedia.org/wiki/Software_as_a_service" target="_blank" rel="noreferrer noopener">software</a><a href="https://en.wikipedia.org/wiki/Software_as_a_service"> as a service</a>&nbsp;(SaaS),&nbsp;and is situated in cloud computing between SaaS and&nbsp;<a href="https://en.wikipedia.org/wiki/Infrastructure_as_a_service" target="_blank" rel="noreferrer noopener">infrastructure as a service</a>&nbsp;(IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, the user still has to manage the server, whereas with PaaS the server management is done by the provider.</p>
 
 
 
-<p>A private PaaS can typically be downloaded and installed either in a company&#8217;s on-premises <a href="https://en.wikipedia.org/wiki/Data_center" target="_blank" rel="noreferrer noopener">data center</a>, or in a public cloud. Once the software is installed on one or more machines, the private PaaS arranges the application and database components into a single hosting platform.</p>
+<p>A private PaaS can typically be downloaded and installed either in a company&#8217;s on-premises&nbsp;<a href="https://en.wikipedia.org/wiki/Data_center" target="_blank" rel="noreferrer noopener">data center</a>, or in a public cloud. Once the software is installed on one or more machines, the private PaaS arranges the application and database components into a single hosting platform.</p>
 </blockquote>
 
 
@@ -781,42 +1116,6 @@
 <p><a href="https://www.udemy.com/join/login-popup/?next=/course/complete-python-bootcamp/learn/lecture/9388522#overview">Online Courses &#8211; Anytime, Anywhere | Udemy</a>&nbsp;</p>
 ]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>Excel Macro Land</title>
-		<link>https://msouden.github.io/msouden.com/work/excel-macro-land/</link>
-					<comments>https://msouden.github.io/msouden.com/work/excel-macro-land/#respond</comments>
-		
-		<dc:creator><![CDATA[msouden]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2020 15:53:00 +0000</pubDate>
-				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">https://msouden.com/?p=4692</guid>
-
-					<description><![CDATA[I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;. I made a series [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;.</p>
-
-
-
-<p>I made a series of macros that processed varying kinds of text files received (usually) weekly from clients. The output was used by staff to verify active eligibility of benefits for members. The macros removed extraneous data, sorted, surfaced, and in some cases highlighted criteria for differing levels of benefit coverage, then output a formatted spreadsheet to the company shared filespace.</p>
-
-
-
-<p>I got it done, but I&#8217;d had never worked in VBA before (or since). Done properly, this would have been a pretty straightforward series of scripts. Instead, it got accomplished to a large extent using Excel&#8217;s recording tool (for roughly 70% of the code generated), and then (30%) cleaned up and enhanced with VBA I wrote (for file loading, some formatting, and smoothing out some of the recorded actions).</p>
-
-
-
-<p>Recording the macro actions did provide an unintended benefit though. When ran, team members watched a rapid-fire visual of the macro at work, which was impressive to the staff and got me some kudos as it &#8220;looked like magic&#8221;. </p>
-
-
-
-<p>Putting on my user interface hat for a minute, this is a pretty good example of when user interface becomes more important than efficiency. The team valued and used the macros in part because it was fun to watch it run. It&#8217;s entirely plausible that were the script just a black box of &#8220;put the file here&#8221; there would have been some adoption resistance from a few staff. Had this project been before I taught Information Design, it would have definitely made it into the lecture.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://msouden.github.io/msouden.com/work/excel-macro-land/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Et cetera &#8211; Matthew Souden</title>
+	<atom:link href="https://msouden.github.io/msouden.com/category/et-cetera/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/</link>
+	<description>Portfolio +</description>
+	<lastBuildDate>Thu, 06 Jul 2023 22:15:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge-150x150.png</url>
+	<title>Et cetera &#8211; Matthew Souden</title>
+	<link>https://msouden.github.io/msouden.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Re: Trading</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/yes-i-traded-for-a-while/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/yes-i-traded-for-a-while/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 07:49:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4880</guid>
+
+					<description><![CDATA[During the pandemic, I, too did a little trading. Only in the most conservative beginner way (no leverage, no futures). I&#8217;ve also since mostly moved away from it, but I spent some time learning a few things rooting around in the morass of grifters, thieves, cons, and vaporcoins. I didn&#8217;t go broke, so here are [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-1024x784.png" alt="" class="wp-image-4883" width="512" height="392" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-1024x784.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-300x230.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp-768x588.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/icp.png 1065w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+
+
+
+<p>During the pandemic, I, too did a little trading. Only in the most conservative beginner way (no leverage, no futures). I&#8217;ve also since mostly moved away from it, but I spent some time learning a few things rooting around in the morass of grifters, thieves, cons, and vaporcoins. I didn&#8217;t go broke, so here are a few takeaways:</p>
+
+
+
+<p>Actual day trading wasn&#8217;t it for me. I like being a buy-and-hold-trader. In part because I&#8217;m cheap, so in order to feel comfortable buying something, the amount diligence I needed put a cap on the amount of trading I can do. I may lack the risk gene to make it big on Wall Street. </p>
+
+
+
+<p>That said, <a href="https://www.warriortrading.com/" data-type="URL" data-id="https://www.warriortrading.com/">WarriorTrading</a> is a good company/guy worth watching for learning actual, real day trading. I considered taking his course.</p>
+
+
+
+<p>After trying other platforms I ended up just settling back into using RobinHood for &#8220;traditional&#8221; swing / buy-and-hold / longer-term stuff. It&#8217;s just so easy. I treated crypto more like day trading though and did it on a crypto exchange. Crypto exchanges are not to be trusted, so saying which one I used is pointless &#8211; as far as I&#8217;m concerned they&#8217;re all unstable and untrustworthy. Put money in, trade, and get out. If you want to hold crypto, listen to everybody telling you to use a wallet.</p>
+
+
+
+<p><a rel="noreferrer noopener" href="http://tradingview.com/" data-type="URL" data-id="http://tradingview.com/" target="_blank">TradingView.com</a> is where you can learn how to use charts and some pro-grade tools for free. There are a ton of tools and indicators. I had a friend recommend CM Super Guppy and Cuban&#8217;s Reversion Bands &#8211; these are the two I like and settled on mostly. There&#8217;s also a &#8216;social component&#8217; to TV I never used, but the idea is interesting. </p>
+
+
+
+<p>The basics of financial trend analysis can be applied to crypto because that&#8217;s what everyone else is doing, so it&#8217;s possible to ride this bandwagon- but there&#8217;s a hard stop to applying anything but rudimentary analysis to crypto &#8211; because it&#8217;s crypto. The <a rel="noreferrer noopener" href="https://www.youtube.com/@TomCrown" data-type="URL" data-id="https://www.youtube.com/@TomCrown" target="_blank">youtuber Tom Crown</a> does a good job of teaching this and more importantly staying firm on the limits. His discord was also good as of Q1 2021.</p>
+
+
+
+<p>Crypto twitter and discord are kind of surprisingly good tools for learning, but go slowly and build up awareness. Scammers are everywhere, and they are constantly growing in sophistication. Learn how to spot them immediately before doing anything. Lurking for a while on discord servers allowed me time to suss out who to pay attention to.</p>
+
+
+
+<p>I made an alt identity to trade crypto with because that&#8217;s what I&#8217;d seen others do. I&#8217;d recommend this mostly for security reasons but I also found I enjoyed the freedom it gave me. This could also be a reason why crypto bros are so obnoxious.</p>
+
+
+
+<p>Three Crypto YouTubers I like:<br>&#8211; for trading- <a rel="noreferrer noopener" href="https://www.youtube.com/@TomCrown" data-type="URL" data-id="https://www.youtube.com/@TomCrown" target="_blank">Tom Crown</a>, and <a rel="noreferrer noopener" href="https://www.youtube.com/@CryptoWendyO" target="_blank">Crypto WendyO</a>, and <br>&#8211; for Crypto education- the <a rel="noreferrer noopener" href="https://www.youtube.com/@CoinBureau" data-type="URL" data-id="https://www.youtube.com/@CoinBureau" target="_blank">Coin Bureau</a> can be a bit of a libertarian wingnut, but he has a lot of depth to his expertise.</p>
+
+
+
+<p>Let&#8217;s see, other opinions&#8230;</p>
+
+
+
+<p>I have yet to see the application that will make the &#8220;metaverse&#8221; cross the chasm to mass adoption.</p>
+
+
+
+<p>Defi is a whole other post. I will say the internet computer project is a crazy concept and I remain skeptical. At one point I realized that defi basics could be explained as being a bit like escrow- with the blockchain as the third party, everybody can watch what comes and goes, and it&#8217;s programmable.</p>
+
+
+
+<p>That&#8217;s about all the primer I can offer. I never staked enough to speak to it, I only got one air drop, and there&#8217;s so much more that I could stand to learn&#8230; but there&#8217;s the summary of my spring 2021 toe-dip into trading and crypto.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/yes-i-traded-for-a-while/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI Images</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/ai-images/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/ai-images/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2022 19:19:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4888</guid>
+
+					<description><![CDATA[This is a gallery of images made by Dall-E 2 from prompts my daughter and I made. I picked the favorites.]]></description>
+										<content:encoded><![CDATA[
+<p>This is a gallery of images made by Dall-E 2 from prompts my daughter and I made. I picked the favorites.</p>
+
+
+<div class="pgc-sgb-cb wp-block-pgcsimplygalleryblock-masonry " data-gallery-id="ca514890"><div class="sgb-preloader" id="pr_ca514890">
+	<div class="sgb-square" style="background:#d4d4d4"></div>
+	<div class="sgb-square" style="background:#d4d4d4"></div>
+	<div class="sgb-square" style="background:#d4d4d4"></div>
+	<div class="sgb-square" style="background:#d4d4d4"></div></div><div class="simply-gallery-amp pgc_sgb_slider " style="display: none;"><div class="sgb-gallery"><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf6rtxwaef2if/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-300x117.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-300x117.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-1024x398.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf8_twaaafvwv/" target="_blank"><img decoding="async" alt="" width="300" height="136" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-300x136.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-300x136.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-1024x463.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV.jpg 1387w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf_m5waaq4rg/" target="_blank"><img decoding="async" alt="" width="300" height="136" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG--300x136.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG--300x136.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG--1024x463.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG-.jpg 1387w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-16-16-42-24-alien-exploration-vehicle/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-300x300.png" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-300x300.png 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapfqluxkaaspad/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad-300x117.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad-300x117.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad-1024x398.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/steampunk-pup/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup-300x300.png" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup-300x300.png 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-54-04-a-cybernetic-labrador-retriever-sitting-on-a-balcony-that-overlooks-a-large-alien-city-at-sunrise-digital-art/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-300x300.png" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-300x300.png 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-48-45/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-300x300.png" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-300x300.png 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45.png 1024w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/sacred-pangolin/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin-300x300.png" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin-300x300.png 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin.png 744w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/faoyib-xgaar0gr/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-300x117.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-300x117.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-1024x398.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/screen-shot-2023-05-16-at-3-18-59-pm/" target="_blank"><img decoding="async" alt="" width="300" height="300" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-300x300.png" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-300x300.png 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM.png 677w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapfjxpxoamdhnd/" target="_blank"><img decoding="async" alt="" width="300" height="117" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-300x117.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-300x117.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-1024x398.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD.jpg 1714w" sizes="250px"/></a></div><div class="sgb-item"><a href="https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapgbpiwyais2zd/" target="_blank"><img decoding="async" alt="" width="300" height="136" loading="lazy" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-300x136.jpg" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-300x136.jpg 300w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-1024x463.jpg 1024w,https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd.jpg 1387w" sizes="250px"/></a></div></div></div><script type="application/json" class="sgb-data">{"galleryType":"pgc_sgb_masonry","galleryId":"ca514890","images":[{"id":4904,"title":"FaPF6rtXwAEf2if","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf6rtxwaef2if/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if-1024x398.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF6rtXwAEf2if.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf6rtxwaef2if/"},{"id":4903,"title":"FaPF8_tWAAAfvwV","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf8_twaaafvwv/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1387,"height":627,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-150x150.jpg","orientation":"landscape"},"medium":{"height":136,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-300x136.jpg","orientation":"landscape"},"large":{"height":463,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV-1024x463.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF8_tWAAAfvwV.jpg","height":627,"width":1387,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf8_twaaafvwv/"},{"id":4902,"title":"FaPF_M5WAAQ4RG-","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG-.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf_m5waaq4rg/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1387,"height":627,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG\u002d\u002d150x150.jpg","orientation":"landscape"},"medium":{"height":136,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG\u002d\u002d300x136.jpg","orientation":"landscape"},"large":{"height":463,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG\u002d\u002d1024x463.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPF_M5WAAQ4RG-.jpg","height":627,"width":1387,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapf_m5waaq4rg/"},{"id":4897,"title":"DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle.png","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-16-16-42-24-alien-exploration-vehicle/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle-300x300.png","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-16-16.42.24-alien-exploration-vehicle.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-16-16-42-24-alien-exploration-vehicle/"},{"id":4896,"title":"FaPFQLuXkAASPad","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapfqluxkaaspad/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad-1024x398.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFQLuXkAASPad.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapfqluxkaaspad/"},{"id":4895,"title":"steampunk-pup","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup.png","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/steampunk-pup/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup-300x300.png","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/steampunk-pup.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/steampunk-pup/"},{"id":4894,"title":"DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art.png","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-54-04-a-cybernetic-labrador-retriever-sitting-on-a-balcony-that-overlooks-a-large-alien-city-at-sunrise-digital-art/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art-300x300.png","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.54.04-A-Cybernetic-Labrador-Retriever-Sitting-on-a-Balcony-that-overlooks-a-Large-Alien-City-at-Sunrise-Digital-Art.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-54-04-a-cybernetic-labrador-retriever-sitting-on-a-balcony-that-overlooks-a-large-alien-city-at-sunrise-digital-art/"},{"id":4893,"title":"DALL·E-2023-05-24-21.48.45","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45.png","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-48-45/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":1024,"height":1024,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45-300x300.png","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/DALL·E-2023-05-24-21.48.45.png","height":1024,"width":1024,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/dall%c2%b7e-2023-05-24-21-48-45/"},{"id":4892,"title":"sacred-pangolin","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin.png","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/sacred-pangolin/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":744,"height":743,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin-300x300.png","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/sacred-pangolin.png","height":743,"width":744,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/sacred-pangolin/"},{"id":4891,"title":"FaOyIb-XgAAR0gR","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/faoyib-xgaar0gr/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR-1024x398.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaOyIb-XgAAR0gR.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/faoyib-xgaar0gr/"},{"id":4889,"title":"Screen-Shot-2023-05-16-at-3.18.59-PM","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM.png","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/screen-shot-2023-05-16-at-3-18-59-pm/","alt":"","description":"","caption":"","mime":"image/png","type":"image","width":677,"height":678,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-150x150.png","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM-300x300.png","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-16-at-3.18.59-PM.png","height":678,"width":677,"orientation":"portrait"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/screen-shot-2023-05-16-at-3-18-59-pm/"},{"id":4898,"title":"FaPFjxpXoAMdhnD","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapfjxpxoamdhnd/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1714,"height":667,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-150x150.jpg","orientation":"landscape"},"medium":{"height":117,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-300x117.jpg","orientation":"landscape"},"large":{"height":398,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD-1024x398.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPFjxpXoAMdhnD.jpg","height":667,"width":1714,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapfjxpxoamdhnd/"},{"id":4901,"title":"FaPGBPiWYAIs2Zd","url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd.jpg","link":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapgbpiwyais2zd/","alt":"","description":"","caption":"","mime":"image/jpeg","type":"image","width":1387,"height":627,"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-150x150.jpg","orientation":"landscape"},"medium":{"height":136,"width":300,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-300x136.jpg","orientation":"landscape"},"large":{"height":463,"width":1024,"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd-1024x463.jpg","orientation":"landscape"},"full":{"url":"https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/FaPGBPiWYAIs2Zd.jpg","height":627,"width":1387,"orientation":"landscape"}},"imageMeta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"meta":false,"postlink":"https://msouden.github.io/msouden.com/et-cetera/ai-images/attachment/fapgbpiwyais2zd/"}],"itemsMetaDataCollection":[]}</script><script>(function(){if(window.PGC_SGB && window.PGC_SGB.searcher){window.PGC_SGB.searcher.initBlocks()}})()</script></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/ai-images/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lazy Programmer</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/lazy-programmer/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/lazy-programmer/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2020 16:01:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">https://msouden.com/?p=4770</guid>
+
+					<description><![CDATA[I was talking with someone once about a project and as we were wrapping up, I made a lighthearted self deprecating comment about the best developers being lazy ones. Initially, I thought I&#8217;d misread the tenor of our conversation, because he seized on my comment with a vengeance. He was suddenly kind of shockingly angry. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I was talking with someone once about a project and as we were wrapping up, I made a lighthearted self deprecating comment about the best developers being lazy ones. </p>
+
+
+
+<p>Initially, I thought I&#8217;d misread the tenor of our conversation, because he seized on my comment with a vengeance. He was suddenly kind of shockingly angry. Quickly backpedaling, I explained it was a reference to an old humorous developer truism, an entertaining way to express a desire to improve workflow and reduce repetition, etc, etc.</p>
+
+
+
+<p>He brought it up repeatedly after that, and it became clear that he was simply looking to end our time together. It was not a good fit. Working with him was a master class in toxicity. Fortunately it wasn&#8217;t long lasting.</p>
+
+
+
+<p>Back to the lazy programmer: I couldn&#8217;t recall in the moment what specifically I was referencing, but I looked it up later. It was from the three great virtues of programmers as stated by Larry Wall. It&#8217;s NOT a quote from Bill Gates.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>“I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.”</p><cite>&#8211; (not) Bill Gates</cite></blockquote>
+
+
+
+<p>There are <a rel="noreferrer noopener" href="https://developer.yoast.com/blog/lazy-programmers-are-good-programmers/" data-type="URL" data-id="https://developer.yoast.com/blog/lazy-programmers-are-good-programmers/" target="_blank">articles</a> and <a rel="noreferrer noopener" href="https://www.entrepreneur.com/article/376746" data-type="URL" data-id="https://www.entrepreneur.com/article/376746" target="_blank">think pieces</a> and I stopped counting at <a rel="noreferrer noopener" href="https://www.google.com/search?q=bill+gates+quote+lazy+programmer+site:www.reddit.com&amp;sxsrf=APq-WBt2k0brHGJNnLwt5d85t-ZKvjyMZw:1643700234483&amp;ei=CuD4YanpHK-IwbkP4t2WyAs&amp;start=10&amp;sa=N&amp;ved=2ahUKEwiplt_E_N31AhUvRDABHeKuBbkQ8NMDegQIARBK&amp;biw=1920&amp;bih=973&amp;dpr=1" data-type="URL" data-id="https://www.google.com/search?q=bill+gates+quote+lazy+programmer+site:www.reddit.com&amp;sxsrf=APq-WBt2k0brHGJNnLwt5d85t-ZKvjyMZw:1643700234483&amp;ei=CuD4YanpHK-IwbkP4t2WyAs&amp;start=10&amp;sa=N&amp;ved=2ahUKEwiplt_E_N31AhUvRDABHeKuBbkQ8NMDegQIARBK&amp;biw=1920&amp;bih=973&amp;dpr=1" target="_blank">20 Reddit threads</a> about this <a rel="noreferrer noopener" href="https://checkyourfact.com/2019/10/24/fact-check-bill-gates-microsoft-lazy-person-hard-job-easy-way/" target="_blank">misattributed quote</a>. Looks like it might have come from a car guy in the 1940s. More mildly amusing evidence of fetishizing billionaires.</p>
+
+
+
+<p>That brings us to Larry Wall. A much richer (though not literally) reference. Larry Wall is the creator of the Perl programming language, the man who literally wrote the book on it as well. He&#8217;s a well known and loved roughish character. Part of the old guard of developer/hacker culture. He&#8217;s kind of a software engineer&#8217;s hero, or was at least to a couple of guys that taught this noob much back in the day.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>“We will encourage you to develop the three great virtues of a programmer: laziness, impatience, and hubris.”</p><cite>-Larry Wall</cite></blockquote>
+
+
+
+<p>This is from <a rel="noreferrer noopener" href="https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/" data-type="URL" data-id="https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/" target="_blank">&#8220;the Camel Book&#8221;</a> &#8211; The O&#8217;Reilly-published Perl bible. But he doesn&#8217;t stop there. He defines these virtues as:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Laziness</strong><br>The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful, and document what you wrote so you don&#8217;t have to answer so many questions about it. Hence, the first great virtue of a programmer. Also hence, this book. See also&nbsp;<em>impatience and hubris</em>. (p.609)</p><p><strong>Impatience</strong><br>The anger you feel when the computer is being lazy. This makes you write programs that don&#8217;t just react to your needs, but actually anticipate them. Or at least pretend to. Hence, the second great virtue of a programmer. See also&nbsp;<em>laziness and hubris</em>. (p.608)</p><p><strong>Hubris</strong><br>Excessive pride, the sort of thing Zeus zaps you for. Also the quality that makes you write (and maintain) programs that other people won&#8217;t want to say bad things about. Hence, the third great virtue of a programmer. See also&nbsp;<em>laziness and impatience</em>. (p.607)</p><cite>&#8211; Programming Perl, 4th Edition</cite></blockquote>
+
+
+
+<p>There. Happy to have gotten that off of my chest, and now that I&#8217;ve written this I can cite my source next time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/lazy-programmer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Conveying Value</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/conveying-value/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/conveying-value/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Sat, 03 Feb 2018 18:34:31 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">https://msouden.com/?p=4790</guid>
+
+					<description><![CDATA[One challenge of freelance work for me has been conveying the value of my work- whether that&#8217;s consulting, or even deliverables to clients. As a brilliant way to address this, one of my old mentors gave me this paper on planning a web site. It did help streamline spec-ing out jobs, but that was a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>One challenge of freelance work for me has been conveying the value of my work- whether that&#8217;s consulting, or even deliverables to clients. As a brilliant way to address  this, one of my old mentors gave me<strong> this paper</strong> on planning a web site. It did help streamline spec-ing out jobs, but that was a distant second to what it really did. </p>
+
+
+
+<p>This paper isn&#8217;t only about planning a build with your client. It illustrates why exhibiting and demonstrating the tools and expertise you bring to the table is important. It also helps to unknowingly drag your client into developing a quick and dirty web strategy. It helps to put responsibility on the client that is clear to them, but would have been your failure if never asserted. This important step &#8211; discovery &#8211; the way I&#8217;ve done and seen it done &#8211; might be as much sales and consulting as build planning.</p>
+
+
+
+<p>Not only was I failing to establish credibility and giving strategy development away by skimping on discovery and planning because &#8220;I got it&#8221; and wanted to move fast, but then the client rightfully resented me for it. Ideally there&#8217;s a point where clients realize there is more to it than they thought. Without a solid discovery process this happens mid-build.</p>
+
+
+
+<p>In that <strong>purposefully long</strong> paper there&#8217;s a version of a story about the value of paying for expertise. This version uses building a deck. I could build a deck. My deck could end up janky garbage or it might require loads of prep time, learning, designing, planning, likely use more the lumber, and potentially cost me a good chunk of my summer depending on ambition and perfectionism. It&#8217;s also a perfectly legitimate route to go &#8211; to DIY. Here are snippets from the parable to get the gist:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If you want a deck for your house, you probably won’t call several carpenters and ask “How much is a deck?”&#8230;</p>
+
+
+
+<p>Hi, Jennifer Carpenter, it’s Juan Homeowner. I need a 20X30’ cedar deck in my backyard. I want it built in two weeks&#8230;</p>
+
+
+
+<p>Okay, Juan. I’ll pick up the materials and get started tomorrow. If you have any questions, just see me in your backyard while I’m working&#8230;</p>
+
+
+
+<p>What kind of wood? Cedar? Treated? Or do you want synthetic?</p>
+
+
+
+<p>There’s no building permit&#8230;</p>
+</blockquote>
+
+
+
+<p>I hope you see where the story goes- cue communication and expectations, shenanigans, and disaster.</p>
+
+
+
+<p>That&#8217;s how I started out in freelance. Sometimes I was about to take the hose reel off the client&#8217;s house without asking, or I tried to add trim to the deck. &#8220;Yes-man-ism&#8221; is a symptom of it, and it&#8217;s insidious because it&#8217;s disguised as virtuous. </p>
+
+
+
+<p>I used to call it &#8220;under selling and over delivering&#8221;. Sounds good right? Not this way. For me, it was insecurity &#8211; and it undermined my credibility, lost me jobs, and cut margins. In its worst form, it can be kind of passive aggressive.</p>
+
+
+
+<p>Making and using a solid discovery framework flipped that issue on its head. By formalizing the process, I&#8217;d carved out a defined (and correctly placed) space to turn my people pleasing liability into a place and time to display work and expertise that clients had not previously been seeing. It turned spec-ing out a build into a dog and pony show.</p>
+
+
+
+<p>It also helped vet clients who were not ready or able to move forward in a way that more often brought them back later. Mostly though it usually improved their trust in me, pleased them, motivated them, and could be fun to do. </p>
+
+
+
+<p>So sure, plan builds, that&#8217;s fundamental, but also, if you don&#8217;t like selling yourself, rely on a structure to make sure you do it, because there are costs to not doing it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/conveying-value/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contract Work &#038; Current WordPress</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/contract-work-current-wordpress/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/contract-work-current-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2017 22:45:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4867</guid>
+
+					<description><![CDATA[Below is some very unoriginal whinging and I sound like a curmudgeon, but I&#8217;m saying it anyway because it&#8217;s true and to move past it. I get it, things change, code changes, products change, competition enters, and people gotta eat. It&#8217;s disheartening to admit though that I don&#8217;t seem to be able to make clients [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Below is some very unoriginal whinging and I sound like a curmudgeon, but I&#8217;m saying it anyway because it&#8217;s true and to move past it.</p>
+
+
+
+<p>I get it, things change, code changes, products change, competition enters, and people gotta eat. It&#8217;s disheartening to admit though<s> that I don&#8217;t seem to be able to make clients happy and make a paycheck with WordPress work anymore.</s> that the WordPress community that made this amazing industry with open standards and collaboration feels like it&#8217;s now innovating more on garden walls than anything else. None of my last four gigs can be called successes, to varying degrees because of this.</p>
+
+
+
+<p>Competing with studios and other WordPress shops has never been that difficult &#8211; there has always been smaller-budget work I could pick up &#8211; that&#8217;s not where I&#8217;m getting killed.</p>
+
+
+
+<p>The Indian doppelgänger over on UpWork and their low rates doesn&#8217;t seem to be the problem either. I&#8217;ve found screening for US-based work can reveal decent work over there- as of last month anyway.</p>
+
+
+
+<p>It&#8217;s the WordPress cartels. The hosts&#8217; whose managed hosting product is designed to throw wrenches into workflows and sell the in-house &#8220;premium&#8221; support. The &#8220;commercial&#8221; themes that take accepted best practices as an affront to slamming the door behind them on the lock-in.</p>
+
+
+
+<p>Example, and the impetus for this little rant: a while back I found myself needing to verify FOUR different cache settings to ensure the server was still writing changes. (host, theme, browser extension, and the good ol&#8217; URL hack). This was just for minor fixes to a &#8220;current&#8221; &#8220;commercial&#8221; theme the client bought. </p>
+
+
+
+<p>Those air quotes are because said theme also &#8220;didn&#8217;t support&#8221; child themes, meaning they actively sabotaged and obfuscated the loading order of stylesheets. This was a big popular product.</p>
+
+
+
+<p>I&#8217;m like a nomad mechanic that has to first fight and defeat the existing shop staff and manager before being able to look at the car. It sucks.</p>
+
+
+
+<p>WordPress used to feel like home, not being behind enemy lines.</p>
+
+
+
+<p> </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/contract-work-current-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Worst Client</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/the-worst-client/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Sun, 23 Nov 2014 13:07:00 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=5085</guid>
+
+					<description><![CDATA[I’m revamping msouden.com and have been avoiding making some decisions. I finally settled on the landing page offering 2 options – currently called “Work” and “Not Work” – which then are essentially (not actually) two different sites. I began moving posts into matching “work” and “not-work” parent categories after disregarding the idea of running two [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I’m revamping msouden.com and have been avoiding making some decisions. I finally settled on the landing page offering 2 options – currently called “Work” and “Not Work” – which then are essentially (not actually) two different sites.</p>
+
+
+
+<p>I began moving posts into matching “work” and “not-work” parent categories after disregarding the idea of running two separate installs of WordPress- it’s the more responsible thing to do – use page types and categories rather than manage two sites. More right-sized for my needs, too.</p>
+
+
+
+<p>But here’s the thing. We are talking about MY site. My portfolio. My Writing. The big baddie of mean clients- me. Perfectionism paralysis? Have you seen the “Under Construction” sign up for the last TWO freaking YEARS?</p>
+
+
+
+<p>This makes for amazingly thorough “market research”- a perpetual search for my own “unique” flower/voice/design/structure/identity. I can change &amp; refine target audiences, investigate theme frameworks, and tweak workflows for months. I even at one point moved the whole thing over to Ghost (and back).</p>
+
+
+
+<p>Which is really just my way to get bound up and stalled out on something that’s hard.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Computers infected with DNSChange will lose internet July 9th</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/computers-infected-with-dnschange-will-lose-internet-july-9th/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/computers-infected-with-dnschange-will-lose-internet-july-9th/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 22 May 2012 14:51:21 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<category><![CDATA[askkimComputers]]></category>
+		<guid isPermaLink="false">http://roboist.thelabmix.com/?p=4358</guid>
+
+					<description><![CDATA[This most likely only affects folks who have one of those malware-infected-and-neglected sluggish computers that suffer popups and whatnot, but here&#8217;s a little incentive to check up on your in-law&#8217;s computer&#8230; Reshared post from +Kimberly Castleberry Why Some Of Your Readers Will Lose Internet On July 9th 2012…. via +Just Ask Kim #askkim Embedded Link [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This most likely only affects folks who have one of those malware-infected-and-neglected sluggish computers that suffer popups and whatnot, but here&#8217;s a little incentive to check up on your in-law&#8217;s computer&#8230;</p>
+<p><strong>Reshared post from +<a href="https://plus.google.com/114542752454519869265">Kimberly Castleberry</a></strong></p>
+<blockquote><p>Why Some Of Your Readers Will Lose Internet On July 9th 2012….</p></blockquote>
+<p>via <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/108658462406643316561">Just Ask Kim</a></span> #askkim</p>
+<p style="margin-bottom:5px;"><strong>Embedded Link</strong></p>
+<div style="height:120px;width:120px;overflow:hidden;float:left;margin-top:0;padding-top:0;margin-right:10px;vertical-align:top;text-align:center;clear:both;"><img decoding="async" style="max-width:none;" src="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fjust-ask-kim.com%2Fwp-content%2Fuploads%2F2012%2F05%2Fred-stop-x-halt-1.png" alt="" border="0" /></div>
+<p><a href="http://just-ask-kim.com/dnschanger-malware/">Why Some Of Your Readers Will Lose Internet On July 9th 2012….</a><br />
+Time To Spread The Word….  Yup, some of the “hype” you’ve been hearing is actually true…  Let me explain…. Several months ago, the FBI caught some bad guys that were distributing some “malware” (virus&#8230;</p>
+<p style="clear:both;"><strong>Google+:</strong> <a href="https://plus.google.com/102589922283399782698/posts/JYMR8NzuLZd" target="_new" rel="noopener">View post on Google+</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/computers-infected-with-dnschange-will-lose-internet-july-9th/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Scoble explains good developers and great ones, and Highlight</title>
+		<link>https://msouden.github.io/msouden.com/et-cetera/scoble-explains-good-developers-and-great-ones-and-highlight/</link>
+					<comments>https://msouden.github.io/msouden.com/et-cetera/scoble-explains-good-developers-and-great-ones-and-highlight/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 06 Mar 2012 15:01:25 +0000</pubDate>
+				<category><![CDATA[Et cetera]]></category>
+		<guid isPermaLink="false">http://roboist.thelabmix.com/?p=4356</guid>
+
+					<description><![CDATA[That&#8217;s Highlig.ht Reshared post from +Robert Scoble Sometimes I want to cry for entrepreneurs Tonight I got a nice email from an entrepreneur who lives in Los Angeles that&#8217;s developed a competitor to Highlight (the app that I&#8217;ve picked to be &#8220;the app of SXSW&#8221; next week: http://scobleizer.com/2012/03/05/have-arrington-and-conway-screwed-up-big-time-with-their-investment-in-highlight/ ). The entrepreneur wanted to have his [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>That&#8217;s Highlig.ht</p>
+<p><strong>Reshared post from +<a href="https://plus.google.com/111091089527727420853">Robert Scoble</a></strong></p>
+<blockquote><p><b>Sometimes I want to cry for entrepreneurs</b></p>
+<p>Tonight I got a nice email from an entrepreneur who lives in Los Angeles that&#8217;s developed a competitor to Highlight (the app that I&#8217;ve picked to be &#8220;the app of SXSW&#8221; next week: <a href="http://scobleizer.com/2012/03/05/have-arrington-and-conway-screwed-up-big-time-with-their-investment-in-highlight/">http://scobleizer.com/2012/03/05/have-arrington-and-conway-screwed-up-big-time-with-their-investment-in-highlight/</a> ). The entrepreneur wanted to have his app considered for the &#8220;SXSW roundup&#8221; I, and other folks, are working on.</p>
+<p>&#8220;Cool,&#8221; I think. I hadn&#8217;t heard of this particular one, so off I go to get it. I won&#8217;t name it, cause that&#8217;s just bad karma coming my way, but I do think it&#8217;s useful to see why Highlight is kicking ass on this competitor.</p>
+<p>First thing it wants me to do is sign on. It presents more options than Highlight, but I get what it&#8217;s trying to do. They want to make it easy to sign onto this app with either Facebook or by letting you enter everything manually. I always go for the Facebook login because it&#8217;s usually easier and these things really demand you to import all your likes and your friends (I have about 200 likes on Facebook and I don&#8217;t want to manually reenter all those things).</p>
+<p>I understand the philosophy of giving users choice. Some users have complained in my comments. The thing is they are wrong. There aren&#8217;t enough of the &#8220;don&#8217;t use Facebook&#8221; login folks to matter and even they will get pulled into these things in the future if they prove to have value. I&#8217;ve seen this happen dozens of times in my career. By listening to the complainers they made the UI and sign on more complex for the 97% who just want to use Facebook.</p>
+<p>So, I click the &#8220;quick signon&#8221; button. So far so good. Except instead of doing the new style Facebook login (which pops up the Facebook app, uses that to authenticate, then switches back to the new app) they ask for my user name and password for Facebook. Sigh. But OK.</p>
+<p>I enter it in. Then it says it might take a while if I have lots of likes. OK, Highlight didn&#8217;t, it went very fast.</p>
+<p>But, anyway, I wait a few seconds and then it gives me an error &#8220;200&#8221; which doesn&#8217;t really tell me anything. Worse, I can&#8217;t sign on now. I delete the app, start again, now it gives me even more errors.</p>
+<p>And people wonder why certain apps win in the marketplace?</p>
+<p>Software is hard. Building simple software that works every time is harder. It makes me want to cry, because I actually love it when companies execute well and everything goes smoothly.</p>
+<p>By the way, this particular app says that they are shipping on both iPhone and Android. I&#8217;m noticing a trend lately. Apps that try to go cross-platform too quickly end up sucking and losing the market to a player that goes iPhone first, then ports after everything is working. We&#8217;ll see if anyone can change that, but so far that&#8217;s a big trend I&#8217;m noticing.</p>
+<p>Another competitor, Glancee, just shipped an update last night to my Testflight account (you will get it later in the week) and it&#8217;s faster than it used to be, and the UI is simpler, but it isn&#8217;t as fast as Highlight and it&#8217;s not as simple. These little differences are what decides winners and losers and it&#8217;s gotta be frustrating for the entrepreneurs to watch a competitor kick their behinds, but that&#8217;s what&#8217;s happening in real time on my phone.</p>
+<p>In the meantime, <a href="http://highlig.ht/">http://highlig.ht/</a> is pulling away from the pack in a VERY BIG way. So far I haven&#8217;t seen anything come close as &#8220;the app&#8221; for SXSW.</p>
+<p>Anyway, more testing ahead in about 1.5 hours as our Startup Bus heads from San Francisco to Los Angeles. See ya from the bus!</p></blockquote>
+<p style="clear:both;">
+<p style="margin-bottom:5px;"><strong>Embedded Link</strong></p>
+<p><a href="http://highlig.ht/">Highlight | iPhone App &#8211; A fun way to learn more about people nearby</a><br />
+Highlight gives you a sixth sense about the world around you, showing you hidden connections and making your day more fun.</p>
+<p style="clear:both;"><strong>Google+:</strong> <a href="https://plus.google.com/102589922283399782698/posts/PN1xGSpQjsU" target="_new" rel="noopener">View post on Google+</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://msouden.github.io/msouden.com/et-cetera/scoble-explains-good-developers-and-great-ones-and-highlight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
