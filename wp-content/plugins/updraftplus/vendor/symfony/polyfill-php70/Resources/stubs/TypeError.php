@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Cannot declare class TypeError, because the name is already in use in <b>/Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php70/Resources/stubs/TypeError.php</b> on line <b>0</b><br>
