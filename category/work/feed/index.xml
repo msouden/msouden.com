@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>PaaS MVP (Platform as a Service Minimally Viable Product)</title>
-		<link>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
-					<comments>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
+					<comments>https://msouden.github.io/msouden.com/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Thu, 15 Jun 2023 21:07:28 +0000</pubDate>
@@ -38,35 +38,16 @@
 		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4987</guid>
 
 					<description><![CDATA[This short contract job in 2022 was a kind of proof-of-concept. I&#8217;m under NDA about it, so no identifying information here &#8211; but there&#8217;s something to be said about WordPress&#8217;s path forward with this project. The project is a service provided via a hosted WP instance on client subdomains. It&#8217;s a pretty common niche market [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>This short contract job in 2022 was a kind of proof-of-concept. I&#8217;m under NDA about it, so no identifying information here &#8211; but there&#8217;s something to be said about WordPress&#8217;s path forward with this project.</p>
-
-
-
-<p>The project is a service provided via a hosted WP instance on client subdomains. It&#8217;s a pretty common niche market strategy &#8211; spin up a WordPress install and match clients&#8217; existing branding. I&#8217;ve worked on a couple of other projects like this. It&#8217;s what I think of as &#8220;production&#8221; WordPress work, as the build is onboarding for the service.</p>
-
-
-
-<p>This is  good use for theme frameworks &#8211; where time to launch directly correlates to positive cash flow. Keep the designs lean standardized.</p>
-
-
-
-<p>My mission/contribution/interest was to move this production workflow into the age of the WordPress block editor. I remain convinced that moving this kind of work away from custom page templates and CSS toward (primarily just) pre-made block patterns simplifies and speeds up builds.</p>
-
-
-
-<p>I developed and tested this for a few weeks before turning it back over to the contractor.  I&#8217;m pretty optimistic about this as a path forward. At the time I was testing it, the tools I was using were still in beta and being actively developed, so the job went the more traditional route. I was early, but I&#8217;m convinced- the block editor&#8217;s impact on how things are done in the WordPress world is still unfolding.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://msouden.github.io/msouden.com/work/platform-as-a-service-minimally-viable-product-paas-mvp/feed/</wfw:commentRss>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/platform-as-a-service-minimally-viable-product-paas-mvp/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fem Shred</title>
-		<link>https://msouden.github.io/msouden.com/work/fem-shred/</link>
-					<comments>https://msouden.github.io/msouden.com/work/fem-shred/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/fem-shred/</link>
+					<comments>https://msouden.github.io/msouden.com/fem-shred/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2023 05:14:53 +0000</pubDate>
@@ -74,43 +55,16 @@
 		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4976</guid>
 
 					<description><![CDATA[Fem Shred is a mobile-first ecommerce shop specializing in Women&#8217;s activewear with a social mission. They contracted me to fix some responsive design issues, set up WooCommerce and the requisite fulfillment on the back end, and do preflight testing before launch. This job wasn&#8217;t a success, but I&#8217;m adding it to my portfolio anyway because [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Fem Shred is a mobile-first ecommerce shop specializing in Women&#8217;s activewear with a social mission.  They contracted me to fix some responsive design issues, set up WooCommerce and the requisite fulfillment on the back end, and do preflight testing before launch.</p>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred-699x1024.jpeg" alt="" class="wp-image-4977" width="350" height="512" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred-699x1024.jpeg 699w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred-205x300.jpeg 205w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/FemShred.jpeg 750w" sizes="(max-width: 350px) 100vw, 350px" /></figure>
-
-
-
-<p>This job wasn&#8217;t a success, but I&#8217;m adding it to my portfolio anyway because the lessons here are important. My mistake was deciding against replacing their existing theme. I flinched at looking like I was trying to &#8216;upsell&#8217; a new theme without knowing it was needed. The client had already bought, installed and customized one from a previous designer. I didn&#8217;t know it by reputation but I&#8217;d been away from WordPress for a bit. It was popular, appropriately priced to have some reasonable expectations, and there was a seemingly active support forum, so I gave it and the designer the benefit of the doubt.</p>
-
-
-
-<p>This was one of those situations though where the legacy product continued to present issues. Unfortunately, poorly built themes that don’t adhere to WordPress dev standard practices and don’t perform well are common, and this was one.</p>
-
-
-
-<p>The lesson (re)learned for me here is I will (continue to) avoid working on themes of unknown origin when possible or at all involved. I was able to manage client expectations and salvage the relationship, but between theme issues, a web host that sure seemed like they were playing cacheing games as motivation for &#8220;premium support&#8221; sales, and the array of bait-and-switch upsells by WooCommerce vendors on the fulfillment end, the client decided to move to the Weebly platform. I can&#8217;t say I blame her, either.</p>
-
-
-
-<p>It does make me wonder how common this story is &#8211; a niche site owner gets fed up with the incremental monetization parts of the WordPress business. I know all the arguments against this criticism, and I agree; I&#8217;ve been the WordPress developer that struggles to make a living.</p>
-
-
-
-<p>Maybe the real lesson is there just is no one-size-fits-all, no matter what that theme shop is trying to sell.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://msouden.github.io/msouden.com/work/fem-shred/feed/</wfw:commentRss>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/fem-shred/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Small Contract Job</title>
-		<link>https://msouden.github.io/msouden.com/work/contract-work/</link>
-					<comments>https://msouden.github.io/msouden.com/work/contract-work/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/contract-work/</link>
+					<comments>https://msouden.github.io/msouden.com/contract-work/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Thu, 12 Jan 2023 00:35:46 +0000</pubDate>
@@ -118,31 +72,16 @@
 		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4939</guid>
 
 					<description><![CDATA[I a steady stream of this kind of quick work would be amazing: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>I a steady stream of this kind of quick work would be amazing:</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="730" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png" alt="" class="wp-image-4970" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-1024x730.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-300x214.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading-768x548.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/cw-genesis-script-loading.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way of handling JavaScript) was interfering with loading. All I did was know where and how how WordPress themes &amp; specifically Genesis loads scripts, and added this to the child them for proper loading. </p>
-
-
-
-<p>The client had the script ready to go, and they even helped wrap up the job. Perfect quick job and super professional, communicative, and educating client. I did this through a third party with rules around disclosure, so no identifying client info on this one.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://msouden.github.io/msouden.com/work/contract-work/feed/</wfw:commentRss>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/contract-work/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Excel Macro Land</title>
-		<link>https://msouden.github.io/msouden.com/work/excel-macro-land/</link>
-					<comments>https://msouden.github.io/msouden.com/work/excel-macro-land/#respond</comments>
+		<link>https://msouden.github.io/msouden.com/excel-macro-land/</link>
+					<comments>https://msouden.github.io/msouden.com/excel-macro-land/#respond</comments>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Mon, 29 Jun 2020 15:53:00 +0000</pubDate>
@@ -150,34 +89,15 @@
 		<guid isPermaLink="false">https://msouden.com/?p=4692</guid>
 
 					<description><![CDATA[I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;. I made a series [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;.</p>
-
-
-
-<p>I made a series of macros that processed varying kinds of text files received (usually) weekly from clients. The output was used by staff to verify active eligibility of benefits for members. The macros removed extraneous data, sorted, surfaced, and in some cases highlighted criteria for differing levels of benefit coverage, then output a formatted spreadsheet to the company shared filespace.</p>
-
-
-
-<p>I got it done, but I&#8217;d had never worked in VBA before (or since). Done properly, this would have been a pretty straightforward series of scripts. Instead, it got accomplished to a large extent using Excel&#8217;s recording tool (for roughly 70% of the code generated), and then (30%) cleaned up and enhanced with VBA I wrote (for file loading, some formatting, and smoothing out some of the recorded actions).</p>
-
-
-
-<p>Recording the macro actions did provide an unintended benefit though. When ran, team members watched a rapid-fire visual of the macro at work, which was impressive to the staff and got me some kudos as it &#8220;looked like magic&#8221;. </p>
-
-
-
-<p>Putting on my user interface hat for a minute, this is a pretty good example of when user interface becomes more important than efficiency. The team valued and used the macros in part because it was fun to watch it run. It&#8217;s entirely plausible that were the script just a black box of &#8220;put the file here&#8221; there would have been some adoption resistance from a few staff. Had this project been before I taught Information Design, it would have definitely made it into the lecture.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://msouden.github.io/msouden.com/work/excel-macro-land/feed/</wfw:commentRss>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/excel-macro-land/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Report Generation Automation</title>
-		<link>https://msouden.github.io/msouden.com/work/medical-insurance-reporting-automation/</link>
+		<link>https://msouden.github.io/msouden.com/medical-insurance-reporting-automation/</link>
 		
 		<dc:creator><![CDATA[msouden]]></dc:creator>
 		<pubDate>Tue, 14 Apr 2020 02:24:00 +0000</pubDate>
@@ -185,166 +105,7 @@
 		<guid isPermaLink="false">https://msouden.wordpress.com/?p=4608</guid>
 
 					<description><![CDATA[One segment of clients for a former employer included workers compensation insurers. For one particular client, the company aggregated and formatted specific data, and submitted it to an overseeing NGO-like entity on a quarterly basis on behalf of said client. This data (not covered under HIPAA requirements) is used for policy advancement and as some [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>One segment of clients for a former employer included workers compensation insurers. For one particular client, the company aggregated and formatted specific data, and submitted it to an overseeing NGO-like entity on a quarterly basis on behalf of said client. This data (not covered under HIPAA requirements) is used for policy advancement and as some part of meeting requirements for certification as a responsible partner in the industry. </p>
-
-
-
-<p>This task took multiple days every quarter for one Account Manager, and longer at year-end. It also required putting the data into an archaic machine-readable whitespace-delimited format for submission. This was something the company only did for this client, but automating it enabled offering it to others and the likelihood of gaining preferred vendor status with these as well.</p>
-
-
-
-<p>I wrote a python script that took in two files &#8211; a CSV of client data from the company&#8217;s CRM-like system, and a very large (client-supplied) text file of claims data. The script then ran comparisons matching claims, comparing procedures, claimants, claimant metadata, and other data, then output the required properly formatted and delimited data to an ACSII file. It also included robust error and anomaly logging for checks and verification.</p>
-
-
-
-<p>Stretching of my skillset, the script had to accommodate and verify against claimants with multiple claims and multiple (same) procedures, and be valid whether it be the same or a different claim. It also did some date and data formatting checks and adjustments.</p>
-
-
-
-<p>Sixty-two pieces of data were declared in the script (including column delineations). Fifteen data points were output to the final ASCII file per line, with up to 3 procedures per line. If the number of procedures exceeded this, a new line was added.</p>
-
-
-
-<p>I’m a bit proud to say the output file was validated and accepted on the first submission. This project was a good example of how my expectations of like a 12-24 line script ended up a robust and well commented 380 lines.</p>
-]]></content:encoded>
-					
 		
-		
-			</item>
-		<item>
-		<title>Job Onboarding Automation</title>
-		<link>https://msouden.github.io/msouden.com/work/job-onboarding-automation/</link>
-		
-		<dc:creator><![CDATA[msouden]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2020 05:17:00 +0000</pubDate>
-				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">https://msouden.wordpress.com/?p=4614</guid>
-
-					<description><![CDATA[This was a fun build. A case where my work clearly shaved at the very least an hour or two a day, was used by many, and had an elegance. One source of business for this company was through bidding on jobs at a private auction. Winning contracts were delivered on a standard PDF document [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>This was a fun build. A case where my work clearly shaved at the very least an hour or two a day, was used by many, and had an elegance. </p>
-
-
-
-<p>One source of business for this company was through bidding on jobs at a private auction. Winning contracts were delivered on a standard PDF document which was used to onboard the job &#8211; by keying the information into a form with over 40 fields. Anywhere from 4 to 12 of these a day would come in, and the company&#8217;s business with this auction was growing.</p>
-
-
-
-<p>Using regex, python, and a library that compiled the script into an executable, I made an &#8220;app&#8221;. It was actually just a desktop shortcut. Dragging the pdf to it opened a new browser tab, loaded the form page, &#8220;read&#8221; the document text, and auto-filled as many fields as available in the document (they were not always fully filled in by the auction house). Staff could then review it, add any notes on missing information, and submit it for processing.</p>
-
-
-
-<p>Someone said that RegEx is kind of like the Defense against the Dark Arts of programming. It&#8217;s powerful, but difficult. This is compounded when working with text in a pdf document. Its structure is a kind of black box of unreliable consistency. Those queries took a minute, and most look like this: </p>
-
-
-
-<pre class="wp-block-code"><code>regex.search(r'(?&lt;=Date Services Needed:.*)(?:\(&#91;2-9]\d{2}\)\ ?|&#91;2-9]\d{2}(?:\-?|\ ?))&#91;2-9]\d{2}&#91;- ]?\d{4}(?=.*Physician Information:)|$', text)</code></pre>
-
-
-
-<p>Would love to do that again for somebody. Contact me if you have this situation and are interested.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Patterns, Moire, and Glitch</title>
-		<link>https://msouden.github.io/msouden.com/work/patterns-moire-and-glitch/</link>
-		
-		<dc:creator><![CDATA[msouden]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2020 02:26:00 +0000</pubDate>
-				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">https://msouden.wordpress.com/?p=4465</guid>
-
-					<description><![CDATA[I was goofing around with vector shapes, it was 2018, and I had just seen the Black Panther movie with my daughter and a piece on the costume design. The PluginScore project and mobile development had introduced me to SVG images, and their strange world. So, I started playing around with different inconsistencies in elements, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>I was goofing around with vector shapes, it was 2018, and I had just seen the Black Panther movie with my daughter and a piece on the costume design. The PluginScore project and mobile development had introduced me to SVG images, and their strange world. </p>
-
-
-
-<p>So, I started playing around with different inconsistencies in elements, spacing, grouping, and orientation while scaling, and just seeing what happens.  Somewhat predictably (in hindsight), <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Moir%C3%A9_pattern" data-type="URL" data-id="https://en.wikipedia.org/wiki/Moir%C3%A9_pattern" target="_blank">moiré patterns</a> started showing up and were fun to play with in different configurations and scale. </p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1.png"><img decoding="async" width="1024" height="640" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-1024x640.png" alt="Zooming out for moire." class="wp-image-4812" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-1024x640.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-300x188.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1-768x480.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/05/moire_hex_1280-1.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Zooming out for moiré.</figcaption></figure>
-
-
-
-<p>I have don&#8217;t claim to be a graphic designer. This is about programmatically generating graphics and introducing inconsistencies in an attempt to generate something &#8220;organic&#8221; looking.</p>
-
-
-
-<p>If I ever revisit this, I&#8217;d like to rebuild it in P5.js and wrap a 3d object with it and see if I can tie the pattern generation mathematically to surface plane variation on the object. Just guessing, could it end up as like 1993 Pixar fur or scales with hexagons?</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The WooCommerce Shop</title>
-		<link>https://msouden.github.io/msouden.com/work/the-lost-woocommerce-shop/</link>
-					<comments>https://msouden.github.io/msouden.com/work/the-lost-woocommerce-shop/#respond</comments>
-		
-		<dc:creator><![CDATA[msouden]]></dc:creator>
-		<pubDate>Tue, 08 Oct 2019 18:19:00 +0000</pubDate>
-				<category><![CDATA[Work]]></category>
-		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=5018</guid>
-
-					<description><![CDATA[I wanted to get to know WooCommerce so my daughter and I made a shop. I take full responsibility for the visual abuse that is this logo animation. She chose the name of the site though, and I still have no idea what it means. This was a fun project. I set up an account [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>I wanted to get to know WooCommerce so my daughter and I made a shop. </p>
-
-
-<div>	<div id="applesaucelogo_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:500px;height:350px;overflow:hidden;">
-		<script type="text/javascript" charset="utf-8" src="https://msouden.github.io/msouden.com/wp-content/uploads/hypeanimations/3/ApplesauceLogo.hyperesources/applesaucelogo_hype_generated_script.js?4183"></script>
-	</div>
-</div>
-
-
-
-<p>I take full responsibility for the visual abuse that is this logo animation. She chose the name of the site though, and I still have no idea what it means.</p>
-
-
-
-<p>This was a fun project. I set up an account with Printful and we made a few hats, t-shirts, and posters. Version 1 got fully operational and we were about to go live with it, but I ended up shelving it kind of at the last minute. My kid had lost some interest, another job came along, and I had become just a little uncomfortable with the idea of selling wares that included some of her friends&#8217; artwork. There was at least some small possibility that it could go sideways. Between money being involved, other parents, and intellectual property law I didn&#8217;t want to dig into the paperwork for, it was a choice between trying to future-proof it or chickening out.</p>
-
-
-
-<p>Here are a few designs we did though:</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="448" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-1024x448.png" alt="" class="wp-image-5025" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-1024x448.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-300x131.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat-768x336.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/Low-profile-hat.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">A hat logo I&#8217;ve worn for years</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="872" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-1024x872.png" alt="" class="wp-image-5026" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-1024x872.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-300x255.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-768x654.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag-1536x1307.png 1536w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/back-tag.png 1632w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">a possible &#8220;back tag&#8221; (think outward-facing tag at the top) for shirts.</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="673" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1024x673.png" alt="" class="wp-image-5027" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1024x673.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-300x197.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-768x505.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-1536x1010.png 1536w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/bight-vegas-e1687284958739-2048x1347.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Star Wars reference! (possibly infringing?)</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace-768x1024.png" alt="" class="wp-image-5031" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace-768x1024.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace-225x300.png 225w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-grace.png 1080w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">I believe this was to be a poster.</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="816" height="694" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1.png" alt="" class="wp-image-5034" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1.png 816w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1-300x255.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-dog-1-768x653.png 768w" sizes="(max-width: 816px) 100vw, 816px" /><figcaption class="wp-element-caption">Poster and/or shirt? One of my favorite shots of my old dog. Needs some editing though.</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-768x1024.png" alt="" class="wp-image-5033" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-768x1024.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-225x300.png 225w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-1152x1536.png 1152w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/ussr-facebook-1536x2048.png 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Kids against fake news!</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="921" src="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png" alt="" class="wp-image-5032" srcset="https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1024x921.png 1024w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-300x270.png 300w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-768x691.png 768w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-1536x1382.png 1536w, https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/t-shirt-YES-007-e1687285087715-2048x1842.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Improv. </figcaption></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://msouden.github.io/msouden.com/work/the-lost-woocommerce-shop/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
