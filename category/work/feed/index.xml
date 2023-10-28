@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Work &#8211; Matthew Souden</title>
+	<atom:link href="https://msouden.github.io/msouden.com/category/work/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/</link>
+	<description>Portfolio +</description>
+	<lastBuildDate>Fri, 07 Jul 2023 03:02:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge-150x150.png</url>
+	<title>Work &#8211; Matthew Souden</title>
+	<link>https://msouden.github.io/msouden.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PaaS MVP (Platform as a Service Minimally Viable Product)</title>
+		<link>https://msouden.github.io/msouden.com/platform-as-a-service-minimally-viable-product-paas-mvp/</link>
+					<comments>https://msouden.github.io/msouden.com/platform-as-a-service-minimally-viable-product-paas-mvp/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 21:07:28 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4987</guid>
+
+					<description><![CDATA[This short contract job in 2022 was a kind of proof-of-concept. I&#8217;m under NDA about it, so no identifying information here &#8211; but there&#8217;s something to be said about WordPress&#8217;s path forward with this project. The project is a service provided via a hosted WP instance on client subdomains. It&#8217;s a pretty common niche market [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/platform-as-a-service-minimally-viable-product-paas-mvp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fem Shred</title>
+		<link>https://msouden.github.io/msouden.com/fem-shred/</link>
+					<comments>https://msouden.github.io/msouden.com/fem-shred/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 05:14:53 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4976</guid>
+
+					<description><![CDATA[Fem Shred is a mobile-first ecommerce shop specializing in Women&#8217;s activewear with a social mission. They contracted me to fix some responsive design issues, set up WooCommerce and the requisite fulfillment on the back end, and do preflight testing before launch. This job wasn&#8217;t a success, but I&#8217;m adding it to my portfolio anyway because [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/fem-shred/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Small Contract Job</title>
+		<link>https://msouden.github.io/msouden.com/contract-work/</link>
+					<comments>https://msouden.github.io/msouden.com/contract-work/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 00:35:46 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4939</guid>
+
+					<description><![CDATA[I a steady stream of this kind of quick work would be amazing: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/contract-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Excel Macro Land</title>
+		<link>https://msouden.github.io/msouden.com/excel-macro-land/</link>
+					<comments>https://msouden.github.io/msouden.com/excel-macro-land/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 15:53:00 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">https://msouden.com/?p=4692</guid>
+
+					<description><![CDATA[I&#8217;m adding this to my work portfolio being as I did it, it worked, and it functioned from all users&#8217; perspective perfectly and even impressively (more on that at the end). But this was really just a toe-dip into Visual Basic for Applications (VBA). I make no claim to &#8220;know VBA&#8221;. I made a series [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/excel-macro-land/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Report Generation Automation</title>
+		<link>https://msouden.github.io/msouden.com/medical-insurance-reporting-automation/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2020 02:24:00 +0000</pubDate>
+				<category><![CDATA[Work]]></category>
+		<guid isPermaLink="false">https://msouden.wordpress.com/?p=4608</guid>
+
+					<description><![CDATA[One segment of clients for a former employer included workers compensation insurers. For one particular client, the company aggregated and formatted specific data, and submitted it to an overseeing NGO-like entity on a quarterly basis on behalf of said client. This data (not covered under HIPAA requirements) is used for policy advancement and as some [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

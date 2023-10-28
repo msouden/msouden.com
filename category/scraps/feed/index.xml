@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scraps &#8211; Matthew Souden</title>
+	<atom:link href="https://msouden.github.io/msouden.com/category/scraps/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msouden.github.io/msouden.com/</link>
+	<description>Portfolio +</description>
+	<lastBuildDate>Fri, 07 Jul 2023 02:25:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://msouden.github.io/msouden.com/wp-content/uploads/2023/06/dog-badge-150x150.png</url>
+	<title>Scraps &#8211; Matthew Souden</title>
+	<link>https://msouden.github.io/msouden.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Old collection of web-based applications.</title>
+		<link>https://msouden.github.io/msouden.com/massive-collection-of-web-based-applications/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 02:25:17 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">http://msouden.com/matt/?p=25</guid>
+
+					<description><![CDATA[This was originally just a link I posted in 2007, but I got curious and dug the original list out of the wayback machine during this site refresh. I have no idea how many of these are still in existence, but cool list. Original Link: http://www.tzunami.com/No-More-Harddrive.php Enterprise CM Cloud]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SaaS, PaaS, and IaaS</title>
+		<link>https://msouden.github.io/msouden.com/saas-paas-and-iaas/</link>
+					<comments>https://msouden.github.io/msouden.com/saas-paas-and-iaas/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 18:44:27 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4995</guid>
+
+					<description><![CDATA[from Wikipedia: https://en.wikipedia.org/wiki/Platform_as_a_service#Types PaaS is derived from&#160;software as a service&#160;(SaaS),&#160;and is situated in cloud computing between SaaS and&#160;infrastructure as a service&#160;(IaaS). SaaS is software hosted in the cloud so that it does not take up hard drive space on the computers of users. IaaS provides virtual hardware from a provider with adjustable scalability. With IaaS, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/saas-paas-and-iaas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bookmark Dump</title>
+		<link>https://msouden.github.io/msouden.com/bookmark-dump/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 13:25:00 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">https://msouden.wordpress.com/?p=4603</guid>
+
+					<description><![CDATA[Cleaning up, and thought I&#8217;ll just throw these here. Likely has dead links. Definitely slightly embarrassing. Online shops Automated Tax Compliance Software &#8211; Avalara&#160; Hype LottieFiles &#8211; Free animation files build for Lottie, Bodymovin&#160; HypeDocks » Resources&#160; Monthly topics &#8211; Tumult Forums&#160; design 1944mustang color theme by nathaniel &#8211; Adobe Color CC&#160; Color Trends + [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mac Special Key Symbols</title>
+		<link>https://msouden.github.io/msouden.com/mac-special-key-symbols/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2013 18:28:16 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">http://msouden.com/?p=4388</guid>
+
+					<description><![CDATA[A table for referencing the unicode for special symbols to get fancy with the icons when theming. It&#8217;s liberated from : https://macbiblioblog.blogspot.com/2005/05/special-key-symbols.html Symbol Description Unicode Hex Reference ⎋ Escape U+238B ⇥ Tab forward U+21E5 ⇤ Tab back U+21E4 ⇪ Capslock U+21EA ⇧ Shift U+21E7 ⌃ Control U+2303 ⌥ Option (Alt, Alternative) U+2325  Apple symbol [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mary Meeks internet and mobile trends slideshow 2012</title>
+		<link>https://msouden.github.io/msouden.com/mary-meeks-internet-and-mobile-trends-slideshow-2012/</link>
+					<comments>https://msouden.github.io/msouden.com/mary-meeks-internet-and-mobile-trends-slideshow-2012/#respond</comments>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 17:10:28 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">http://roboist.thelabmix.com/?p=4362</guid>
+
+					<description><![CDATA[Here&#8217;s an insightful slideshow from an&#160;analyst at&#160;Kleiner Perkins on internet and mobile industry trends, ad revenue and penetration of markets. Worth clicking through to see where the trends and growth are. Also, TechCrunch has some good commentary on it here.KPCB Internet Trends 2012]]></description>
+		
+					<wfw:commentRss>https://msouden.github.io/msouden.com/mary-meeks-internet-and-mobile-trends-slideshow-2012/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
