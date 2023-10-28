@@ -5,7 +5,7 @@ Contributors: tumultinc, freeben
 Tags: Hype, Animation
 Requires at least: 5.0
 Requires PHP: 7.4
-Tested up to: 6.2
+Tested up to: 6.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -24,6 +24,10 @@ For detailed information and support for this plugin, please visit: https://foru
 3. After successful upload, the plugin will generate a shortcode you can use in posts and pages.
 
 == Changelog ==
+
+= 1.9.9 = 
+* Shows your server's php.ini upload_max_filesize, post_max_size and memory_limit limit in the upload modal
+* Handle exotic values provided by php.ini (e.g. 2M, 2.2G)
 
 = 1.9.8 = 
 * Upgrade to dropzone 5.9.3, remove unused code, improve management panel

@@ -5,21 +5,18 @@ Author: WP Engine
 Author URI: https://wpengine.com/
 Description: With its clean, minimal design and powerful feature set, Frost enables agencies to build stylish and sophisticated WordPress websites. Frost is a masterpiece of design and functionality. It features a range of valuable patterns, including hero and portfolio sections, prominent call-to-action buttons, and customer testimonials. Whether you’re building a website for your business, personal brand, or creative project, Frost is perfect for anyone looking to launch quickly and efficiently.
 Tags: block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, full-site-editing, one-column, template-editing, threaded-comments, translation-ready, wide-blocks
-Requires at least: 6.2
-Tested up to: 6.2
-Requires PHP: 5.6
-Version: 1.0.4
+Requires at least: 6.3
+Tested up to: 6.3
+Requires PHP: 7.0
+Version: 1.0.6
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: frost
-
-Frost WordPress Theme, (C) 2022-2023 WP Engine.
-Frost is distributed under the terms of the GNU GPL.
 */
 
 
 /* Defaults
----------------------------------------------------------------------------- */
+---------------------------------------- */
 
 *,
 *::before,
@@ -61,8 +58,7 @@ mark {
 	background-size: 100% 15%;
 }
 
-/* Forms
---------------------------------------------- */
+/* -- Forms -- */
 
 input,
 select,
@@ -107,10 +103,9 @@ textarea {
 }
 
 /* Blocks
----------------------------------------------------------------------------- */
+---------------------------------------- */
 
-/* Code
---------------------------------------------- */
+/* -- Code -- */
 
 *:not(.wp-block-code) > code {
 	background-color: var(--wp--preset--color--neutral);
@@ -118,42 +113,21 @@ textarea {
 	padding: 5px 8px;
 }
 
-/* Group
---------------------------------------------- */
-
-.wp-block-group.is-style-shadow-light {
-	box-shadow: var(--wp--preset--shadow--light);
-}
-
-.wp-block-group.is-style-shadow-solid {
-	box-shadow: var(--wp--preset--shadow--shadow);
-}
-
-/* Image
---------------------------------------------- */
-
-.wp-block-image.is-style-shadow-light img {
-	box-shadow: var(--wp--preset--shadow--light);
-}
-
-.wp-block-image.is-style-shadow-solid img {
-	box-shadow: var(--wp--preset--shadow--solid);
-}
-
-/* List
---------------------------------------------- */
+/* -- List -- */
 
 .is-style-no-disc {
 	list-style-type: none;
 	padding-left: 0;
 }
 
-/* Navigation
---------------------------------------------- */
+/* -- Navigation -- */
 
 .wp-block-navigation__responsive-container.is-menu-open {
-	padding-bottom: 30px;
-	padding-top: 30px
+	padding: var(--wp--custom--spacing--gap);
+}
+
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content {
+	padding-top: var(--wp--custom--spacing--gap);
 }
 
 .wp-block-navigation__responsive-container-close,
@@ -167,8 +141,7 @@ textarea {
 	color: var(--wp--preset--color--base);
 }
 
-/* Navigation Submenu
---------------------------------------------- */
+/* -- Navigation Submenu -- */
 
 .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
 	background-color: var(--wp--preset--color--contrast);
@@ -181,24 +154,22 @@ textarea {
 	padding: 2px 10px;
 }
 
-/* Quote
---------------------------------------------- */
-
-.wp-block-quote.is-style-shadow-light {
-	box-shadow: var(--wp--preset--shadow--light);
-}
-
-.wp-block-quote.is-style-shadow-solid {
-	box-shadow: var(--wp--preset--shadow--solid);
-}
-
 /* Media Queries
----------------------------------------------------------------------------- */
+---------------------------------------- */
+
+@media only screen and (max-width: 600px) {
+
+	/* -- Utility -- */
+
+	.is-style-hidden-mobile {
+		display: none !important;
+	}
+
+}
 
 @media only screen and (max-width: 782px) {
 
-	/* Columns
-	--------------------------------------------- */
+	/* -- Columns -- */
 
 	.is-style-columns-reverse {
 		flex-direction: column-reverse;
@@ -206,34 +177,13 @@ textarea {
 
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 600px) {
 
-	/* Navigation Link
-	--------------------------------------------- */
+	/* -- Navigation Link -- */
 
 	.wp-block-navigation-item.is-style-outline a {
 		border: 1px solid currentColor;
 		padding: 8px 15px;
 	}
 
-}
-/* Custom
---------------------------------------------- */
-.wp-block-site-title {
-	letter-spacing: .15rem;
-}
-
-h1.wp-block-post-title {
-	letter-spacing: .15rem;
-}
-
-h2.wp-block-post-title {
-	/* letter-spacing: .1rem; */
-	margin-top: 12px;
-	margin-bottom: 2px;
-}
-
-.wp-block-post-excerpt {
-	margin-top: 5px;
-	margin-bottom: 15px;
 }
