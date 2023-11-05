@@ -1,7 +1,10 @@
 #!/usr/bin/env php
 <br>
-<b>Fatal error</b>:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, null given in /Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php:70
-Stack trace:
-#0 /Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php(70): array_values(NULL)
-#1 {main}
-  thrown in <b>/Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php</b> on line <b>70</b><br>
+<font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5"><span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, null given in /Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php on line <i>70</i></th></tr>
+<tr><th align="left" bgcolor="#f57900" colspan="5"><span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> TypeError: array_values(): Argument #1 ($array) must be of type array, null given in /Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php on line <i>70</i></th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr><th align="center" bgcolor="#eeeeec">#</th><th align="left" bgcolor="#eeeeec">Time</th><th align="left" bgcolor="#eeeeec">Memory</th><th align="left" bgcolor="#eeeeec">Function</th><th align="left" bgcolor="#eeeeec">Location</th></tr>
+<tr><td bgcolor="#eeeeec" align="center">1</td><td bgcolor="#eeeeec" align="center">0.0029</td><td bgcolor="#eeeeec" align="right">365808</td><td bgcolor="#eeeeec">{main}(  )</td><td title="/Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php" bgcolor="#eeeeec">.../svg-scanner.php<b>:</b>0</td></tr>
+<tr><td bgcolor="#eeeeec" align="center">2</td><td bgcolor="#eeeeec" align="center">0.0032</td><td bgcolor="#eeeeec" align="right">366160</td><td bgcolor="#eeeeec"><a href="http://www.php.net/function.array-values" target="_new">array_values</a>( <span>$array = </span><span>NULL</span> )</td><td title="/Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/svg-support/vendor/enshrined/svg-sanitize/src/svg-scanner.php" bgcolor="#eeeeec">.../svg-scanner.php<b>:</b>70</td></tr>
+</table></font>

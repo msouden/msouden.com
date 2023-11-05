@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Cannot declare interface SessionUpdateTimestampHandlerInterface, because the name is already in use in <b>/Users/msouden/Local Sites/msouden/app/public/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php70/Resources/stubs/SessionUpdateTimestampHandlerInterface.php</b> on line <b>3</b><br>

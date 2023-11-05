@@ -12,7 +12,7 @@
 	<atom:link href="https://msouden.github.io/msouden.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://msouden.github.io/msouden.com/</link>
 	<description>Portfolio +</description>
-	<lastBuildDate>Fri, 07 Jul 2023 03:02:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2023 18:14:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cloud Cost Breakdown</title>
+		<link>https://msouden.github.io/msouden.com/cloud-cost-breakdown/</link>
+		
+		<dc:creator><![CDATA[msouden]]></dc:creator>
+		<pubDate>Sun, 05 Nov 2023 18:14:16 +0000</pubDate>
+				<category><![CDATA[Scraps]]></category>
+		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=5327</guid>
+
+					<description><![CDATA[Originally Published here. Cloud Costs Every Programmer Should Know Back of the napkin math to estimate what your deployments will cost as you&#8217;re building them. In 2002,&#160;Peter Norvig&#160;published a list of timings for common computer operations like reading from disk. Later, these were memorialized as&#160;latency numbers every programmer should know. In 2023, with cloud resources [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Old collection of web-based applications.</title>
 		<link>https://msouden.github.io/msouden.com/massive-collection-of-web-based-applications/</link>
 		
@@ -85,26 +99,9 @@
 				<category><![CDATA[Work]]></category>
 		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4939</guid>
 
-					<description><![CDATA[I a steady stream of this kind of quick work would be amazing: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way [&#8230;]]]></description>
+					<description><![CDATA[A steady stream of this kind of quick work would be great: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way of [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://msouden.github.io/msouden.com/contract-work/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Re: Trading</title>
-		<link>https://msouden.github.io/msouden.com/yes-i-traded-for-a-while/</link>
-					<comments>https://msouden.github.io/msouden.com/yes-i-traded-for-a-while/#respond</comments>
-		
-		<dc:creator><![CDATA[msouden]]></dc:creator>
-		<pubDate>Fri, 07 Oct 2022 07:49:00 +0000</pubDate>
-				<category><![CDATA[Et cetera]]></category>
-		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4880</guid>
-
-					<description><![CDATA[During the pandemic, I, too did a little trading. Only in the most conservative beginner way (no leverage, no futures). I&#8217;ve also since mostly moved away from it, but I spent some time learning a few things rooting around in the morass of grifters, thieves, cons, and vaporcoins. I didn&#8217;t go broke, so here are [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://msouden.github.io/msouden.com/yes-i-traded-for-a-while/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

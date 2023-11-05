@@ -12,7 +12,7 @@
 	<atom:link href="https://msouden.github.io/msouden.com/category/work/feed/" rel="self" type="application/rss+xml" />
 	<link>https://msouden.github.io/msouden.com/</link>
 	<description>Portfolio +</description>
-	<lastBuildDate>Fri, 07 Jul 2023 03:02:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Oct 2023 02:06:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -71,7 +71,7 @@
 				<category><![CDATA[Work]]></category>
 		<guid isPermaLink="false">https://msouden.github.io/msouden.com/?p=4939</guid>
 
-					<description><![CDATA[I a steady stream of this kind of quick work would be amazing: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way [&#8230;]]]></description>
+					<description><![CDATA[A steady stream of this kind of quick work would be great: I helped this financial services company sort some script loading issues. The graphs in the image above were not loading. The site architecture was set up such that posts load within posts and the Beaver Builder plugin (which has its own way of [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://msouden.github.io/msouden.com/contract-work/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
